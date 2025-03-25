@@ -1,0 +1,38 @@
+{
+  "total_results": 40,
+  "unique_posts": 40,
+  "results_by_subreddit": {
+    "Fishing": 24,
+    "Aquaculture": 6,
+    "CommercialFishing": 2,
+    "MarineBiology": 2,
+    "SupplyChain": 2,
+    "Seafood": 1,
+    "Maritime": 1,
+    "WorldNews": 1,
+    "Sustainability": 1
+  },
+  "results_by_keyword": {
+    "catch": 26,
+    "aquaculture": 6,
+    "commercial fishing, fishing boat": 2,
+    "fishing boat": 2,
+    "trawler, commercial fishing": 1,
+    "fishing vessel, catch, trawler, commercial fishing": 1,
+    "trawler": 1,
+    "processing plant": 1
+  },
+  "top_terms": {
+    "al faizal dry fish": 40
+  },
+  "date_range": {
+    "earliest": "2014-11-12 15:46:08",
+    "latest": "2025-03-24 09:45:54"
+  },
+  "engagement_stats": {
+    "avg_score": 45.775,
+    "avg_comments": 12.2,
+    "max_score": 445,
+    "max_comments": 71
+  }
+}

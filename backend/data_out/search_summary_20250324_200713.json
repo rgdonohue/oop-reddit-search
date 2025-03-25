@@ -1,0 +1,62 @@
+{
+  "total_results": 149,
+  "unique_posts": 146,
+  "results_by_subreddit": {
+    "investing": 63,
+    "Fishing": 23,
+    "environment": 17,
+    "business": 9,
+    "news": 8,
+    "sustainability": 7,
+    "science": 6,
+    "worldnews": 6,
+    "maritime": 6,
+    "technology": 4
+  },
+  "results_by_keyword": {
+    "none": 103,
+    "catch": 21,
+    "seafood": 3,
+    "landing": 3,
+    "fish oil": 2,
+    "commercial fishing": 2,
+    "fishmeal, fish oil": 2,
+    "fisheries, trawler": 2,
+    "fisheries": 2,
+    "fish oil, catch, processing plant": 1,
+    "fishmeal": 1,
+    "fish oil, catch, processing plant, fishing industry, marine harvest, seafood": 1,
+    "fishmeal, catch": 1,
+    "fishing industry": 1,
+    "commercial fishing, catch": 1,
+    "commercial vessel": 1,
+    "trawler": 1,
+    "processing plant": 1
+  },
+  "top_terms": {
+    "Akash Fishmeal & Fish Oil Private Limited": 88,
+    "Australian Fishmeal Company": 23,
+    "eos": 12,
+    "Huatai Pharma Inc": 9,
+    "austral group saa": 7,
+    "ger export sa": 6,
+    "NuBlend Pty Ltd": 1,
+    "andrea": 1,
+    "isabel": 1,
+    "pacific freezing company sac": 1
+  },
+  "date_range": {
+    "earliest": "2009-12-17 13:29:25",
+    "latest": "2025-02-07 06:40:55"
+  },
+  "engagement_stats": {
+    "avg_score": 181.90604026845637,
+    "avg_comments": 175.60402684563758,
+    "max_score": 4931,
+    "max_comments": 9743
+  },
+  "relevance_stats": {
+    "avg_relevance": 18.52131245339299,
+    "high_relevance_count": 45
+  }
+}

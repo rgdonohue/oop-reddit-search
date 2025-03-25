@@ -1,0 +1,51 @@
+2025-03-24 20:36:58,817 - INFO - Starting search process...
+2025-03-24 20:36:58,826 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 20:36:58,829 - INFO - Prepared search terms (sample size 10) - Plants: 10, Vessels: 10, Owners: 10
+2025-03-24 20:36:58,829 - INFO - Searching plants terms...
+2025-03-24 20:36:58,829 - INFO - Starting search with 10 unique terms
+2025-03-24 20:36:58,831 - INFO - Loaded 46 cached results
+2025-03-24 20:36:58,832 - INFO - Searching term 1/10: Proteins Australia Pty Ltd
+2025-03-24 20:37:00,837 - INFO - Searching term 2/10: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:37:02,921 - INFO - Searching term 3/10: NuBlend Pty Ltd
+2025-03-24 20:37:04,982 - INFO - Searching term 4/10: CSF Proteins Pty Ltd
+2025-03-24 20:37:07,013 - INFO - Searching term 5/10: Mundo Branco S. A.
+2025-03-24 20:37:09,019 - INFO - Searching term 6/10: BHP Impex Canada
+2025-03-24 20:37:11,020 - INFO - Searching term 7/10: Abideen And Company
+2025-03-24 20:37:13,022 - INFO - Searching term 8/10: Australian Fishmeal Company
+2025-03-24 20:37:15,080 - INFO - Searching term 9/10: Huatai Pharma Inc
+2025-03-24 20:37:17,085 - INFO - Searching term 10/10: Comeau
+2025-03-24 20:37:17,086 - INFO - Completed 10/10 terms
+2025-03-24 20:37:19,094 - INFO - Found 121 results for plants
+2025-03-24 20:37:19,095 - INFO - Searching vessels terms...
+2025-03-24 20:37:19,095 - INFO - Starting search with 9 unique terms
+2025-03-24 20:37:19,097 - INFO - Loaded 47 cached results
+2025-03-24 20:37:19,097 - INFO - Searching term 1/9: ciudad blanca
+2025-03-24 20:37:21,098 - INFO - Searching term 2/9: cabo blanco
+2025-03-24 20:37:23,103 - INFO - Searching term 3/9: aguila real
+2025-03-24 20:37:25,235 - INFO - Searching term 4/9: andrea
+2025-03-24 20:37:27,247 - INFO - Searching term 5/9: isabel
+2025-03-24 20:37:29,258 - INFO - Searching term 6/9: ana maria
+2025-03-24 20:37:31,262 - INFO - Searching term 7/9: aurita
+2025-03-24 20:37:33,268 - INFO - Searching term 8/9: quicktime
+2025-03-24 20:37:35,269 - INFO - Searching term 9/9: estela de oro ii
+2025-03-24 20:37:37,363 - INFO - Found 2 results for vessels
+2025-03-24 20:37:37,364 - INFO - Searching owners terms...
+2025-03-24 20:37:37,364 - INFO - Starting search with 10 unique terms
+2025-03-24 20:37:37,369 - INFO - Loaded 47 cached results
+2025-03-24 20:37:37,369 - INFO - Searching term 1/10: grupo sindicato pesquero del peru sa
+2025-03-24 20:37:39,560 - INFO - Searching term 2/10: armadores y congeladores del pacifico sa
+2025-03-24 20:37:41,740 - INFO - Searching term 3/10: corporacion pesquera inca sac
+2025-03-24 20:37:43,852 - INFO - Searching term 4/10: agropesca sa
+2025-03-24 20:37:45,857 - INFO - Searching term 5/10: consorc corpesca dexim srltda
+2025-03-24 20:37:47,857 - INFO - Searching term 6/10: inversiones quiaza sac
+2025-03-24 20:37:49,891 - INFO - Searching term 7/10: ger export sa
+2025-03-24 20:37:51,897 - INFO - Searching term 8/10: austral group saa
+2025-03-24 20:37:53,947 - INFO - Searching term 9/10: pacific freezing company sac
+2025-03-24 20:37:56,198 - INFO - Searching term 10/10: industrial pesquera santa monica sa
+2025-03-24 20:37:56,198 - INFO - Completed 10/10 terms
+2025-03-24 20:37:58,203 - INFO - Found 14 results for owners
+2025-03-24 20:37:58,208 - INFO - Saved 137 results to data_out/search_results_20250324_203658.csv
+2025-03-24 20:37:58,211 - INFO - Saved summary to data_out/search_summary_20250324_203658.json
+2025-03-24 20:37:58,213 - INFO - Organized results saved to data_out/organized_results_20250324_203658.json
+2025-03-24 20:37:58,213 - INFO - Search process completed successfully
+2025-03-24 20:37:58,213 - INFO - Process finished

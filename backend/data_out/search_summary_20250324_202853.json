@@ -1,0 +1,68 @@
+{
+  "total_results": 242,
+  "unique_posts": 242,
+  "results_by_subreddit": {
+    "maritime": 65,
+    "worldnews": 43,
+    "science": 20,
+    "environment": 19,
+    "investing": 19,
+    "Fishing": 18,
+    "sustainability": 18,
+    "business": 13,
+    "news": 11,
+    "ocean": 6,
+    "technology": 5,
+    "shipping": 5
+  },
+  "results_by_keyword": {
+    "none": 62,
+    "fishing boat": 35,
+    "fishing vessel": 33,
+    "catch": 26,
+    "commercial fishing": 14,
+    "fish oil": 13,
+    "fishing fleet": 13,
+    "fishing industry": 11,
+    "trawler": 6,
+    "seafood": 4,
+    "industrial fishing": 3,
+    "catch, fishing industry": 2,
+    "fishing industry, seafood": 2,
+    "fisheries": 2,
+    "commercial fishing, fishing vessel": 2,
+    "fish processing": 1,
+    "trawler, commercial fishing, seafood, fisheries, fishing vessel": 1,
+    "commercial vessel": 1,
+    "marine harvest, fishing company": 1,
+    "industrial fishing, fishing boat": 1,
+    "catch, fishing boat": 1,
+    "fish oil, processing plant, marine harvest, catch, fishing industry, seafood": 1,
+    "trawler, catch": 1,
+    "catch, fishing fleet": 1,
+    "catch, fisheries": 1,
+    "catch, seafood": 1,
+    "commercial fishing, fishing boat, fishing vessel": 1,
+    "fish meal, fish oil": 1,
+    "commercial fishing, fishing boat": 1
+  },
+  "top_terms": {
+    "fish": 231,
+    "brim": 10,
+    "fasa": 1
+  },
+  "date_range": {
+    "earliest": "2008-06-02 21:36:52",
+    "latest": "2025-03-24 08:29:11"
+  },
+  "engagement_stats": {
+    "avg_score": 3272.5123966942147,
+    "avg_comments": 239.70661157024793,
+    "max_score": 56591,
+    "max_comments": 3845
+  },
+  "relevance_stats": {
+    "avg_relevance": 36.4755999244916,
+    "high_relevance_count": 61
+  }
+}

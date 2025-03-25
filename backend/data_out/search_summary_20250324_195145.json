@@ -1,0 +1,31 @@
+{
+  "total_results": 4,
+  "unique_posts": 4,
+  "results_by_subreddit": {
+    "science": 2,
+    "environment": 2
+  },
+  "results_by_keyword": {
+    "fishmeal": 2,
+    "fish meal, fish oil": 1,
+    "fish meal, fish oil, aquaculture": 1
+  },
+  "top_terms": {
+    "apitoon fish meal": 2,
+    "ambitious fishmeal product": 2
+  },
+  "date_range": {
+    "earliest": "2021-11-27 09:58:19",
+    "latest": "2023-03-10 04:01:01"
+  },
+  "engagement_stats": {
+    "avg_score": 1222.25,
+    "avg_comments": 148.0,
+    "max_score": 4800,
+    "max_comments": 579
+  },
+  "relevance_stats": {
+    "avg_relevance": 55.97333333333333,
+    "high_relevance_count": 1
+  }
+}

@@ -1,0 +1,80 @@
+2025-03-24 20:44:01,413 - INFO - Starting search process...
+2025-03-24 20:44:01,423 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 20:44:01,426 - INFO - Prepared search terms (sample size 10) - Plants: 10, Vessels: 10, Owners: 10
+2025-03-24 20:44:01,426 - INFO - Searching plants terms...
+2025-03-24 20:44:01,426 - INFO - Starting search with 10 unique terms
+2025-03-24 20:44:01,430 - INFO - Loaded 48 cached results
+2025-03-24 20:44:01,430 - INFO - Searching term 1/10: Huatai Pharma Inc
+2025-03-24 20:44:01,430 - INFO - Searching for term: Huatai Pharma Inc
+2025-03-24 20:44:03,443 - INFO - Searching term 2/10: BHP Impex Canada
+2025-03-24 20:44:03,443 - INFO - Searching for term: BHP Impex Canada
+2025-03-24 20:44:05,452 - INFO - Searching term 3/10: Comeau
+2025-03-24 20:44:05,453 - INFO - Searching for term: Comeau
+2025-03-24 20:44:07,454 - INFO - Searching term 4/10: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:44:07,454 - INFO - Searching for term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:44:09,456 - INFO - Searching term 5/10: CSF Proteins Pty Ltd
+2025-03-24 20:44:09,456 - INFO - Searching for term: CSF Proteins Pty Ltd
+2025-03-24 20:44:11,460 - INFO - Searching term 6/10: NuBlend Pty Ltd
+2025-03-24 20:44:11,461 - INFO - Searching for term: NuBlend Pty Ltd
+2025-03-24 20:44:13,462 - INFO - Searching term 7/10: Proteins Australia Pty Ltd
+2025-03-24 20:44:13,462 - INFO - Searching for term: Proteins Australia Pty Ltd
+2025-03-24 20:44:15,467 - INFO - Searching term 8/10: Abideen And Company
+2025-03-24 20:44:15,467 - INFO - Searching for term: Abideen And Company
+2025-03-24 20:44:17,467 - INFO - Searching term 9/10: Australian Fishmeal Company
+2025-03-24 20:44:17,467 - INFO - Searching for term: Australian Fishmeal Company
+2025-03-24 20:44:19,470 - INFO - Searching term 10/10: Mundo Branco S. A.
+2025-03-24 20:44:19,470 - INFO - Searching for term: Mundo Branco S. A.
+2025-03-24 20:44:19,471 - INFO - Completed 10/10 terms
+2025-03-24 20:44:21,651 - INFO - Found 121 results for plants
+2025-03-24 20:44:21,651 - INFO - Searching vessels terms...
+2025-03-24 20:44:21,651 - INFO - Starting search with 9 unique terms
+2025-03-24 20:44:21,744 - INFO - Loaded 48 cached results
+2025-03-24 20:44:21,744 - INFO - Searching term 1/9: cabo blanco
+2025-03-24 20:44:21,744 - INFO - Searching for term: cabo blanco
+2025-03-24 20:44:23,750 - INFO - Searching term 2/9: isabel
+2025-03-24 20:44:23,750 - INFO - Searching for term: isabel
+2025-03-24 20:44:25,755 - INFO - Searching term 3/9: estela de oro ii
+2025-03-24 20:44:25,756 - INFO - Searching for term: estela de oro ii
+2025-03-24 20:44:27,763 - INFO - Searching term 4/9: andrea
+2025-03-24 20:44:27,763 - INFO - Searching for term: andrea
+2025-03-24 20:44:29,764 - INFO - Searching term 5/9: ciudad blanca
+2025-03-24 20:44:29,765 - INFO - Searching for term: ciudad blanca
+2025-03-24 20:44:31,776 - INFO - Searching term 6/9: aguila real
+2025-03-24 20:44:31,777 - INFO - Searching for term: aguila real
+2025-03-24 20:44:33,778 - INFO - Searching term 7/9: aurita
+2025-03-24 20:44:33,778 - INFO - Searching for term: aurita
+2025-03-24 20:44:35,779 - INFO - Searching term 8/9: ana maria
+2025-03-24 20:44:35,779 - INFO - Searching for term: ana maria
+2025-03-24 20:44:37,781 - INFO - Searching term 9/9: quicktime
+2025-03-24 20:44:37,781 - INFO - Searching for term: quicktime
+2025-03-24 20:44:39,786 - INFO - Found 2 results for vessels
+2025-03-24 20:44:39,786 - INFO - Searching owners terms...
+2025-03-24 20:44:39,786 - INFO - Starting search with 10 unique terms
+2025-03-24 20:44:39,789 - INFO - Loaded 48 cached results
+2025-03-24 20:44:39,789 - INFO - Searching term 1/10: pacific freezing company sac
+2025-03-24 20:44:39,789 - INFO - Searching for term: pacific freezing company sac
+2025-03-24 20:44:41,791 - INFO - Searching term 2/10: armadores y congeladores del pacifico sa
+2025-03-24 20:44:41,791 - INFO - Searching for term: armadores y congeladores del pacifico sa
+2025-03-24 20:44:43,792 - INFO - Searching term 3/10: consorc corpesca dexim srltda
+2025-03-24 20:44:43,793 - INFO - Searching for term: consorc corpesca dexim srltda
+2025-03-24 20:44:45,805 - INFO - Searching term 4/10: agropesca sa
+2025-03-24 20:44:45,816 - INFO - Searching for term: agropesca sa
+2025-03-24 20:44:47,823 - INFO - Searching term 5/10: corporacion pesquera inca sac
+2025-03-24 20:44:47,823 - INFO - Searching for term: corporacion pesquera inca sac
+2025-03-24 20:44:49,825 - INFO - Searching term 6/10: ger export sa
+2025-03-24 20:44:49,826 - INFO - Searching for term: ger export sa
+2025-03-24 20:44:51,834 - INFO - Searching term 7/10: grupo sindicato pesquero del peru sa
+2025-03-24 20:44:51,843 - INFO - Searching for term: grupo sindicato pesquero del peru sa
+2025-03-24 20:44:53,850 - INFO - Searching term 8/10: inversiones quiaza sac
+2025-03-24 20:44:53,854 - INFO - Searching for term: inversiones quiaza sac
+2025-03-24 20:44:55,877 - INFO - Searching term 9/10: industrial pesquera santa monica sa
+2025-03-24 20:44:55,932 - INFO - Searching for term: industrial pesquera santa monica sa
+2025-03-24 20:44:57,934 - INFO - Searching term 10/10: austral group saa
+2025-03-24 20:44:57,935 - INFO - Searching for term: austral group saa
+2025-03-24 20:44:57,935 - INFO - Completed 10/10 terms
+2025-03-24 20:44:59,944 - INFO - Found 14 results for owners
+2025-03-24 20:44:59,956 - INFO - Saved 137 results to data_out/search_results_20250324_204401.csv
+2025-03-24 20:44:59,963 - INFO - Saved summary to data_out/search_summary_20250324_204401.json
+2025-03-24 20:44:59,966 - INFO - Organized results saved to data_out/organized_results_20250324_204401.json
+2025-03-24 20:44:59,966 - INFO - Search process completed successfully
+2025-03-24 20:44:59,966 - INFO - Process finished

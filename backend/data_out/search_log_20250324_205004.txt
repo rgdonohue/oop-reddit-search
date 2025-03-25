@@ -1,0 +1,248 @@
+2025-03-24 20:50:04,236 - INFO - Starting search process...
+2025-03-24 20:50:04,244 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 20:50:04,247 - INFO - Prepared search terms (sample size 10) - Plants: 10, Vessels: 10, Owners: 10
+2025-03-24 20:50:04,247 - INFO - Searching plants terms...
+2025-03-24 20:50:04,247 - INFO - Starting search with 10 unique terms
+2025-03-24 20:50:04,250 - INFO - Loaded 48 cached results
+2025-03-24 20:50:04,250 - INFO - Searching term 1/10: Proteins Australia Pty Ltd
+2025-03-24 20:50:04,250 - INFO - Searching for term: Proteins Australia Pty Ltd
+2025-03-24 20:50:04,250 - DEBUG - Cache hit for term: Proteins Australia Pty Ltd
+2025-03-24 20:50:06,255 - INFO - Searching term 2/10: Mundo Branco S. A.
+2025-03-24 20:50:06,255 - INFO - Searching for term: Mundo Branco S. A.
+2025-03-24 20:50:06,256 - DEBUG - Cache hit for term: Mundo Branco S. A.
+2025-03-24 20:50:08,257 - INFO - Searching term 3/10: Australian Fishmeal Company
+2025-03-24 20:50:08,257 - INFO - Searching for term: Australian Fishmeal Company
+2025-03-24 20:50:08,257 - DEBUG - Cache hit for term: Australian Fishmeal Company
+2025-03-24 20:50:10,265 - INFO - Searching term 4/10: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:50:10,266 - INFO - Searching for term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:50:10,270 - DEBUG - Cache hit for term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:50:12,274 - INFO - Searching term 5/10: BHP Impex Canada
+2025-03-24 20:50:12,275 - INFO - Searching for term: BHP Impex Canada
+2025-03-24 20:50:12,275 - DEBUG - Cache hit for term: BHP Impex Canada
+2025-03-24 20:50:14,297 - INFO - Searching term 6/10: CSF Proteins Pty Ltd
+2025-03-24 20:50:14,343 - INFO - Searching for term: CSF Proteins Pty Ltd
+2025-03-24 20:50:14,360 - DEBUG - Cache hit for term: CSF Proteins Pty Ltd
+2025-03-24 20:50:16,364 - INFO - Searching term 7/10: NuBlend Pty Ltd
+2025-03-24 20:50:16,364 - INFO - Searching for term: NuBlend Pty Ltd
+2025-03-24 20:50:16,364 - DEBUG - Cache hit for term: NuBlend Pty Ltd
+2025-03-24 20:50:18,369 - INFO - Searching term 8/10: Comeau
+2025-03-24 20:50:18,370 - INFO - Searching for term: Comeau
+2025-03-24 20:50:18,370 - DEBUG - Cache hit for term: Comeau
+2025-03-24 20:50:20,375 - INFO - Searching term 9/10: Huatai Pharma Inc
+2025-03-24 20:50:20,375 - INFO - Searching for term: Huatai Pharma Inc
+2025-03-24 20:50:20,375 - DEBUG - Cache hit for term: Huatai Pharma Inc
+2025-03-24 20:50:22,383 - INFO - Searching term 10/10: Abideen And Company
+2025-03-24 20:50:22,388 - INFO - Searching for term: Abideen And Company
+2025-03-24 20:50:22,388 - DEBUG - Cache hit for term: Abideen And Company
+2025-03-24 20:50:22,388 - INFO - Completed 10/10 terms
+2025-03-24 20:50:24,537 - INFO - Found 121 results for plants
+2025-03-24 20:50:24,537 - INFO - Searching vessels terms...
+2025-03-24 20:50:24,538 - INFO - Starting search with 9 unique terms
+2025-03-24 20:50:24,540 - INFO - Loaded 48 cached results
+2025-03-24 20:50:24,540 - INFO - Searching term 1/9: estela de oro ii
+2025-03-24 20:50:24,540 - INFO - Searching for term: estela de oro ii
+2025-03-24 20:50:24,540 - DEBUG - Cache hit for term: estela de oro ii
+2025-03-24 20:50:26,542 - INFO - Searching term 2/9: aurita
+2025-03-24 20:50:26,543 - INFO - Searching for term: aurita
+2025-03-24 20:50:26,543 - DEBUG - Cache hit for term: aurita
+2025-03-24 20:50:28,544 - INFO - Searching term 3/9: aguila real
+2025-03-24 20:50:28,544 - INFO - Searching for term: aguila real
+2025-03-24 20:50:28,544 - DEBUG - Cache hit for term: aguila real
+2025-03-24 20:50:30,544 - INFO - Searching term 4/9: ana maria
+2025-03-24 20:50:30,545 - INFO - Searching for term: ana maria
+2025-03-24 20:50:30,545 - DEBUG - Cache hit for term: ana maria
+2025-03-24 20:50:32,547 - INFO - Searching term 5/9: andrea
+2025-03-24 20:50:32,547 - INFO - Searching for term: andrea
+2025-03-24 20:50:32,547 - DEBUG - Cache hit for term: andrea
+2025-03-24 20:50:34,550 - INFO - Searching term 6/9: cabo blanco
+2025-03-24 20:50:34,550 - INFO - Searching for term: cabo blanco
+2025-03-24 20:50:34,550 - DEBUG - Cache hit for term: cabo blanco
+2025-03-24 20:50:36,553 - INFO - Searching term 7/9: quicktime
+2025-03-24 20:50:36,554 - INFO - Searching for term: quicktime
+2025-03-24 20:50:36,554 - DEBUG - Cache hit for term: quicktime
+2025-03-24 20:50:38,559 - INFO - Searching term 8/9: ciudad blanca
+2025-03-24 20:50:38,560 - INFO - Searching for term: ciudad blanca
+2025-03-24 20:50:38,560 - DEBUG - Cache hit for term: ciudad blanca
+2025-03-24 20:50:40,563 - INFO - Searching term 9/9: isabel
+2025-03-24 20:50:40,564 - INFO - Searching for term: isabel
+2025-03-24 20:50:40,564 - DEBUG - Cache hit for term: isabel
+2025-03-24 20:50:42,568 - INFO - Found 2 results for vessels
+2025-03-24 20:50:42,568 - INFO - Searching owners terms...
+2025-03-24 20:50:42,568 - INFO - Starting search with 10 unique terms
+2025-03-24 20:50:42,573 - INFO - Loaded 48 cached results
+2025-03-24 20:50:42,573 - INFO - Searching term 1/10: industrial pesquera santa monica sa
+2025-03-24 20:50:42,573 - INFO - Searching for term: industrial pesquera santa monica sa
+2025-03-24 20:50:42,573 - DEBUG - Cache hit for term: industrial pesquera santa monica sa
+2025-03-24 20:50:44,575 - INFO - Searching term 2/10: ger export sa
+2025-03-24 20:50:44,575 - INFO - Searching for term: ger export sa
+2025-03-24 20:50:44,575 - DEBUG - Cache hit for term: ger export sa
+2025-03-24 20:50:46,579 - INFO - Searching term 3/10: pacific freezing company sac
+2025-03-24 20:50:46,579 - INFO - Searching for term: pacific freezing company sac
+2025-03-24 20:50:46,579 - DEBUG - Cache hit for term: pacific freezing company sac
+2025-03-24 20:50:48,581 - INFO - Searching term 4/10: austral group saa
+2025-03-24 20:50:48,581 - INFO - Searching for term: austral group saa
+2025-03-24 20:50:48,581 - DEBUG - Cache hit for term: austral group saa
+2025-03-24 20:50:50,582 - INFO - Searching term 5/10: corporacion pesquera inca sac
+2025-03-24 20:50:50,582 - INFO - Searching for term: corporacion pesquera inca sac
+2025-03-24 20:50:50,582 - DEBUG - Cache hit for term: corporacion pesquera inca sac
+2025-03-24 20:50:52,585 - INFO - Searching term 6/10: grupo sindicato pesquero del peru sa
+2025-03-24 20:50:52,585 - INFO - Searching for term: grupo sindicato pesquero del peru sa
+2025-03-24 20:50:52,586 - DEBUG - Cache hit for term: grupo sindicato pesquero del peru sa
+2025-03-24 20:50:54,591 - INFO - Searching term 7/10: armadores y congeladores del pacifico sa
+2025-03-24 20:50:54,591 - INFO - Searching for term: armadores y congeladores del pacifico sa
+2025-03-24 20:50:54,591 - DEBUG - Cache hit for term: armadores y congeladores del pacifico sa
+2025-03-24 20:50:56,592 - INFO - Searching term 8/10: inversiones quiaza sac
+2025-03-24 20:50:56,592 - INFO - Searching for term: inversiones quiaza sac
+2025-03-24 20:50:56,592 - DEBUG - Cache hit for term: inversiones quiaza sac
+2025-03-24 20:50:58,597 - INFO - Searching term 9/10: agropesca sa
+2025-03-24 20:50:58,598 - INFO - Searching for term: agropesca sa
+2025-03-24 20:50:58,598 - DEBUG - Cache hit for term: agropesca sa
+2025-03-24 20:51:00,601 - INFO - Searching term 10/10: consorc corpesca dexim srltda
+2025-03-24 20:51:00,601 - INFO - Searching for term: consorc corpesca dexim srltda
+2025-03-24 20:51:00,601 - DEBUG - Cache hit for term: consorc corpesca dexim srltda
+2025-03-24 20:51:00,601 - INFO - Completed 10/10 terms
+2025-03-24 20:51:02,668 - INFO - Found 14 results for owners
+2025-03-24 20:51:02,686 - INFO - Snippet statistics: 136/137 empty snippets
+2025-03-24 20:51:02,686 - INFO - Average snippet length: 0.82 characters
+2025-03-24 20:51:02,694 - INFO - Saved 137 results to data_out/search_results_20250324_205004.csv
+2025-03-24 20:51:02,697 - INFO - Saved summary to data_out/search_summary_20250324_205004.json
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 1dm3fok with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: stmv0q with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: jt3kgm with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: de5rfs with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: v6dxm with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: afva3 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: r3hmya with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 3gcjtt with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: u4a6g with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 124w4jr with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 17xg92p with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 1ik3xp with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: qrtkox with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: vmi9g with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 1ijv825 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: ni2sjd with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 1l5i9l with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: a34hjl with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 1gfto9a with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 11xnthr with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: v7afrq with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: v5inj with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: ji0hxs with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: irhabh with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 820afk with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: rdxug with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: 1gndcix with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,698 - DEBUG - Empty snippet for post ID: g9bz9f with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: fge7ve with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 20x264 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 22avgg with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 21wlwc with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 21arpx with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 21kt0d with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 8rjay1 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 1qwuci with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 1dtv7di with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 1ebfpa4 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 1e95t6f with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 16vhd65 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 1dpr50j with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 1p41qj with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 137j2kz with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: lr1raa with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 158gbh4 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 153jlk2 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: abicrb with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: k49m6h with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: mm9ppe with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: hp9966 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: oexebw with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: tth665 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: 7g3o40 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: m599as with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: lpedyn with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,699 - DEBUG - Empty snippet for post ID: lkldt4 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: khzinq with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: lkb6sd with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: 7won9d with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: 8w4tvr with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: b8xkdg with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: aohq6i with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: 6hpncv with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: b89z94 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: 5p68q1 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: les1qa with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: 4siodl with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,701 - DEBUG - Empty snippet for post ID: powm0f with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: 54n3qe with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: njenoc with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: 1ssjfe with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: dolxx1 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: l5jgrd with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: r0lobg with search term: NuBlend Pty Ltd
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: pmtymj with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,702 - DEBUG - Empty snippet for post ID: 9kgefn with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 27s7ey with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: nybxac with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: fgzool with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: k1z2jh with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: kxpe3y with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 98k4ku with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 4bcred with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 6296uv with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: lnkylr with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 8y6lbt with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: a7dbyx with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 9l24hr with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: 1rbyt9 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,703 - DEBUG - Empty snippet for post ID: jktdsc with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: jic82x with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 58r5om with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: bwdibo with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 8cznkn with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 58bzqw with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 4r7zor with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: i8zjn0 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 3giahv with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: ccbtfk with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 5rwh0b with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 24hoov with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 1jwes8 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 6a8d6k with search term: Huatai Pharma Inc
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: hlkrwz with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 6yny1x with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 1ojkfg with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 37luu6 with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 68ydgt with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 6aobac with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,704 - DEBUG - Empty snippet for post ID: 8e30yd with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,714 - DEBUG - Empty snippet for post ID: 42r3in with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,736 - DEBUG - Empty snippet for post ID: 28j3di with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,737 - DEBUG - Empty snippet for post ID: g9n4ob with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,742 - DEBUG - Empty snippet for post ID: 2ws2de with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,765 - DEBUG - Empty snippet for post ID: atibzw with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,766 - DEBUG - Empty snippet for post ID: 4rkkca with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,781 - DEBUG - Empty snippet for post ID: 7l36kf with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,781 - DEBUG - Empty snippet for post ID: 8rzvf9 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,781 - DEBUG - Empty snippet for post ID: 197380 with search term: Australian Fishmeal Company
+2025-03-24 20:51:02,781 - DEBUG - Empty snippet for post ID: 370bij with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,781 - DEBUG - Empty snippet for post ID: 1cv8st with search term: Akash Fishmeal & Fish Oil Private Limited
+2025-03-24 20:51:02,781 - DEBUG - Empty snippet for post ID: iir88 with search term: isabel
+2025-03-24 20:51:02,782 - DEBUG - Empty snippet for post ID: mc095v with search term: austral group saa
+2025-03-24 20:51:02,782 - DEBUG - Empty snippet for post ID: kfuc0v with search term: austral group saa
+2025-03-24 20:51:02,782 - DEBUG - Empty snippet for post ID: 1ig7kkb with search term: ger export sa
+2025-03-24 20:51:02,783 - DEBUG - Empty snippet for post ID: 137j2kz with search term: ger export sa
+2025-03-24 20:51:02,783 - DEBUG - Empty snippet for post ID: lbzmoi with search term: austral group saa
+2025-03-24 20:51:02,783 - DEBUG - Empty snippet for post ID: p6qxx8 with search term: austral group saa
+2025-03-24 20:51:02,787 - DEBUG - Empty snippet for post ID: lc0rzo with search term: austral group saa
+2025-03-24 20:51:02,787 - DEBUG - Empty snippet for post ID: lcs7hd with search term: pacific freezing company sac
+2025-03-24 20:51:02,787 - DEBUG - Empty snippet for post ID: 6d5fu8 with search term: ger export sa
+2025-03-24 20:51:02,787 - DEBUG - Empty snippet for post ID: 5p68q1 with search term: ger export sa
+2025-03-24 20:51:02,799 - DEBUG - Empty snippet for post ID: 45w3bg with search term: ger export sa
+2025-03-24 20:51:02,819 - DEBUG - Empty snippet for post ID: bo04cu with search term: ger export sa
+2025-03-24 20:51:02,819 - DEBUG - Empty snippet for post ID: 93rji3 with search term: austral group saa
+2025-03-24 20:51:02,820 - DEBUG - Empty snippet for post ID: 2cth8h with search term: austral group saa
+2025-03-24 20:51:02,820 - INFO - Organized results: 136/137 empty snippets (99.3% if total_rows > 0)
+2025-03-24 20:51:02,823 - INFO - Organized results saved to data_out/organized_results_20250324_205004.json
+2025-03-24 20:51:02,823 - INFO - Search process completed successfully
+2025-03-24 20:51:02,823 - INFO - Process finished

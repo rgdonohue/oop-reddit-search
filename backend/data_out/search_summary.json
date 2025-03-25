@@ -1,0 +1,53 @@
+{
+  "total_results": 150,
+  "unique_posts": 150,
+  "results_by_subreddit": {
+    "Fishing": 58,
+    "CommercialFishing": 18,
+    "SupplyChain": 16,
+    "Aquaculture": 10,
+    "Business": 10,
+    "Oceans": 8,
+    "MarineBiology": 8,
+    "Sustainability": 7,
+    "News": 6,
+    "Seafood": 5,
+    "Maritime": 3,
+    "WorldNews": 1
+  },
+  "results_by_keyword": {
+    "catch": 88,
+    "aquaculture": 13,
+    "landing": 11,
+    "processing plant": 8,
+    "commercial fishing": 8,
+    "fishing boat": 4,
+    "catch, commercial fishing": 4,
+    "fishing boat, commercial fishing": 2,
+    "aquaculture, catch": 2,
+    "commercial fishing, seafood processing": 1,
+    "fish meal, catch, commercial fishing": 1,
+    "trawler, fishing vessel, catch, commercial fishing": 1,
+    "catch, landing": 1,
+    "trawler": 1,
+    "trawler, fishing vessel, commercial fishing": 1,
+    "industrial fishing": 1,
+    "seafood processing": 1,
+    "trawler, catch": 1,
+    "catch, processing plant": 1
+  },
+  "top_terms": {
+    "pacific natural foods s a c": 84,
+    "new zealand king salmon": 66
+  },
+  "date_range": {
+    "earliest": "2011-05-03 09:02:07",
+    "latest": "2025-03-23 11:44:24"
+  },
+  "engagement_stats": {
+    "avg_score": 120.23333333333333,
+    "avg_comments": 201.08,
+    "max_score": 1768,
+    "max_comments": 10292
+  }
+}

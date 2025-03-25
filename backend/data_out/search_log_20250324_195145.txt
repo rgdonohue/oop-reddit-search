@@ -1,0 +1,227 @@
+2025-03-24 19:51:45,353 - INFO - Starting search process...
+2025-03-24 19:51:45,359 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 19:51:45,362 - INFO - Processed 0/1149 rows from Company name
+2025-03-24 19:51:45,362 - INFO - Starting preprocessing of 2016 terms...
+2025-03-24 19:51:45,362 - INFO - Normalized 0/2016 terms...
+2025-03-24 19:51:45,362 - INFO - Normalized 500/2016 terms...
+2025-03-24 19:51:45,362 - INFO - Normalized 1000/2016 terms...
+2025-03-24 19:51:45,362 - INFO - Normalized 1500/2016 terms...
+2025-03-24 19:51:45,363 - INFO - Normalized 2000/2016 terms...
+2025-03-24 19:51:45,363 - INFO - Removed 0 exact duplicates
+2025-03-24 19:51:45,385 - INFO - Deduplication progress: 200/2016 terms...
+2025-03-24 19:51:45,764 - INFO - Deduplication progress: 400/2016 terms...
+2025-03-24 19:51:45,951 - INFO - Deduplication progress: 600/2016 terms...
+2025-03-24 19:51:46,084 - INFO - Deduplication progress: 800/2016 terms...
+2025-03-24 19:51:46,277 - INFO - Deduplication progress: 1000/2016 terms...
+2025-03-24 19:51:46,495 - INFO - Deduplication progress: 1200/2016 terms...
+2025-03-24 19:51:47,111 - INFO - Deduplication progress: 1400/2016 terms...
+2025-03-24 19:51:47,400 - INFO - Deduplication progress: 1600/2016 terms...
+2025-03-24 19:51:47,593 - INFO - Deduplication progress: 1800/2016 terms...
+2025-03-24 19:51:47,660 - INFO - Deduplication progress: 2000/2016 terms...
+2025-03-24 19:51:47,660 - INFO - Preprocessed 2016 terms to 1368 unique terms
+2025-03-24 19:51:47,662 - INFO - Processed 0/1260 rows from Vessel Name
+2025-03-24 19:51:47,663 - INFO - Starting preprocessing of 2227 terms...
+2025-03-24 19:51:47,663 - INFO - Normalized 0/2227 terms...
+2025-03-24 19:51:47,663 - INFO - Normalized 500/2227 terms...
+2025-03-24 19:51:47,663 - INFO - Normalized 1000/2227 terms...
+2025-03-24 19:51:47,663 - INFO - Normalized 1500/2227 terms...
+2025-03-24 19:51:47,663 - INFO - Normalized 2000/2227 terms...
+2025-03-24 19:51:47,663 - INFO - Removed 0 exact duplicates
+2025-03-24 19:51:47,687 - INFO - Deduplication progress: 200/2227 terms...
+2025-03-24 19:51:47,736 - INFO - Deduplication progress: 400/2227 terms...
+2025-03-24 19:51:47,802 - INFO - Deduplication progress: 600/2227 terms...
+2025-03-24 19:51:47,892 - INFO - Deduplication progress: 800/2227 terms...
+2025-03-24 19:51:48,391 - INFO - Deduplication progress: 1000/2227 terms...
+2025-03-24 19:51:48,540 - INFO - Deduplication progress: 1200/2227 terms...
+2025-03-24 19:51:48,681 - INFO - Deduplication progress: 1400/2227 terms...
+2025-03-24 19:51:48,834 - INFO - Deduplication progress: 1600/2227 terms...
+2025-03-24 19:51:49,022 - INFO - Deduplication progress: 1800/2227 terms...
+2025-03-24 19:51:49,597 - INFO - Deduplication progress: 2000/2227 terms...
+2025-03-24 19:51:49,793 - INFO - Deduplication progress: 2200/2227 terms...
+2025-03-24 19:51:49,793 - INFO - Preprocessed 2227 terms to 974 unique terms
+2025-03-24 19:51:49,795 - INFO - Processed 0/1260 rows from Owner Name
+2025-03-24 19:51:49,796 - INFO - Starting preprocessing of 618 terms...
+2025-03-24 19:51:49,796 - INFO - Normalized 0/618 terms...
+2025-03-24 19:51:49,796 - INFO - Normalized 500/618 terms...
+2025-03-24 19:51:49,796 - INFO - Removed 0 exact duplicates
+2025-03-24 19:51:49,833 - INFO - Deduplication progress: 200/618 terms...
+2025-03-24 19:51:49,905 - INFO - Deduplication progress: 400/618 terms...
+2025-03-24 19:51:49,924 - INFO - Deduplication progress: 600/618 terms...
+2025-03-24 19:51:49,924 - INFO - Preprocessed 618 terms to 439 unique terms
+2025-03-24 19:51:49,925 - INFO - Prepared search terms - Plants: 1368, Vessels: 974, Owners: 439
+2025-03-24 19:51:49,925 - INFO - Starting Reddit searches...
+2025-03-24 19:51:49,925 - INFO - Searching plants terms...
+2025-03-24 19:51:49,926 - INFO - Starting search with 1366 unique terms
+2025-03-24 19:51:49,926 - INFO - Loaded 3 completed terms and 6 results
+2025-03-24 19:51:49,928 - INFO - Resuming search with 1365 remaining terms
+2025-03-24 19:51:50,131 - INFO - Successfully obtained new Reddit API token
+2025-03-24 19:52:05,293 - WARNING - Subreddit worldeconomics validation failed: 403
+2025-03-24 19:52:08,208 - INFO - Valid subreddits: technology, Economics, science, business, worldnews, sustainability, investing, Fishing, environment, aquaculture, news, shipping, industry, MarineScience, maritime, IndustrialFishing, ocean
+2025-03-24 19:52:08,220 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,293 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,294 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,295 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,295 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,295 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,296 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,296 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,297 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,297 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,297 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,298 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,298 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,299 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,299 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,319 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,336 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,352 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,369 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,376 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,385 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,403 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,415 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,415 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,416 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,416 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,417 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,417 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,418 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,418 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,418 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,419 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,419 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,420 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,420 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,421 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,421 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,422 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,422 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,423 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,423 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,423 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,424 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,424 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,425 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,425 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,426 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,426 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,427 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,427 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,428 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,428 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,428 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,429 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,429 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,430 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,430 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,431 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,431 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,431 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,432 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,432 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,433 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,444 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,445 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,447 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,447 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,451 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,451 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:08,460 - INFO - Found 4 results for plants
+2025-03-24 19:52:08,460 - INFO - Searching vessels terms...
+2025-03-24 19:52:08,460 - INFO - Starting search with 961 unique terms
+2025-03-24 19:52:08,461 - INFO - Loaded 3 completed terms and 6 results
+2025-03-24 19:52:08,462 - INFO - Resuming search with 961 remaining terms
+2025-03-24 19:52:08,662 - INFO - Successfully obtained new Reddit API token
+2025-03-24 19:52:24,197 - WARNING - Subreddit worldeconomics validation failed: 403
+2025-03-24 19:52:27,108 - INFO - Valid subreddits: technology, Economics, science, business, worldnews, sustainability, investing, Fishing, environment, aquaculture, news, shipping, industry, MarineScience, maritime, IndustrialFishing, ocean
+2025-03-24 19:52:27,125 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,138 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,139 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,139 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,140 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,140 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,141 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,141 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,141 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,142 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,142 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,143 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,143 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,144 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,144 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,145 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,145 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,145 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,146 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,147 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,147 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,147 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,148 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,148 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,149 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,149 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,150 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,150 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,151 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,151 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,152 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,152 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,153 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,153 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,153 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,154 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,154 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,155 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,156 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,175 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,176 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,177 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,178 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,181 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,182 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,183 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,183 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,184 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,184 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:27,190 - INFO - Found 4 results for vessels
+2025-03-24 19:52:27,190 - INFO - Searching owners terms...
+2025-03-24 19:52:27,190 - INFO - Starting search with 439 unique terms
+2025-03-24 19:52:27,193 - INFO - Loaded 3 completed terms and 6 results
+2025-03-24 19:52:27,194 - INFO - Resuming search with 439 remaining terms
+2025-03-24 19:52:27,380 - INFO - Successfully obtained new Reddit API token
+2025-03-24 19:52:42,790 - WARNING - Subreddit worldeconomics validation failed: 403
+2025-03-24 19:52:45,667 - INFO - Valid subreddits: technology, Economics, science, business, worldnews, sustainability, investing, Fishing, environment, aquaculture, news, shipping, industry, MarineScience, maritime, IndustrialFishing, ocean
+2025-03-24 19:52:45,668 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,668 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,668 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,669 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,669 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,669 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,670 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,670 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,671 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,671 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,672 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,672 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,672 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,673 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,673 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,673 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,674 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,674 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,675 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,675 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,675 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,676 - ERROR - Error processing batch: Passing coroutines is forbidden, use tasks explicitly.
+2025-03-24 19:52:45,677 - INFO - Found 4 results for owners
+2025-03-24 19:52:45,683 - INFO - Saved 4 results to data_out/search_results_20250324_195145.csv
+2025-03-24 19:52:45,685 - INFO - Saved summary to data_out/search_summary_20250324_195145.json
+2025-03-24 19:52:45,688 - ERROR - Error organizing search results: 'apitoon fish meal'
+Traceback (most recent call last):
+  File "/Users/vealligator/Desktop/oop-reddit-search/backend/search-openai-3.py", line 998, in organize_search_results
+    target = organized_data["vessel_keywords"][keyword]["mentions"]
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: 'apitoon fish meal'
+2025-03-24 19:52:45,694 - INFO - Organized results saved to data_out/organized_results_20250324_195145.json
+2025-03-24 19:52:45,694 - INFO - Search process completed successfully
+2025-03-24 19:52:45,694 - INFO - Process finished

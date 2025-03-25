@@ -1,0 +1,76 @@
+2025-03-24 20:02:56,989 - INFO - Starting search process...
+2025-03-24 20:02:56,998 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 20:02:56,999 - INFO - Prepared search terms - Plants: 1018, Vessels: 1193, Owners: 320
+2025-03-24 20:02:56,999 - INFO - Searching plants terms...
+2025-03-24 20:02:57,127 - INFO - Searching term 1/1018: Proteins Australia Pty Ltd
+2025-03-24 20:03:08,598 - ERROR - Error searching worldeconomics for query 'Proteins Australia Pty Ltd': received 403 HTTP response
+2025-03-24 20:03:08,724 - ERROR - Error searching worldeconomics for query '"Proteins Australia Pty Ltd"': received 403 HTTP response
+2025-03-24 20:03:09,015 - ERROR - Error searching worldeconomics for query 'Proteins Australia Pty Ltd (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:03:09,186 - ERROR - Error searching worldeconomics for query 'title:Proteins Australia Pty Ltd': received 403 HTTP response
+2025-03-24 20:03:09,270 - ERROR - Error searching IndustrialFishing for query 'Proteins Australia Pty Ltd': Redirect to /subreddits/search
+2025-03-24 20:03:09,351 - ERROR - Error searching IndustrialFishing for query '"Proteins Australia Pty Ltd"': Redirect to /subreddits/search
+2025-03-24 20:03:09,436 - ERROR - Error searching IndustrialFishing for query 'Proteins Australia Pty Ltd (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:03:09,519 - ERROR - Error searching IndustrialFishing for query 'title:Proteins Australia Pty Ltd': Redirect to /subreddits/search
+2025-03-24 20:03:10,219 - INFO - Saved 1 results to cache
+2025-03-24 20:03:12,241 - INFO - Searching term 2/1018: BHP Impex Canada
+2025-03-24 20:03:23,733 - ERROR - Error searching worldeconomics for query 'BHP Impex Canada': received 403 HTTP response
+2025-03-24 20:03:23,849 - ERROR - Error searching worldeconomics for query '"BHP Impex Canada"': received 403 HTTP response
+2025-03-24 20:03:23,969 - ERROR - Error searching worldeconomics for query 'BHP Impex Canada (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:03:24,087 - ERROR - Error searching worldeconomics for query 'title:BHP Impex Canada': received 403 HTTP response
+2025-03-24 20:03:24,362 - ERROR - Error searching IndustrialFishing for query 'BHP Impex Canada': Redirect to /subreddits/search
+2025-03-24 20:03:24,475 - ERROR - Error searching IndustrialFishing for query '"BHP Impex Canada"': Redirect to /subreddits/search
+2025-03-24 20:03:24,561 - ERROR - Error searching IndustrialFishing for query 'BHP Impex Canada (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:03:24,645 - ERROR - Error searching IndustrialFishing for query 'title:BHP Impex Canada': Redirect to /subreddits/search
+2025-03-24 20:03:25,421 - INFO - Saved 2 results to cache
+2025-03-24 20:03:27,425 - INFO - Searching term 3/1018: Abideen And Company
+2025-03-24 20:03:39,336 - ERROR - Error searching worldeconomics for query 'Abideen And Company': received 403 HTTP response
+2025-03-24 20:03:39,461 - ERROR - Error searching worldeconomics for query '"Abideen And Company"': received 403 HTTP response
+2025-03-24 20:03:39,577 - ERROR - Error searching worldeconomics for query 'Abideen And Company (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:03:39,699 - ERROR - Error searching worldeconomics for query 'title:Abideen And Company': received 403 HTTP response
+2025-03-24 20:03:39,791 - ERROR - Error searching IndustrialFishing for query 'Abideen And Company': Redirect to /subreddits/search
+2025-03-24 20:03:39,878 - ERROR - Error searching IndustrialFishing for query '"Abideen And Company"': Redirect to /subreddits/search
+2025-03-24 20:03:39,962 - ERROR - Error searching IndustrialFishing for query 'Abideen And Company (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:03:40,054 - ERROR - Error searching IndustrialFishing for query 'title:Abideen And Company': Redirect to /subreddits/search
+2025-03-24 20:03:40,862 - INFO - Saved 3 results to cache
+2025-03-24 20:03:42,865 - INFO - Searching term 4/1018: Mundo Branco S. A.
+2025-03-24 20:03:55,557 - ERROR - Error searching worldeconomics for query 'Mundo Branco S. A.': received 403 HTTP response
+2025-03-24 20:03:55,674 - ERROR - Error searching worldeconomics for query '"Mundo Branco S. A."': received 403 HTTP response
+2025-03-24 20:03:55,797 - ERROR - Error searching worldeconomics for query 'Mundo Branco S. A. (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:03:55,922 - ERROR - Error searching worldeconomics for query 'title:Mundo Branco S. A.': received 403 HTTP response
+2025-03-24 20:03:56,012 - ERROR - Error searching IndustrialFishing for query 'Mundo Branco S. A.': Redirect to /subreddits/search
+2025-03-24 20:03:56,095 - ERROR - Error searching IndustrialFishing for query '"Mundo Branco S. A."': Redirect to /subreddits/search
+2025-03-24 20:03:56,179 - ERROR - Error searching IndustrialFishing for query 'Mundo Branco S. A. (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:03:56,276 - ERROR - Error searching IndustrialFishing for query 'title:Mundo Branco S. A.': Redirect to /subreddits/search
+2025-03-24 20:03:57,012 - INFO - Saved 4 results to cache
+2025-03-24 20:03:59,014 - INFO - Searching term 5/1018: Australian Fishmeal Company
+2025-03-24 20:04:15,980 - ERROR - Error searching worldeconomics for query 'Australian Fishmeal Company': received 403 HTTP response
+2025-03-24 20:04:16,346 - ERROR - Error searching worldeconomics for query '"Australian Fishmeal Company"': received 403 HTTP response
+2025-03-24 20:04:16,464 - ERROR - Error searching worldeconomics for query 'Australian Fishmeal Company (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:04:16,575 - ERROR - Error searching worldeconomics for query 'title:Australian Fishmeal Company': received 403 HTTP response
+2025-03-24 20:04:16,660 - ERROR - Error searching IndustrialFishing for query 'Australian Fishmeal Company': Redirect to /subreddits/search
+2025-03-24 20:04:16,750 - ERROR - Error searching IndustrialFishing for query '"Australian Fishmeal Company"': Redirect to /subreddits/search
+2025-03-24 20:04:16,838 - ERROR - Error searching IndustrialFishing for query 'Australian Fishmeal Company (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:04:16,926 - ERROR - Error searching IndustrialFishing for query 'title:Australian Fishmeal Company': Redirect to /subreddits/search
+2025-03-24 20:04:17,810 - ERROR - Error searching term 'Australian Fishmeal Company': 'matched_keywords'
+2025-03-24 20:04:17,811 - INFO - Searching term 6/1018: NuBlend Pty Ltd
+2025-03-24 20:04:30,389 - ERROR - Error searching worldeconomics for query 'NuBlend Pty Ltd': received 403 HTTP response
+2025-03-24 20:04:30,504 - ERROR - Error searching worldeconomics for query '"NuBlend Pty Ltd"': received 403 HTTP response
+2025-03-24 20:04:30,622 - ERROR - Error searching worldeconomics for query 'NuBlend Pty Ltd (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:04:30,883 - ERROR - Error searching worldeconomics for query 'title:NuBlend Pty Ltd': received 403 HTTP response
+2025-03-24 20:04:31,019 - ERROR - Error searching IndustrialFishing for query 'NuBlend Pty Ltd': Redirect to /subreddits/search
+2025-03-24 20:04:31,115 - ERROR - Error searching IndustrialFishing for query '"NuBlend Pty Ltd"': Redirect to /subreddits/search
+2025-03-24 20:04:31,202 - ERROR - Error searching IndustrialFishing for query 'NuBlend Pty Ltd (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:04:31,291 - ERROR - Error searching IndustrialFishing for query 'title:NuBlend Pty Ltd': Redirect to /subreddits/search
+2025-03-24 20:04:31,924 - ERROR - Error searching term 'NuBlend Pty Ltd': 'matched_keywords'
+2025-03-24 20:04:31,924 - INFO - Searching term 7/1018: Huatai Pharma Inc
+2025-03-24 20:04:56,286 - ERROR - Error searching worldeconomics for query 'Huatai Pharma Inc': received 403 HTTP response
+2025-03-24 20:04:56,491 - ERROR - Error searching worldeconomics for query '"Huatai Pharma Inc"': received 403 HTTP response
+2025-03-24 20:04:57,221 - ERROR - Error searching worldeconomics for query 'Huatai Pharma Inc (fishing OR vessel OR boat)': received 403 HTTP response
+2025-03-24 20:04:57,686 - ERROR - Error searching worldeconomics for query 'title:Huatai Pharma Inc': received 403 HTTP response
+2025-03-24 20:04:58,587 - ERROR - Error searching IndustrialFishing for query 'Huatai Pharma Inc': Redirect to /subreddits/search
+2025-03-24 20:04:59,079 - ERROR - Error searching IndustrialFishing for query '"Huatai Pharma Inc"': Redirect to /subreddits/search
+2025-03-24 20:04:59,162 - ERROR - Error searching IndustrialFishing for query 'Huatai Pharma Inc (fishing OR vessel OR boat)': Redirect to /subreddits/search
+2025-03-24 20:04:59,966 - ERROR - Error searching IndustrialFishing for query 'title:Huatai Pharma Inc': Redirect to /subreddits/search
+2025-03-24 20:05:02,316 - ERROR - Error searching term 'Huatai Pharma Inc': 'matched_keywords'
+2025-03-24 20:05:02,317 - INFO - Searching term 8/1018: Comeau
+2025-03-24 20:05:09,442 - INFO - Process finished

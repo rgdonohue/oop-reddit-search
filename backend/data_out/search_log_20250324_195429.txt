@@ -1,0 +1,411 @@
+2025-03-24 19:54:29,677 - INFO - Starting search process...
+2025-03-24 19:54:29,684 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 19:54:29,686 - INFO - Processed 0/1149 rows from Company name
+2025-03-24 19:54:29,687 - INFO - Starting preprocessing of 2016 terms...
+2025-03-24 19:54:29,687 - INFO - Normalized 0/2016 terms...
+2025-03-24 19:54:29,687 - INFO - Normalized 500/2016 terms...
+2025-03-24 19:54:29,687 - INFO - Normalized 1000/2016 terms...
+2025-03-24 19:54:29,687 - INFO - Normalized 1500/2016 terms...
+2025-03-24 19:54:29,687 - INFO - Normalized 2000/2016 terms...
+2025-03-24 19:54:29,687 - INFO - Removed 0 exact duplicates
+2025-03-24 19:54:29,710 - INFO - Deduplication progress: 200/2016 terms...
+2025-03-24 19:54:29,761 - INFO - Deduplication progress: 400/2016 terms...
+2025-03-24 19:54:29,845 - INFO - Deduplication progress: 600/2016 terms...
+2025-03-24 19:54:29,974 - INFO - Deduplication progress: 800/2016 terms...
+2025-03-24 19:54:30,619 - INFO - Deduplication progress: 1000/2016 terms...
+2025-03-24 19:54:30,839 - INFO - Deduplication progress: 1200/2016 terms...
+2025-03-24 19:54:31,091 - INFO - Deduplication progress: 1400/2016 terms...
+2025-03-24 19:54:31,696 - INFO - Deduplication progress: 1600/2016 terms...
+2025-03-24 19:54:31,969 - INFO - Deduplication progress: 1800/2016 terms...
+2025-03-24 19:54:32,041 - INFO - Deduplication progress: 2000/2016 terms...
+2025-03-24 19:54:32,041 - INFO - Preprocessed 2016 terms to 1368 unique terms
+2025-03-24 19:54:32,043 - INFO - Processed 0/1260 rows from Vessel Name
+2025-03-24 19:54:32,044 - INFO - Starting preprocessing of 2227 terms...
+2025-03-24 19:54:32,044 - INFO - Normalized 0/2227 terms...
+2025-03-24 19:54:32,044 - INFO - Normalized 500/2227 terms...
+2025-03-24 19:54:32,044 - INFO - Normalized 1000/2227 terms...
+2025-03-24 19:54:32,044 - INFO - Normalized 1500/2227 terms...
+2025-03-24 19:54:32,044 - INFO - Normalized 2000/2227 terms...
+2025-03-24 19:54:32,044 - INFO - Removed 0 exact duplicates
+2025-03-24 19:54:32,068 - INFO - Deduplication progress: 200/2227 terms...
+2025-03-24 19:54:32,116 - INFO - Deduplication progress: 400/2227 terms...
+2025-03-24 19:54:32,178 - INFO - Deduplication progress: 600/2227 terms...
+2025-03-24 19:54:32,266 - INFO - Deduplication progress: 800/2227 terms...
+2025-03-24 19:54:32,369 - INFO - Deduplication progress: 1000/2227 terms...
+2025-03-24 19:54:32,491 - INFO - Deduplication progress: 1200/2227 terms...
+2025-03-24 19:54:33,032 - INFO - Deduplication progress: 1400/2227 terms...
+2025-03-24 19:54:33,210 - INFO - Deduplication progress: 1600/2227 terms...
+2025-03-24 19:54:33,395 - INFO - Deduplication progress: 1800/2227 terms...
+2025-03-24 19:54:33,597 - INFO - Deduplication progress: 2000/2227 terms...
+2025-03-24 19:54:33,777 - INFO - Deduplication progress: 2200/2227 terms...
+2025-03-24 19:54:33,777 - INFO - Preprocessed 2227 terms to 974 unique terms
+2025-03-24 19:54:33,778 - INFO - Processed 0/1260 rows from Owner Name
+2025-03-24 19:54:33,779 - INFO - Starting preprocessing of 618 terms...
+2025-03-24 19:54:33,779 - INFO - Normalized 0/618 terms...
+2025-03-24 19:54:33,780 - INFO - Normalized 500/618 terms...
+2025-03-24 19:54:33,780 - INFO - Removed 0 exact duplicates
+2025-03-24 19:54:33,818 - INFO - Deduplication progress: 200/618 terms...
+2025-03-24 19:54:34,228 - INFO - Deduplication progress: 400/618 terms...
+2025-03-24 19:54:34,317 - INFO - Deduplication progress: 600/618 terms...
+2025-03-24 19:54:34,317 - INFO - Preprocessed 618 terms to 439 unique terms
+2025-03-24 19:54:34,317 - INFO - Prepared search terms - Plants: 1368, Vessels: 974, Owners: 439
+2025-03-24 19:54:34,319 - INFO - Starting Reddit searches...
+2025-03-24 19:54:34,319 - INFO - Searching plants terms...
+2025-03-24 19:54:34,319 - INFO - Starting search with 1366 unique terms
+2025-03-24 19:54:34,321 - INFO - Loaded 3 completed terms and 6 results
+2025-03-24 19:54:34,324 - INFO - Resuming search with 1366 remaining terms
+2025-03-24 19:54:34,495 - INFO - Successfully obtained new Reddit API token
+2025-03-24 19:54:49,939 - WARNING - Subreddit worldeconomics validation failed: 403
+2025-03-24 19:54:52,799 - INFO - Valid subreddits: maritime, worldnews, business, Fishing, news, technology, MarineScience, industry, environment, ocean, sustainability, science, Economics, aquaculture, shipping, IndustrialFishing, investing
+2025-03-24 19:55:16,451 - WARNING - Rate limited. Waiting 60 seconds
+2025-03-24 19:55:16,452 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,490 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,530 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,531 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,553 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,566 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,568 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,604 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,607 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,625 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,640 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,644 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,676 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,676 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,698 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,714 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,724 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,771 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,772 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,772 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,794 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,804 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,867 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,867 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,883 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,884 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:16,885 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,072 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,073 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,073 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,073 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,073 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,158 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,160 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,162 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,162 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,162 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,235 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,238 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,241 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,242 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,242 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,310 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,312 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,314 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,315 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,317 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,382 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,385 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,392 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,392 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,392 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,457 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,458 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,461 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,471 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,473 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,532 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,532 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,535 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,550 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,550 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,606 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,606 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:17,626 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:55:29,959 - ERROR - Search error for science - "industrial pesquera heras de": 
+2025-03-24 19:55:29,960 - ERROR - Search error for environment - Seadragon Marine Oils Limited (seafood OR processing OR fishery): 
+2025-03-24 19:55:29,960 - ERROR - Search error for Economics - "King Pelagique": 
+2025-03-24 19:55:29,960 - ERROR - Search error for sustainability - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:29,960 - ERROR - Search error for environment - "lunar fpr ltd": 
+2025-03-24 19:55:29,960 - ERROR - Search error for ocean - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:29,960 - ERROR - Search error for IndustrialFishing - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:29,960 - ERROR - Search error for industry - "lunar fpr ltd": 
+2025-03-24 19:55:29,960 - ERROR - Search error for ocean - "sahel proteine": 
+2025-03-24 19:55:29,960 - ERROR - Search error for science - Kantang Fishmeal Industry Part Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:29,960 - ERROR - Search error for environment - Ch Daudruy Van Cauwenberghe (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:30,959 - ERROR - Search error for shipping - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:30,960 - ERROR - Search error for news - Rongcheng Rixin Aquatic Products Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:30,960 - ERROR - Search error for Fishing - lunar fpr ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:30,960 - ERROR - Search error for shipping - title:sahel proteine: 
+2025-03-24 19:55:30,960 - ERROR - Search error for shipping - Qingdao Kangjing Marine Biotechnology Co Ltd (seafood OR processing OR fishery): 
+2025-03-24 19:55:30,960 - ERROR - Search error for science - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:30,960 - ERROR - Search error for environment - "Kantang Fishmeal Industry Part Ltd": 
+2025-03-24 19:55:30,960 - ERROR - Search error for MarineScience - Jaimar Enterprises (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:30,960 - ERROR - Search error for industry - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:30,961 - ERROR - Search error for maritime - "janatha fish meal oil products": 
+2025-03-24 19:55:30,961 - ERROR - Search error for maritime - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:30,961 - ERROR - Search error for industry - Jaimar Enterprises (seafood OR processing OR fishery): 
+2025-03-24 19:55:30,961 - ERROR - Search error for industry - "HKA Bawa Sons": 
+2025-03-24 19:55:31,961 - ERROR - Search error for Economics - "lunar fpr ltd": 
+2025-03-24 19:55:31,967 - ERROR - Search error for environment - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:31,967 - ERROR - Search error for technology - "Kantang Fishmeal Industry Part Ltd": 
+2025-03-24 19:55:31,967 - ERROR - Search error for maritime - title:Seadragon Marine Oils Limited: 
+2025-03-24 19:55:31,967 - ERROR - Search error for sustainability - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:31,968 - ERROR - Search error for Fishing - "Jaimar Enterprises": 
+2025-03-24 19:55:31,968 - ERROR - Search error for environment - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:31,968 - ERROR - Search error for worldnews - "lunar fpr ltd": 
+2025-03-24 19:55:31,968 - ERROR - Search error for science - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:31,968 - ERROR - Search error for investing - "IDI Corporation": 
+2025-03-24 19:55:31,968 - ERROR - Search error for aquaculture - "sahel proteine": 
+2025-03-24 19:55:32,976 - ERROR - Search error for worldnews - King Pelagique (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:32,976 - ERROR - Search error for Economics - "Sucobma Co Ltd": 
+2025-03-24 19:55:32,977 - ERROR - Search error for Fishing - scanbio ingredients as (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:32,977 - ERROR - Search error for Economics - Seadragon Marine Oils Limited (seafood OR processing OR fishery): 
+2025-03-24 19:55:32,979 - ERROR - Search error for news - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:32,986 - ERROR - Search error for investing - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:32,988 - ERROR - Search error for sustainability - "malufra": 
+2025-03-24 19:55:32,988 - ERROR - Search error for news - "industrial pesquera heras de": 
+2025-03-24 19:55:32,988 - ERROR - Search error for technology - "industrial pesquera heras de": 
+2025-03-24 19:55:32,988 - ERROR - Search error for investing - "malufra": 
+2025-03-24 19:55:32,988 - ERROR - Search error for IndustrialFishing - Sang Thong Saha Farm STF Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:32,988 - ERROR - Search error for investing - Rongcheng Rixin Aquatic Products Co Ltd (seafood OR processing OR fishery): 
+2025-03-24 19:55:32,988 - ERROR - Search error for maritime - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:32,988 - ERROR - Search error for investing - sahel proteine (seafood OR processing OR fishery): 
+2025-03-24 19:55:33,959 - ERROR - Search error for aquaculture - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:33,960 - ERROR - Search error for sustainability - "janatha fish meal oil products": 
+2025-03-24 19:55:33,960 - ERROR - Search error for shipping - malufra (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:33,960 - ERROR - Search error for environment - "King Pelagique": 
+2025-03-24 19:55:33,960 - ERROR - Search error for business - Jaimar Enterprises (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:33,960 - ERROR - Search error for technology - "malufra": 
+2025-03-24 19:55:33,960 - ERROR - Search error for MarineScience - "sahel proteine": 
+2025-03-24 19:55:33,960 - ERROR - Search error for technology - "Jaimar Enterprises": 
+2025-03-24 19:55:33,960 - ERROR - Search error for shipping - Kantang Fishmeal Industry Part Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:33,960 - ERROR - Search error for environment - "Sucobma Co Ltd": 
+2025-03-24 19:55:33,960 - ERROR - Search error for MarineScience - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:33,960 - ERROR - Search error for ocean - "janatha fish meal oil products": 
+2025-03-24 19:55:33,960 - ERROR - Search error for maritime - "scanbio ingredients as": 
+2025-03-24 19:55:33,960 - ERROR - Search error for science - lunar fpr ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:33,960 - ERROR - Search error for ocean - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:33,960 - ERROR - Search error for business - HKA Bawa Sons (seafood OR processing OR fishery): 
+2025-03-24 19:55:33,960 - ERROR - Search error for environment - "IDI Corporation": 
+2025-03-24 19:55:33,961 - ERROR - Search error for MarineScience - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:34,960 - ERROR - Search error for IndustrialFishing - "sahel proteine": 
+2025-03-24 19:55:34,960 - ERROR - Search error for sustainability - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:34,960 - ERROR - Search error for business - Teppama Fishmeal Company Limited (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:34,960 - ERROR - Search error for business - "janatha fish meal oil products": 
+2025-03-24 19:55:34,960 - ERROR - Search error for science - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:34,960 - ERROR - Search error for technology - title:sunrise oceanic resources exploitation company sa: 
+2025-03-24 19:55:34,960 - ERROR - Search error for industry - Sucobma Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:34,960 - ERROR - Search error for shipping - "Sucobma Co Ltd": 
+2025-03-24 19:55:34,961 - ERROR - Search error for technology - "janatha fish meal oil products": 
+2025-03-24 19:55:34,961 - ERROR - Search error for sustainability - "Kantang Fishmeal Industry Part Ltd": 
+2025-03-24 19:55:34,961 - ERROR - Search error for environment - "Jaimar Enterprises": 
+2025-03-24 19:55:34,961 - ERROR - Search error for IndustrialFishing - "HKA Bawa Sons": 
+2025-03-24 19:55:34,961 - ERROR - Search error for sustainability - Ch Daudruy Van Cauwenberghe (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:34,961 - ERROR - Search error for technology - "King Pelagique": 
+2025-03-24 19:55:35,959 - ERROR - Search error for shipping - "industrial pesquera heras de": 
+2025-03-24 19:55:35,960 - ERROR - Search error for MarineScience - "industrial pesquera heras de": 
+2025-03-24 19:55:35,960 - ERROR - Search error for business - "lunar fpr ltd": 
+2025-03-24 19:55:35,960 - ERROR - Search error for Fishing - "sahel proteine": 
+2025-03-24 19:55:35,960 - ERROR - Search error for MarineScience - "scanbio ingredients as": 
+2025-03-24 19:55:35,960 - ERROR - Search error for science - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:35,960 - ERROR - Search error for sustainability - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:35,960 - ERROR - Search error for aquaculture - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:35,960 - ERROR - Search error for maritime - "Jaimar Enterprises": 
+2025-03-24 19:55:35,960 - ERROR - Search error for worldnews - "industrial pesquera heras de": 
+2025-03-24 19:55:35,960 - ERROR - Search error for Economics - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:35,960 - ERROR - Search error for industry - sunrise oceanic resources exploitation company sa (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:35,961 - ERROR - Search error for sustainability - "sahel proteine": 
+2025-03-24 19:55:35,961 - ERROR - Search error for environment - "industrial pesquera heras de": 
+2025-03-24 19:55:35,961 - ERROR - Search error for maritime - Teppama Fishmeal Company Limited (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:35,961 - ERROR - Search error for investing - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:35,961 - ERROR - Search error for news - janatha fish meal oil products (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:35,961 - ERROR - Search error for ocean - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:35,961 - ERROR - Search error for worldnews - "HKA Bawa Sons": 
+2025-03-24 19:55:35,961 - ERROR - Search error for industry - Rongcheng Rixin Aquatic Products Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:35,961 - ERROR - Search error for aquaculture - "HKA Bawa Sons": 
+2025-03-24 19:55:35,961 - ERROR - Search error for environment - sahel proteine (seafood OR processing OR fishery): 
+2025-03-24 19:55:35,961 - ERROR - Search error for shipping - "lunar fpr ltd": 
+2025-03-24 19:55:35,961 - ERROR - Search error for aquaculture - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:36,960 - ERROR - Search error for environment - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:36,960 - ERROR - Search error for ocean - "HKA Bawa Sons": 
+2025-03-24 19:55:36,960 - ERROR - Search error for MarineScience - "Sucobma Co Ltd": 
+2025-03-24 19:55:36,960 - ERROR - Search error for shipping - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:36,960 - ERROR - Search error for Economics - "scanbio ingredients as": 
+2025-03-24 19:55:36,960 - ERROR - Search error for science - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:36,962 - ERROR - Search error for ocean - "King Pelagique": 
+2025-03-24 19:55:36,962 - ERROR - Search error for MarineScience - "IDI Corporation": 
+2025-03-24 19:55:36,962 - ERROR - Search error for worldnews - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:36,962 - ERROR - Search error for industry - "sahel proteine": 
+2025-03-24 19:55:36,962 - ERROR - Search error for aquaculture - "Jaimar Enterprises": 
+2025-03-24 19:55:36,962 - ERROR - Search error for business - "IDI Corporation": 
+2025-03-24 19:55:36,962 - ERROR - Search error for worldnews - IDI Corporation (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:36,962 - ERROR - Search error for news - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:36,962 - ERROR - Search error for Fishing - "industrial pesquera heras de": 
+2025-03-24 19:55:36,962 - ERROR - Search error for aquaculture - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:37,961 - ERROR - Search error for science - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:37,962 - ERROR - Search error for investing - "industrial pesquera heras de": 
+2025-03-24 19:55:37,962 - ERROR - Search error for business - "sahel proteine": 
+2025-03-24 19:55:37,962 - ERROR - Search error for industry - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:37,963 - ERROR - Search error for worldnews - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:37,963 - ERROR - Search error for news - title:sahel proteine: 
+2025-03-24 19:55:37,963 - ERROR - Search error for aquaculture - "malufra": 
+2025-03-24 19:55:37,963 - ERROR - Search error for ocean - "scanbio ingredients as": 
+2025-03-24 19:55:37,963 - ERROR - Search error for worldnews - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:37,963 - ERROR - Search error for ocean - "Jaimar Enterprises": 
+2025-03-24 19:55:37,963 - ERROR - Search error for news - "lunar fpr ltd": 
+2025-03-24 19:55:37,963 - ERROR - Search error for business - "Sucobma Co Ltd": 
+2025-03-24 19:55:37,963 - ERROR - Search error for news - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:37,963 - ERROR - Search error for environment - Teppama Fishmeal Company Limited (seafood OR processing OR fishery): 
+2025-03-24 19:55:37,963 - ERROR - Search error for worldnews - Ch Daudruy Van Cauwenberghe (seafood OR processing OR fishery): 
+2025-03-24 19:55:37,963 - ERROR - Search error for maritime - "lunar fpr ltd": 
+2025-03-24 19:55:39,099 - ERROR - Search error for technology - "lunar fpr ltd": 
+2025-03-24 19:55:39,100 - ERROR - Search error for MarineScience - "lunar fpr ltd": 
+2025-03-24 19:55:39,100 - ERROR - Search error for worldnews - "janatha fish meal oil products": 
+2025-03-24 19:55:39,100 - ERROR - Search error for maritime - "King Pelagique": 
+2025-03-24 19:55:39,100 - ERROR - Search error for MarineScience - "Sang Thong Saha Farm STF Co Ltd": 
+2025-03-24 19:55:39,100 - ERROR - Search error for MarineScience - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:39,112 - ERROR - Search error for technology - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:39,112 - ERROR - Search error for worldnews - "Sucobma Co Ltd": 
+2025-03-24 19:55:39,112 - ERROR - Search error for ocean - IDI Corporation (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:39,112 - ERROR - Search error for maritime - sahel proteine (seafood OR processing OR fishery): 
+2025-03-24 19:55:39,112 - ERROR - Search error for Fishing - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:39,113 - ERROR - Search error for Fishing - title:Teppama Fishmeal Company Limited: 
+2025-03-24 19:55:39,113 - ERROR - Search error for investing - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:39,113 - ERROR - Search error for MarineScience - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:39,959 - ERROR - Search error for technology - title:IDI Corporation: 
+2025-03-24 19:55:39,959 - ERROR - Search error for environment - scanbio ingredients as (seafood OR processing OR fishery): 
+2025-03-24 19:55:39,959 - ERROR - Search error for shipping - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:39,960 - ERROR - Search error for MarineScience - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:39,960 - ERROR - Search error for science - "King Pelagique": 
+2025-03-24 19:55:39,960 - ERROR - Search error for Economics - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:39,960 - ERROR - Search error for IndustrialFishing - "malufra": 
+2025-03-24 19:55:39,960 - ERROR - Search error for IndustrialFishing - Rongcheng Rixin Aquatic Products Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:39,960 - ERROR - Search error for ocean - Teppama Fishmeal Company Limited (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:39,960 - ERROR - Search error for investing - Jaimar Enterprises (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:39,961 - ERROR - Search error for sustainability - "King Pelagique": 
+2025-03-24 19:55:39,961 - ERROR - Search error for technology - "HKA Bawa Sons": 
+2025-03-24 19:55:40,960 - ERROR - Search error for maritime - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:40,960 - ERROR - Search error for sustainability - scanbio ingredients as (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:40,960 - ERROR - Search error for worldnews - "sahel proteine": 
+2025-03-24 19:55:40,960 - ERROR - Search error for MarineScience - "malufra": 
+2025-03-24 19:55:40,960 - ERROR - Search error for investing - "scanbio ingredients as": 
+2025-03-24 19:55:40,960 - ERROR - Search error for technology - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:40,960 - ERROR - Search error for Fishing - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:40,960 - ERROR - Search error for Fishing - "malufra": 
+2025-03-24 19:55:40,960 - ERROR - Search error for IndustrialFishing - "IDI Corporation": 
+2025-03-24 19:55:40,960 - ERROR - Search error for maritime - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:40,960 - ERROR - Search error for news - "King Pelagique": 
+2025-03-24 19:55:40,960 - ERROR - Search error for news - "scanbio ingredients as": 
+2025-03-24 19:55:40,961 - ERROR - Search error for Economics - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:40,961 - ERROR - Search error for sustainability - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:40,961 - ERROR - Search error for technology - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:40,961 - ERROR - Search error for news - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:40,961 - ERROR - Search error for investing - "lunar fpr ltd": 
+2025-03-24 19:55:40,961 - ERROR - Search error for investing - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:40,961 - ERROR - Search error for worldnews - Kantang Fishmeal Industry Part Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:41,959 - ERROR - Search error for Economics - "sahel proteine": 
+2025-03-24 19:55:41,960 - ERROR - Search error for technology - "Teppama Fishmeal Company Limited": 
+2025-03-24 19:55:41,960 - ERROR - Search error for Fishing - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:41,960 - ERROR - Search error for aquaculture - "lunar fpr ltd": 
+2025-03-24 19:55:41,960 - ERROR - Search error for environment - "malufra": 
+2025-03-24 19:55:41,960 - ERROR - Search error for MarineScience - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:41,960 - ERROR - Search error for Fishing - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:41,960 - ERROR - Search error for science - "IDI Corporation": 
+2025-03-24 19:55:41,960 - ERROR - Search error for ocean - "malufra": 
+2025-03-24 19:55:41,960 - ERROR - Search error for business - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:41,960 - ERROR - Search error for Economics - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:41,960 - ERROR - Search error for IndustrialFishing - Teppama Fishmeal Company Limited (seafood OR processing OR fishery): 
+2025-03-24 19:55:41,960 - ERROR - Search error for sustainability - "IDI Corporation": 
+2025-03-24 19:55:41,960 - ERROR - Search error for news - "malufra": 
+2025-03-24 19:55:41,960 - ERROR - Search error for investing - HKA Bawa Sons (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:42,959 - ERROR - Search error for environment - janatha fish meal oil products (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:42,961 - ERROR - Search error for technology - title:Daybrook Fisheries Inc: 
+2025-03-24 19:55:42,961 - ERROR - Search error for investing - "King Pelagique": 
+2025-03-24 19:55:42,961 - ERROR - Search error for technology - sahel proteine (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:42,961 - ERROR - Search error for business - "industrial pesquera heras de": 
+2025-03-24 19:55:42,961 - ERROR - Search error for science - "malufra": 
+2025-03-24 19:55:42,961 - ERROR - Search error for investing - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:42,961 - ERROR - Search error for industry - "scanbio ingredients as": 
+2025-03-24 19:55:43,960 - ERROR - Search error for sustainability - "Jaimar Enterprises": 
+2025-03-24 19:55:43,960 - ERROR - Search error for maritime - "industrial pesquera heras de": 
+2025-03-24 19:55:43,960 - ERROR - Search error for worldnews - "malufra": 
+2025-03-24 19:55:43,960 - ERROR - Search error for shipping - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:43,960 - ERROR - Search error for news - Teppama Fishmeal Company Limited (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:43,960 - ERROR - Search error for IndustrialFishing - title:janatha fish meal oil products: 
+2025-03-24 19:55:43,960 - ERROR - Search error for Fishing - title:Kantang Fishmeal Industry Part Ltd: 
+2025-03-24 19:55:43,960 - ERROR - Search error for industry - "malufra": 
+2025-03-24 19:55:44,959 - ERROR - Search error for business - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:44,959 - ERROR - Search error for news - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:44,959 - ERROR - Search error for maritime - "malufra": 
+2025-03-24 19:55:44,959 - ERROR - Search error for technology - "scanbio ingredients as": 
+2025-03-24 19:55:44,959 - ERROR - Search error for IndustrialFishing - "Qingdao Kangjing Marine Biotechnology Co Ltd": 
+2025-03-24 19:55:44,959 - ERROR - Search error for sustainability - lunar fpr ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:44,959 - ERROR - Search error for ocean - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:44,960 - ERROR - Search error for aquaculture - "sunrise oceanic resources exploitation company sa": 
+2025-03-24 19:55:44,960 - ERROR - Search error for investing - "Sucobma Co Ltd": 
+2025-03-24 19:55:44,960 - ERROR - Search error for shipping - title:Jaimar Enterprises: 
+2025-03-24 19:55:44,960 - ERROR - Search error for shipping - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:44,960 - ERROR - Search error for sustainability - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:45,984 - ERROR - Search error for business - "King Pelagique": 
+2025-03-24 19:55:45,992 - ERROR - Search error for science - "scanbio ingredients as": 
+2025-03-24 19:55:45,993 - ERROR - Search error for maritime - "Sucobma Co Ltd": 
+2025-03-24 19:55:45,993 - ERROR - Search error for IndustrialFishing - "Ch Daudruy Van Cauwenberghe": 
+2025-03-24 19:55:46,063 - ERROR - Search error for investing - Kantang Fishmeal Industry Part Ltd (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,155 - ERROR - Search error for industry - "Seadragon Marine Oils Limited": 
+2025-03-24 19:55:46,157 - ERROR - Search error for worldnews - "Daybrook Fisheries Inc": 
+2025-03-24 19:55:46,157 - ERROR - Search error for ocean - "Sucobma Co Ltd": 
+2025-03-24 19:55:46,157 - ERROR - Search error for business - title:Ch Daudruy Van Cauwenberghe: 
+2025-03-24 19:55:46,157 - ERROR - Search error for Fishing - IDI Corporation (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,157 - ERROR - Search error for worldnews - sunrise oceanic resources exploitation company sa (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,157 - ERROR - Search error for aquaculture - King Pelagique (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,157 - ERROR - Search error for investing - title:Sang Thong Saha Farm STF Co Ltd: 
+2025-03-24 19:55:46,157 - ERROR - Search error for IndustrialFishing - Kantang Fishmeal Industry Part Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,158 - ERROR - Search error for environment - Daybrook Fisheries Inc (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,158 - ERROR - Search error for industry - Sang Thong Saha Farm STF Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,158 - ERROR - Search error for Economics - Kantang Fishmeal Industry Part Ltd (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,158 - ERROR - Search error for shipping - "janatha fish meal oil products": 
+2025-03-24 19:55:46,158 - ERROR - Search error for industry - Daybrook Fisheries Inc (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,158 - ERROR - Search error for aquaculture - Sucobma Co Ltd (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,158 - ERROR - Search error for MarineScience - "Rongcheng Rixin Aquatic Products Co Ltd": 
+2025-03-24 19:55:46,960 - ERROR - Search error for shipping - title:Daybrook Fisheries Inc: 
+2025-03-24 19:55:46,960 - ERROR - Search error for worldnews - Jaimar Enterprises (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,960 - ERROR - Search error for aquaculture - IDI Corporation (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,960 - ERROR - Search error for aquaculture - industrial pesquera heras de (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,960 - ERROR - Search error for business - Kantang Fishmeal Industry Part Ltd (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,960 - ERROR - Search error for science - sunrise oceanic resources exploitation company sa (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,960 - ERROR - Search error for environment - HKA Bawa Sons (seafood OR processing OR fishery): 
+2025-03-24 19:55:46,960 - ERROR - Search error for industry - Teppama Fishmeal Company Limited (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,960 - ERROR - Search error for science - HKA Bawa Sons (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,960 - ERROR - Search error for Fishing - HKA Bawa Sons (fishing OR vessel OR boat OR ship): 
+2025-03-24 19:55:46,960 - ERROR - Search error for Fishing - janatha fish meal oil products (seafood OR processing OR fishery): 
+2025-03-24 19:56:32,625 - WARNING - Rate limited. Waiting 0 seconds
+2025-03-24 19:56:40,131 - INFO - Search interrupted by user
+2025-03-24 19:56:40,131 - INFO - Found 0 results for plants
+2025-03-24 19:56:40,131 - INFO - Searching vessels terms...
+2025-03-24 19:56:40,131 - INFO - Starting search with 961 unique terms
+2025-03-24 19:56:40,131 - INFO - Loaded 3 completed terms and 6 results
+2025-03-24 19:56:40,132 - INFO - Resuming search with 961 remaining terms
+2025-03-24 19:56:40,327 - INFO - Successfully obtained new Reddit API token
+2025-03-24 19:56:40,481 - WARNING - Rate limited during subreddit validation for Fishing
+2025-03-24 19:56:40,481 - WARNING - Rate limited. Waiting 60 seconds
+2025-03-24 19:56:40,838 - INFO - Search interrupted by user
+2025-03-24 19:56:40,838 - INFO - Found 0 results for vessels
+2025-03-24 19:56:40,838 - INFO - Searching owners terms...
+2025-03-24 19:56:40,838 - INFO - Starting search with 439 unique terms
+2025-03-24 19:56:40,838 - INFO - Loaded 3 completed terms and 6 results
+2025-03-24 19:56:40,838 - INFO - Resuming search with 439 remaining terms
+2025-03-24 19:56:41,051 - INFO - Successfully obtained new Reddit API token
+2025-03-24 19:56:41,406 - WARNING - Rate limited during subreddit validation for Fishing
+2025-03-24 19:56:41,406 - WARNING - Rate limited. Waiting 60 seconds
+2025-03-24 19:56:42,137 - WARNING - Rate limited during subreddit validation for worldnews
+2025-03-24 19:56:42,137 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:56:43,126 - WARNING - Rate limited during subreddit validation for news
+2025-03-24 19:56:43,127 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:56:44,127 - WARNING - Rate limited during subreddit validation for business
+2025-03-24 19:56:44,127 - WARNING - Rate limited. Waiting 120 seconds
+2025-03-24 19:56:44,232 - INFO - Search interrupted by user
+2025-03-24 19:56:44,232 - INFO - Found 0 results for owners
+2025-03-24 19:56:44,232 - WARNING - No results found for any search terms
+2025-03-24 19:56:44,232 - INFO - Process finished

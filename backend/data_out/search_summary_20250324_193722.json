@@ -1,0 +1,21 @@
+{
+  "total_results": 0,
+  "unique_posts": 0,
+  "results_by_subreddit": {},
+  "results_by_keyword": {},
+  "top_terms": {},
+  "date_range": {
+    "earliest": null,
+    "latest": null
+  },
+  "engagement_stats": {
+    "avg_score": 0,
+    "avg_comments": 0,
+    "max_score": 0,
+    "max_comments": 0
+  },
+  "relevance_stats": {
+    "avg_relevance": 0,
+    "high_relevance_count": 0
+  }
+}

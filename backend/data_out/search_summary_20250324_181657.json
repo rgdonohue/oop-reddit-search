@@ -1,0 +1,32 @@
+{
+  "total_results": 21,
+  "unique_posts": 21,
+  "results_by_subreddit": {
+    "Fishing": 15,
+    "CommercialFishing": 4,
+    "Maritime": 1,
+    "Aquaculture": 1
+  },
+  "results_by_keyword": {
+    "catch": 14,
+    "fishing boat": 2,
+    "commercial fishing": 2,
+    "catch, commercial fishing": 1,
+    "fishing boat, fishing vessel, commercial fishing": 1,
+    "aquaculture": 1
+  },
+  "top_terms": {
+    "tepung ikan manual muncar muncar manual fish meal": 19,
+    "vantage": 2
+  },
+  "date_range": {
+    "earliest": "2011-04-29 21:12:56",
+    "latest": "2025-02-12 17:29:37"
+  },
+  "engagement_stats": {
+    "avg_score": 5.666666666666667,
+    "avg_comments": 10.857142857142858,
+    "max_score": 16,
+    "max_comments": 48
+  }
+}

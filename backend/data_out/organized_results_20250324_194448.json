@@ -1,0 +1,7920 @@
+{
+  "facility_keywords": {
+    "ECB Company SRL": {
+      "mentions": []
+    },
+    "company limited": {
+      "mentions": []
+    },
+    "abideen company": {
+      "mentions": []
+    },
+    "Al-Nawras Company": {
+      "mentions": []
+    },
+    "al nawras company": {
+      "mentions": []
+    },
+    "King Future Factory": {
+      "mentions": []
+    },
+    "Botin Globe Company": {
+      "mentions": []
+    },
+    "ananda feed factory": {
+      "mentions": []
+    },
+    "Abideen And Company": {
+      "mentions": []
+    },
+    "Gulf Protein Factory": {
+      "mentions": []
+    },
+    "Motavakesham Company": {
+      "mentions": []
+    },
+    "gulshan asur company": {
+      "mentions": []
+    },
+    "thanh khoi company ltd": {
+      "mentions": []
+    },
+    "Marjan Seafood Company": {
+      "mentions": []
+    },
+    "kodiak fishmeal company": {
+      "mentions": []
+    },
+    "Tiyab Fish Meal Factory": {
+      "mentions": []
+    },
+    "oceans fish factory ltd": {
+      "mentions": []
+    },
+    "food joint stock company": {
+      "mentions": []
+    },
+    "raj fishmeal oil company": {
+      "mentions": []
+    },
+    "pacific freezing company": {
+      "mentions": []
+    },
+    "princess brand processing": {
+      "mentions": []
+    },
+    "tan long seafoods company": {
+      "mentions": []
+    },
+    "indian ocean tuna factory": {
+      "mentions": []
+    },
+    "Oceans Fish Factory, Ltd.": {
+      "mentions": []
+    },
+    "Jin Zhuang Fishing Company": {
+      "mentions": []
+    },
+    "fahad fishmeal oil company": {
+      "mentions": []
+    },
+    "Raj Fishmeal & Oil Company": {
+      "mentions": []
+    },
+    "navid daneh khazar company": {
+      "mentions": []
+    },
+    "chau do joint stock company": {
+      "mentions": []
+    },
+    "australian fishmeal company": {
+      "mentions": []
+    },
+    "ullal fish meal oil company": {
+      "mentions": []
+    },
+    "aksha fish meal oil company": {
+      "mentions": []
+    },
+    "russian fishery company rfc": {
+      "mentions": []
+    },
+    "rehoboth fish meal oil plant": {
+      "mentions": []
+    },
+    "Fahad Fishmeal & Oil Company": {
+      "mentions": []
+    },
+    "southern fish powder company": {
+      "mentions": []
+    },
+    "bin saldoun grinding factory": {
+      "mentions": []
+    },
+    "saba\u2019a factory fish products": {
+      "mentions": []
+    },
+    "fish oil refinery company idi": {
+      "mentions": []
+    },
+    "phuc loc vung tau company ltd": {
+      "mentions": []
+    },
+    "siam proteins company limited": {
+      "mentions": []
+    },
+    "kien hung joint stock company": {
+      "mentions": []
+    },
+    "Aksha Fish Meal & Oil Company": {
+      "mentions": []
+    },
+    "mien thang sa dec company ltd": {
+      "mentions": []
+    },
+    "Russian Fishery Company (RFC)": {
+      "mentions": []
+    },
+    "arab company canning packaging": {
+      "mentions": []
+    },
+    "Rehoboth Fish Meal & Oil Plant": {
+      "mentions": []
+    },
+    "Ullal Fish Meal And Oil Company": {
+      "mentions": []
+    },
+    "al ghoweizi fish canning factory": {
+      "mentions": []
+    },
+    "Guaymas Protein Company SA de CV": {
+      "mentions": []
+    },
+    "teppama fishmeal company limited": {
+      "mentions": []
+    },
+    "sichon fishmeal factory part ltd": {
+      "mentions": []
+    },
+    "Saba\u2019a Factory for Fish Products": {
+      "mentions": []
+    },
+    "Al-Ghoweizi Fish Canning Factory": {
+      "mentions": []
+    },
+    "Apitoon Fish Meal Company Limited": {
+      "mentions": []
+    },
+    "siirisaengarumpee company limited": {
+      "mentions": []
+    },
+    "minh thang sa dec company limited": {
+      "mentions": []
+    },
+    "suchato fishmeal factory part ltd": {
+      "mentions": []
+    },
+    "Tac Cau Fish Meal Processing Area": {
+      "mentions": []
+    },
+    "densamut fishmeal factory part ltd": {
+      "mentions": []
+    },
+    "Sahamitr Fish Meal Company Limited": {
+      "mentions": []
+    },
+    "united marine products ullal plant": {
+      "mentions": []
+    },
+    "Persian Chabahar Fish Meal Company": {
+      "mentions": []
+    },
+    "thuy hai seafood processing co ltd": {
+      "mentions": []
+    },
+    "srinakorn fishmeal factory part ltd": {
+      "mentions": []
+    },
+    "rongcheng xingyang fishmeal factory": {
+      "mentions": []
+    },
+    "United Marine Products, Ullal plant": {
+      "mentions": []
+    },
+    "tuna factory fish canning packaging": {
+      "mentions": []
+    },
+    "Sichon Fishmeal Factory Part., Ltd.": {
+      "mentions": []
+    },
+    "yashaswi fish meal fish oil company": {
+      "mentions": []
+    },
+    "samak arab mauritanian fish company": {
+      "mentions": []
+    },
+    "aung myat phyo int'l fish meal plant": {
+      "mentions": []
+    },
+    "Suchato Fishmeal\nFactory Part., Ltd.": {
+      "mentions": []
+    },
+    "jsc holding company \"dalmoreproduct\"": {
+      "mentions": []
+    },
+    "hai huong seafood joint stock company": {
+      "mentions": []
+    },
+    "tan tien fish meal processing factory": {
+      "mentions": []
+    },
+    "pattani fishmeal 1988 company limited": {
+      "mentions": []
+    },
+    "Thuy Hai Seafood Processing Co., Ltd.": {
+      "mentions": []
+    },
+    "siam fishmeal factory co ltd part ltd": {
+      "mentions": []
+    },
+    "SAMAK - Arab Mauritanian Fish Company": {
+      "mentions": []
+    },
+    "Densamut Fishmeal Factory Part., Ltd.": {
+      "mentions": []
+    },
+    "southern fishmeal factory 1969 co ltd": {
+      "mentions": []
+    },
+    "van duc tien giang food export company": {
+      "mentions": []
+    },
+    "Srinakorn Fishmeal Factory Part., Ltd.": {
+      "mentions": []
+    },
+    "Golden Seed Chabahar Fish Meal Company": {
+      "mentions": []
+    },
+    "godrej agrovet limited barabanki plant": {
+      "mentions": []
+    },
+    "song viet thanh hoa joint stock company": {
+      "mentions": []
+    },
+    "Pattani Fishmeal (1988) Company Limited": {
+      "mentions": []
+    },
+    "binh minh im export joint stock company": {
+      "mentions": []
+    },
+    "Nivat Fishmeal Industry Company Limited": {
+      "mentions": []
+    },
+    "nam hoa factory van don company limited": {
+      "mentions": []
+    },
+    "godrej agrovet limited kondapalli plant": {
+      "mentions": []
+    },
+    "Yashaswi Fish Meal and Fish Oil Company": {
+      "mentions": []
+    },
+    "Binh Minh Im-Export Joint Stock Company": {
+      "mentions": []
+    },
+    "chaweng watana fishmeal factory part ltd": {
+      "mentions": []
+    },
+    "Godrej Agrovet Limited - Barabanki Plant": {
+      "mentions": []
+    },
+    "Godrej Agrovet Limited - Kondapalli Plant": {
+      "mentions": []
+    },
+    "Fish Plant \u201cYasnyy\u201d JSC \u201cKurilskiy Rybak\u201d": {
+      "mentions": []
+    },
+    "national fish canning packing factory naf": {
+      "mentions": []
+    },
+    "arabian peninsula company marine products": {
+      "mentions": []
+    },
+    "nguyet trang producing trading ltd company": {
+      "mentions": []
+    },
+    "Southern Fishmeal Factory (1969) Co., Ltd.": {
+      "mentions": []
+    },
+    "vietnam food hau giang joint stock company": {
+      "mentions": []
+    },
+    "indo fish meal oil company private limited": {
+      "mentions": []
+    },
+    "The Arab Company for Canning and Packaging": {
+      "mentions": []
+    },
+    "PACIFIC FISHMEAL INDUSTRIAL COMPANY LIMITED": {
+      "mentions": []
+    },
+    "htoo htoo toe international company limited": {
+      "mentions": []
+    },
+    "Chilan Pishbin Fish Meal Production Factory": {
+      "mentions": []
+    },
+    "Chaweng Watana Fishmeal Factory Part., Ltd.": {
+      "mentions": []
+    },
+    "thuan an production trading service company": {
+      "mentions": []
+    },
+    "Nam Hoa Y Factory - Van Don Company Limited": {
+      "mentions": []
+    },
+    "Tuna Factory for Fish Canning and Packaging": {
+      "mentions": []
+    },
+    "Siam Fishmeal Factory Co., Ltd. (Part. Ltd.)": {
+      "mentions": []
+    },
+    "Nguyen Thi Sau Fish Meal Production Facility": {
+      "mentions": []
+    },
+    "sing viet song doc fish meal company limited": {
+      "mentions": []
+    },
+    "vityaz avto co ltd fish processing work shop": {
+      "mentions": []
+    },
+    "Vityaz-Avto Co Ltd. Fish-Processing Work-Shop": {
+      "mentions": []
+    },
+    "Arabian Peninsula Company for Marine Products": {
+      "mentions": []
+    },
+    "Minh Tam Fish Meal Processing Company Limited": {
+      "mentions": []
+    },
+    "patthana charoen powder fish factory part ltd": {
+      "mentions": []
+    },
+    "godrej agrovet limited hanuman junction plant": {
+      "mentions": []
+    },
+    "trisedco fish meal fish oil factory pangasius": {
+      "mentions": []
+    },
+    "dhofar fisheries food industries company saog": {
+      "mentions": []
+    },
+    "mazandaran animal aquatic feed company manaqua": {
+      "mentions": []
+    },
+    "south african fishmeal protein company pty ltd": {
+      "mentions": []
+    },
+    "National Fish Canning and Packing Factory (NAF)": {
+      "mentions": []
+    },
+    "TRISEDCO - Fish Meal Fish Oil Factory Pangasius": {
+      "mentions": []
+    },
+    "Godrej Agrovet Limited - Hanuman Junction Plant": {
+      "mentions": []
+    },
+    "Dhofar Fisheries & Food Industries Company SAOG": {
+      "mentions": []
+    },
+    "Patthana Charoen Powder Fish Factory Part., Ltd.": {
+      "mentions": []
+    },
+    "Sunrise Oceanic Resources Exploitation Company SA": {
+      "mentions": []
+    },
+    "charoen kijjakarn ranong fish meal factory part ltd": {
+      "mentions": []
+    },
+    "viet truong seafood processing import export co ltd": {
+      "mentions": []
+    },
+    "Tri Hung Producing Trading Import-Export Company Ltd": {
+      "mentions": []
+    },
+    "South African Fishmeal and Protein Company (Pty) Ltd": {
+      "mentions": []
+    },
+    "tri hung producing trading import export company ltd": {
+      "mentions": []
+    },
+    "Mazandaran Animal and Aquatic Feed Company (MANAQUA)": {
+      "mentions": []
+    },
+    "khazar kilka processing company \u0634\u0631\u06a9\u062a \u06a9\u06cc\u0644\u06a9\u0627 \u0641\u0631\u0622\u0648\u0631 \u062e\u0632\u0631": {
+      "mentions": []
+    },
+    "Rongcheng Jinghai Dingqian Xingyang Fish Meal Factory": {
+      "mentions": []
+    },
+    "Charoen Kijjakarn Ranong Fish Meal Factory Part. Ltd.": {
+      "mentions": []
+    },
+    "kilka powder sahar company sherkat kilka poodar sahar": {
+      "mentions": []
+    },
+    "trident seafoods corporation sand point ak shore plant": {
+      "mentions": []
+    },
+    "ozernovsky fish canning plant 55 jsc ozernovsky fcp \u211655": {
+      "mentions": []
+    },
+    "icicle seafoods corporation northern victor shore plant": {
+      "mentions": []
+    },
+    "Kilka Powder Sahar Company / Sherkat Kilka Poodar Sahar": {
+      "mentions": []
+    },
+    "mavin austfeed joint venture company limited mavin group": {
+      "mentions": []
+    },
+    "camau seafood processing service joint stock corporation": {
+      "mentions": []
+    },
+    "Viet Truong Seafood Processing and Import-Export Co. Ltd": {
+      "mentions": []
+    },
+    "Trident Seafoods Corporation (Sand Point, AK Shore Plant)": {
+      "mentions": []
+    },
+    "Icicle Seafoods Corporation Northern Victor (shore plant)": {
+      "mentions": []
+    },
+    "honoroad vietnam aquatic feed ingredient processing co ltd": {
+      "mentions": []
+    },
+    "xuri viet trung aquatic products processing limited company": {
+      "mentions": []
+    },
+    "Thien Quynh Khanh Hoa Sole Member Limited Liability Company": {
+      "mentions": []
+    },
+    "Ozernovsky Fish Canning Plant \u2116 55, JSC (Ozernovsky FCP \u211655)": {
+      "mentions": []
+    },
+    "baran rize silk road company sherkat baran rize rah abrisham": {
+      "mentions": []
+    },
+    "Honoroad Vietnam Aquatic Feed Ingredient Processing Co., Ltd.": {
+      "mentions": []
+    },
+    "ostrovnoy fish processing plant llc \u043e\u043e\u043e \u0440\u044b\u0431\u043e\u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442 \u00ab\u043e\u0441\u0442\u0440\u043e\u0432\u043d\u043e\u0439\u00bb": {
+      "mentions": []
+    },
+    "pabrik tepung ikan ppp tegalsari ppp tegalsari fish meal factory": {
+      "mentions": []
+    },
+    "tabai fish powder factory mohammad tabaei fish powder oil factory": {
+      "mentions": []
+    },
+    "bangsaphan union fishmeal co ltd company limited fishmeal bridges": {
+      "mentions": []
+    },
+    "long hai seafood processing transport trading joint stock company": {
+      "mentions": []
+    },
+    "Pabrik Tepung Ikan PPP Tegalsari (PPP Tegalsari Fish Meal Factory)": {
+      "mentions": []
+    },
+    "Ostrovnoy Fish Processing Plant LLC (\u041e\u041e\u041e \u0420\u042b\u0411\u041e\u041a\u041e\u041c\u0411\u0418\u041d\u0410\u0422 \u00ab\u041e\u0421\u0422\u0420\u041e\u0412\u041d\u041e\u0419\u00bb)": {
+      "mentions": []
+    },
+    "fish plant \u201ckrabozavodsk\u201d branch \u201ckrabozavodsk\u201djsc \u00abkurilskiy rybak\u00bb": {
+      "mentions": []
+    },
+    "fish meal fish oil procesing factory vinh phuoc food company limited": {
+      "mentions": []
+    },
+    "qeshm fish processing faravari mahi qeshm sherkat faravari mahi qeshm": {
+      "mentions": []
+    },
+    "Bangsaphan Union Fishmeal Co., Ltd. / Company Limited Fishmeal Bridges": {
+      "mentions": []
+    },
+    "Tabai Fish Powder Factory (Mohammad Tabaei Fish Powder and Oil Factory)": {
+      "mentions": []
+    },
+    "Qeshm Fish Processing /Faravari Mahi Qeshm / Sherkat Faravari Mahi Qeshm": {
+      "mentions": []
+    },
+    "Fish meal and fish oil procesing factory- Vinh Phuoc Food Company Limited.": {
+      "mentions": []
+    },
+    "serhan company tar g\u0131da i\u0307n\u015f pet kuyumculuk san ve tic ltd \u015fti yem \u00fcretimi": {
+      "mentions": []
+    },
+    "old name: tymlatsky rybokombinat co ltd fish factory tymlatsky fish factory": {
+      "mentions": []
+    },
+    "Serhan Company Tar. G\u0131da \u0130n\u015f. Pet. Kuyumculuk San. ve Tic. Ltd. \u015eti-Yem \u00dcretimi": {
+      "mentions": []
+    },
+    "[OLD NAME: Tymlatsky Rybokombinat Co., Ltd. Fish Factory] Tymlatsky Fish Factory": {
+      "mentions": []
+    },
+    "yazdan darya bostaneh fish meal factory karkhaneh poodar mahi yazdan darya bostaneh": {
+      "mentions": []
+    },
+    "saba majd qeshm fish meal cooperative company qeshm cooperative fish meal company saba majd": {
+      "mentions": []
+    },
+    "Saba Majd Qeshm Fish Meal Cooperative Company / Qeshm Cooperative Fish Meal Company, Saba Majd": {
+      "mentions": []
+    },
+    "golden clean industry qeshm fish meal factory zarin sanat pak qeshm fish powder factory \u06a9\u0627\u0631\u062e\u0627\u0646\u0647 \u067e\u0648\u062f\u0631 \u0645\u0627\u0647\u06cc \u0632\u0631\u06cc\u0646 \u0635\u0646\u0639\u062a \u067e\u0627\u06a9 \u0642\u0634\u0645": {
+      "mentions": []
+    },
+    "international fish meal company mato fish shahre aftab mahakood fish fertilizer mato fish international fish meal company shahre aftab mahakood fish fertilizer aftab shahr mahkod fish fertilizer international co ltd mato qeshm fish meal": {
+      "mentions": []
+    },
+    "International Fish Meal Company Mato Fish, Shahre Aftab, and Mahakood Fish Fertilizer / Mato Fish International Fish Meal Company, Shahre Aftab, and Mahakood Fish Fertilizer / Aftab Shahr Mahkod Fish Fertilizer International Co., Ltd / Mato Qeshm Fish Meal": {
+      "mentions": []
+    },
+    "pacific freezing company sac": {
+      "mentions": []
+    }
+  },
+  "vessel_keywords": {
+    "cnc": {
+      "mentions": []
+    },
+    "vsv": {
+      "mentions": []
+    },
+    "FASA": {
+      "mentions": []
+    },
+    "NDAM": {
+      "mentions": []
+    },
+    "jxyg": {
+      "mentions": []
+    },
+    "sgip": {
+      "mentions": []
+    },
+    "fish": {
+      "mentions": []
+    },
+    "tasa": {
+      "mentions": []
+    },
+    "sarl": {
+      "mentions": []
+    },
+    "Brim": {
+      "mentions": []
+    },
+    "nagro": {
+      "mentions": []
+    },
+    "GISIS": {
+      "mentions": []
+    },
+    "dibar": {
+      "mentions": []
+    },
+    "nirsa": {
+      "mentions": []
+    },
+    "eskja": {
+      "mentions": []
+    },
+    "urisa": {
+      "mentions": []
+    },
+    "cibel": {
+      "mentions": []
+    },
+    "barna": {
+      "mentions": []
+    },
+    "pesca": {
+      "mentions": []
+    },
+    "Seimar": {
+      "mentions": []
+    },
+    "rosmey": {
+      "mentions": []
+    },
+    "biomar": {
+      "mentions": []
+    },
+    "Exu SA": {
+      "mentions": []
+    },
+    "setalg": {
+      "mentions": []
+    },
+    "Nessim": {
+      "mentions": []
+    },
+    "IQI BV": {
+      "mentions": []
+    },
+    "orizon": {
+      "mentions": []
+    },
+    "Edayre": {
+      "mentions": []
+    },
+    "comeau": {
+      "mentions": []
+    },
+    "blumar": {
+      "mentions": []
+    },
+    "co ltd": {
+      "mentions": []
+    },
+    "borsea": {
+      "mentions": []
+    },
+    "soraya": {
+      "mentions": []
+    },
+    "vlacar": {
+      "mentions": []
+    },
+    "Sovapec": {
+      "mentions": []
+    },
+    "Sopasen": {
+      "mentions": []
+    },
+    "basf as": {
+      "mentions": []
+    },
+    "quirola": {
+      "mentions": []
+    },
+    "Copelit": {
+      "mentions": []
+    },
+    "biovast": {
+      "mentions": []
+    },
+    "Sogenco": {
+      "mentions": []
+    },
+    "Scoular": {
+      "mentions": []
+    },
+    "Patense": {
+      "mentions": []
+    },
+    "Unknown": {
+      "mentions": []
+    },
+    "Sen Sea": {
+      "mentions": []
+    },
+    "son sea": {
+      "mentions": []
+    },
+    "smvp sa": {
+      "mentions": []
+    },
+    "LYSI hf": {
+      "mentions": []
+    },
+    "malufra": {
+      "mentions": []
+    },
+    "Isfelag": {
+      "mentions": []
+    },
+    "friomar": {
+      "mentions": []
+    },
+    "LTD MBM": {
+      "mentions": []
+    },
+    "Kalifeks": {
+      "mentions": []
+    },
+    "trio spa": {
+      "mentions": []
+    },
+    "bel meal": {
+      "mentions": []
+    },
+    "galdecun": {
+      "mentions": []
+    },
+    "setop sa": {
+      "mentions": []
+    },
+    "aterimar": {
+      "mentions": []
+    },
+    "ecuafeed": {
+      "mentions": []
+    },
+    "fortidex": {
+      "mentions": []
+    },
+    "Nutrivil": {
+      "mentions": []
+    },
+    "pesquera": {
+      "mentions": []
+    },
+    "Sino-Rim": {
+      "mentions": []
+    },
+    "havsbrun": {
+      "mentions": []
+    },
+    "tadel sa": {
+      "mentions": []
+    },
+    "sino rim": {
+      "mentions": []
+    },
+    "Damsa SA": {
+      "mentions": []
+    },
+    "peandres": {
+      "mentions": []
+    },
+    "proteins": {
+      "mentions": []
+    },
+    "andecorp": {
+      "mentions": []
+    },
+    "seafrost": {
+      "mentions": []
+    },
+    "don raul": {
+      "mentions": []
+    },
+    "bisnesmun": {
+      "mentions": []
+    },
+    "remo rohn": {
+      "mentions": []
+    },
+    "sea foods": {
+      "mentions": []
+    },
+    "Encompass": {
+      "mentions": []
+    },
+    "jsc akros": {
+      "mentions": []
+    },
+    "waterbase": {
+      "mentions": []
+    },
+    "rosmei sa": {
+      "mentions": []
+    },
+    "LLC Roliz": {
+      "mentions": []
+    },
+    "Dexim Srl": {
+      "mentions": []
+    },
+    "salmonoil": {
+      "mentions": []
+    },
+    "ff skagen": {
+      "mentions": []
+    },
+    "air buana": {
+      "mentions": []
+    },
+    "Manarthon": {
+      "mentions": []
+    },
+    "DESPROCAR": {
+      "mentions": []
+    },
+    "alimentsa": {
+      "mentions": []
+    },
+    "bransomar": {
+      "mentions": []
+    },
+    "san arawa": {
+      "mentions": []
+    },
+    "naturmega": {
+      "mentions": []
+    },
+    "siquality": {
+      "mentions": []
+    },
+    "pindhagon": {
+      "mentions": []
+    },
+    "baracamar": {
+      "mentions": []
+    },
+    "cantarana": {
+      "mentions": []
+    },
+    "agustiner": {
+      "mentions": []
+    },
+    "JSC Turnif": {
+      "mentions": []
+    },
+    "pars kilka": {
+      "mentions": []
+    },
+    "Ege \u0130z Yem": {
+      "mentions": []
+    },
+    "ger export": {
+      "mentions": []
+    },
+    "pt munchar": {
+      "mentions": []
+    },
+    "Ayaz\u0131m Yem": {
+      "mentions": []
+    },
+    "unisea inc": {
+      "mentions": []
+    },
+    "TripleNine": {
+      "mentions": []
+    },
+    "camanchaca": {
+      "mentions": []
+    },
+    "RENETA SIA": {
+      "mentions": []
+    },
+    "salmonfarm": {
+      "mentions": []
+    },
+    "omaurci sa": {
+      "mentions": []
+    },
+    "biomega as": {
+      "mentions": []
+    },
+    "Lemseafood": {
+      "mentions": []
+    },
+    "Podre Mahi": {
+      "mentions": []
+    },
+    "Calanus AS": {
+      "mentions": []
+    },
+    "partsirang": {
+      "mentions": []
+    },
+    "mar fusion": {
+      "mentions": []
+    },
+    "negin feed": {
+      "mentions": []
+    },
+    "aller aqua": {
+      "mentions": []
+    },
+    "CPD FARINE": {
+      "mentions": []
+    },
+    "AFRIC AZOTE": {
+      "mentions": []
+    },
+    "nutrimar as": {
+      "mentions": []
+    },
+    "hordafor as": {
+      "mentions": []
+    },
+    "Dimolfin SA": {
+      "mentions": []
+    },
+    "delta ocean": {
+      "mentions": []
+    },
+    "Aquarius AS": {
+      "mentions": []
+    },
+    "om sai aqua": {
+      "mentions": []
+    },
+    "iceberg llc": {
+      "mentions": []
+    },
+    "Sursan Aqua": {
+      "mentions": []
+    },
+    "roshd dorna": {
+      "mentions": []
+    },
+    "aqua export": {
+      "mentions": []
+    },
+    "Silver Food": {
+      "mentions": []
+    },
+    "Ecopelag AB": {
+      "mentions": []
+    },
+    "Biji Sesawi": {
+      "mentions": []
+    },
+    "hind aquatic": {
+      "mentions": []
+    },
+    "dalryba pjsc": {
+      "mentions": []
+    },
+    "Sahara Peche": {
+      "mentions": []
+    },
+    "Interrybflot": {
+      "mentions": []
+    },
+    "jenefa india": {
+      "mentions": []
+    },
+    "CV Bumi Indo": {
+      "mentions": []
+    },
+    "Vital Rorvik": {
+      "mentions": []
+    },
+    "beltran peru": {
+      "mentions": []
+    },
+    "UniSea, Inc.": {
+      "mentions": []
+    },
+    "agouzzal cie": {
+      "mentions": []
+    },
+    "Africa Peche": {
+      "mentions": []
+    },
+    "promarina sa": {
+      "mentions": []
+    },
+    "mundo branco": {
+      "mentions": []
+    },
+    "cmm products": {
+      "mentions": []
+    },
+    "nordfeed llc": {
+      "mentions": []
+    },
+    "san fernando": {
+      "mentions": []
+    },
+    "cervonic ltd": {
+      "mentions": []
+    },
+    "seagarden as": {
+      "mentions": []
+    },
+    "venta fm sia": {
+      "mentions": []
+    },
+    "triada foods": {
+      "mentions": []
+    },
+    "AZROW GUINEE": {
+      "mentions": []
+    },
+    "JSC Tralflot": {
+      "mentions": []
+    },
+    "TCF Co. Ltd.": {
+      "mentions": []
+    },
+    "aroma limited": {
+      "mentions": []
+    },
+    "eco vert prod": {
+      "mentions": []
+    },
+    "los glaciares": {
+      "mentions": []
+    },
+    "Musselfeed SE": {
+      "mentions": []
+    },
+    "lunar fpr ltd": {
+      "mentions": []
+    },
+    "Sao Mai Group": {
+      "mentions": []
+    },
+    "st helena bay": {
+      "mentions": []
+    },
+    "solutex gc sl": {
+      "mentions": []
+    },
+    "quality foods": {
+      "mentions": []
+    },
+    "Lucomercon SA": {
+      "mentions": []
+    },
+    "pt bali omega": {
+      "mentions": []
+    },
+    "Sea Pride LLC": {
+      "mentions": []
+    },
+    "austral group": {
+      "mentions": []
+    },
+    "OOO RK Luntos": {
+      "mentions": []
+    },
+    "grupo varamar": {
+      "mentions": []
+    },
+    "Venta FM, SIA": {
+      "mentions": []
+    },
+    "econort group": {
+      "mentions": []
+    },
+    "nutrishell as": {
+      "mentions": []
+    },
+    "ardmahikhazar": {
+      "mentions": []
+    },
+    "serconomar de": {
+      "mentions": []
+    },
+    "Groupe Adrien": {
+      "mentions": []
+    },
+    "hka bawa sons": {
+      "mentions": []
+    },
+    "ocean proteine": {
+      "mentions": []
+    },
+    "olvea atlantic": {
+      "mentions": []
+    },
+    "oceano seafood": {
+      "mentions": []
+    },
+    "atlantic peche": {
+      "mentions": []
+    },
+    "epax norway as": {
+      "mentions": []
+    },
+    "Lucky Star Ltd": {
+      "mentions": []
+    },
+    "dinay bluewave": {
+      "mentions": []
+    },
+    "productora amg": {
+      "mentions": []
+    },
+    "king pelagique": {
+      "mentions": []
+    },
+    "zc corporation": {
+      "mentions": []
+    },
+    "coomarpes ltda": {
+      "mentions": []
+    },
+    "sahel proteine": {
+      "mentions": []
+    },
+    "Sumber Protein": {
+      "mentions": []
+    },
+    "FKS Multi Agro": {
+      "mentions": []
+    },
+    "multipro yecto": {
+      "mentions": []
+    },
+    "Iceberg-2 LLC.": {
+      "mentions": []
+    },
+    "Levo Alimentos": {
+      "mentions": []
+    },
+    "Sofco Co., Ltd": {
+      "mentions": []
+    },
+    "Son of the Sea": {
+      "mentions": []
+    },
+    "PT. Bali Omega": {
+      "mentions": []
+    },
+    "fiordo austral": {
+      "mentions": []
+    },
+    "pelagia uk ltd": {
+      "mentions": []
+    },
+    "Matti Halme Oy": {
+      "mentions": []
+    },
+    "cfg investment": {
+      "mentions": []
+    },
+    "shree ulka llp": {
+      "mentions": []
+    },
+    "omicron dephaa": {
+      "mentions": []
+    },
+    "esmeralda corp": {
+      "mentions": []
+    },
+    "foodcorp chile": {
+      "mentions": []
+    },
+    "Vesteraalens AS": {
+      "mentions": []
+    },
+    "hofseth biocare": {
+      "mentions": []
+    },
+    "Golden Omega SA": {
+      "mentions": []
+    },
+    "exportadora pmt": {
+      "mentions": []
+    },
+    "pelagia bressay": {
+      "mentions": []
+    },
+    "Nouvelle Ougala": {
+      "mentions": []
+    },
+    "Lota Protein SA": {
+      "mentions": []
+    },
+    "united fish llc": {
+      "mentions": []
+    },
+    "HKA Bawa & Sons": {
+      "mentions": []
+    },
+    "sanford limited": {
+      "mentions": []
+    },
+    "africa proteine": {
+      "mentions": []
+    },
+    "ASK Andaman Ltd": {
+      "mentions": []
+    },
+    "pacific seafood": {
+      "mentions": []
+    },
+    "Ard mahi khazar": {
+      "mentions": []
+    },
+    "sonac kiel gmbh": {
+      "mentions": []
+    },
+    "Behdaneh Shomal": {
+      "mentions": []
+    },
+    "bombana raya cv": {
+      "mentions": []
+    },
+    "eco proyec peru": {
+      "mentions": []
+    },
+    "Industri Tepung": {
+      "mentions": []
+    },
+    "Moumina Fishing": {
+      "mentions": []
+    },
+    "nutricao animal": {
+      "mentions": []
+    },
+    "Grontvedt Nutri": {
+      "mentions": []
+    },
+    "stoller ecuador": {
+      "mentions": []
+    },
+    "kauluan sdn bhd": {
+      "mentions": []
+    },
+    "olvea fish oils": {
+      "mentions": []
+    },
+    "Tan Tan Sardine": {
+      "mentions": []
+    },
+    "pelagia grimsby": {
+      "mentions": []
+    },
+    "idi corporation": {
+      "mentions": []
+    },
+    "Vantage Co.,Ltd": {
+      "mentions": []
+    },
+    "NuBlend Pty Ltd": {
+      "mentions": []
+    },
+    "Hai An Co., Ltd": {
+      "mentions": []
+    },
+    "cofrima proteine": {
+      "mentions": []
+    },
+    "inversiones oslo": {
+      "mentions": []
+    },
+    "pelagia aberdeen": {
+      "mentions": []
+    },
+    "Mah el Turk SARL": {
+      "mentions": []
+    },
+    "faro farine sarl": {
+      "mentions": []
+    },
+    "Vital Seafood AS": {
+      "mentions": []
+    },
+    "Avanti Feeds Ltd": {
+      "mentions": []
+    },
+    "Protefish S.A.C.": {
+      "mentions": []
+    },
+    "NUTRIFISHING S.A": {
+      "mentions": []
+    },
+    "Skinney-\u00deinganes": {
+      "mentions": []
+    },
+    "pharma marine as": {
+      "mentions": []
+    },
+    "deltagen ecuador": {
+      "mentions": []
+    },
+    "bhp impex canada": {
+      "mentions": []
+    },
+    "fishpro nor peru": {
+      "mentions": []
+    },
+    "Proteine Seafood": {
+      "mentions": []
+    },
+    "Alfa Service Ltd": {
+      "mentions": []
+    },
+    "laayoune elevage": {
+      "mentions": []
+    },
+    "prima protein as": {
+      "mentions": []
+    },
+    "Bombana Raya, CV": {
+      "mentions": []
+    },
+    "Pelagia Greenock": {
+      "mentions": []
+    },
+    "atlantic protein": {
+      "mentions": []
+    },
+    "Don Fernando Sac": {
+      "mentions": []
+    },
+    "sea food trading": {
+      "mentions": []
+    },
+    "skinney \u00feinganes": {
+      "mentions": []
+    },
+    "comapeche farine": {
+      "mentions": []
+    },
+    "Protein Meal Tec": {
+      "mentions": []
+    },
+    "Pelagia (UK) Ltd": {
+      "mentions": []
+    },
+    "NUTRIFISH S.A.C.": {
+      "mentions": []
+    },
+    "inve thailand ltd": {
+      "mentions": []
+    },
+    "LLC Vostokrybprom": {
+      "mentions": []
+    },
+    "Pestell Nutrition": {
+      "mentions": []
+    },
+    "berg lipidtech as": {
+      "mentions": []
+    },
+    "pt bumi indo jaya": {
+      "mentions": []
+    },
+    "ocean protein llc": {
+      "mentions": []
+    },
+    "Copalis Industrie": {
+      "mentions": []
+    },
+    "IDAYRA PECHE Sarl": {
+      "mentions": []
+    },
+    "gil comes m'laleh": {
+      "mentions": []
+    },
+    "Aussie Group SARL": {
+      "mentions": []
+    },
+    "huatai pharma inc": {
+      "mentions": []
+    },
+    "C & H Fish S.A.C.": {
+      "mentions": []
+    },
+    "pelagia killybegs": {
+      "mentions": []
+    },
+    "Sucobma Co., Ltd.": {
+      "mentions": []
+    },
+    "peruvian sea food": {
+      "mentions": []
+    },
+    "industria atunera": {
+      "mentions": []
+    },
+    "Starfish Co.,Ltd.": {
+      "mentions": []
+    },
+    "generale conserve": {
+      "mentions": []
+    },
+    "sonac mering gmbh": {
+      "mentions": []
+    },
+    "inversiones regal": {
+      "mentions": []
+    },
+    "industrias afines": {
+      "mentions": []
+    },
+    "ocean fish export": {
+      "mentions": []
+    },
+    "kovie vina co ltd": {
+      "mentions": []
+    },
+    "omega protein inc": {
+      "mentions": []
+    },
+    "tangawira sdn bhd": {
+      "mentions": []
+    },
+    "min zar ni co ltd": {
+      "mentions": []
+    },
+    "shamsi industries": {
+      "mentions": []
+    },
+    "al faizal dry fish": {
+      "mentions": []
+    },
+    "Jaimar Enterprises": {
+      "mentions": []
+    },
+    "kim long fish meal": {
+      "mentions": []
+    },
+    "agro marine co ltd": {
+      "mentions": []
+    },
+    "pabrik tepung ikan": {
+      "mentions": []
+    },
+    "Sayadan Javan Jask": {
+      "mentions": []
+    },
+    "king fish products": {
+      "mentions": []
+    },
+    "AR Global Fishmeal": {
+      "mentions": []
+    },
+    "paradise fish meal": {
+      "mentions": []
+    },
+    "procesadora bayano": {
+      "mentions": []
+    },
+    "pelagia protein as": {
+      "mentions": []
+    },
+    "ak biopharm co ltd": {
+      "mentions": []
+    },
+    "blue aqua products": {
+      "mentions": []
+    },
+    "Nazdane Sepahan Co": {
+      "mentions": []
+    },
+    "pt sais jaya abadi": {
+      "mentions": []
+    },
+    "inversiones prisco": {
+      "mentions": []
+    },
+    "yormarine part ltd": {
+      "mentions": []
+    },
+    "rakyom 2525 co ltd": {
+      "mentions": []
+    },
+    "ud samudra kencana": {
+      "mentions": []
+    },
+    "s\u00fcrsan su \u00fcr\u00fcnleri": {
+      "mentions": []
+    },
+    "thien quynh co ltd": {
+      "mentions": []
+    },
+    "Baysun Su \u00dcr\u00fcnleri": {
+      "mentions": []
+    },
+    "Nutritech Co. Ltd.": {
+      "mentions": []
+    },
+    "agropesca del peru": {
+      "mentions": []
+    },
+    "proteinas del peru": {
+      "mentions": []
+    },
+    "tirupati fish meal": {
+      "mentions": []
+    },
+    "gold star seafoods": {
+      "mentions": []
+    },
+    "J. D. P. Co., Ltd.": {
+      "mentions": []
+    },
+    "inversiones quiaza": {
+      "mentions": []
+    },
+    "woojin feed co ltd": {
+      "mentions": []
+    },
+    "JSC Ostrov Sakhalin": {
+      "mentions": []
+    },
+    "Omega Protein, Inc.": {
+      "mentions": []
+    },
+    "pacific deep frozen": {
+      "mentions": []
+    },
+    "rd tuna canners png": {
+      "mentions": []
+    },
+    "Pak China Fish Meal": {
+      "mentions": []
+    },
+    "pornjeerasak co ltd": {
+      "mentions": []
+    },
+    "bioceval gmbh co kg": {
+      "mentions": []
+    },
+    "king car industrial": {
+      "mentions": []
+    },
+    "pt cnl maju bersatu": {
+      "mentions": []
+    },
+    "pro thailand co ltd": {
+      "mentions": []
+    },
+    "Epesca Pisco S.A.C.": {
+      "mentions": []
+    },
+    "Sarana Tani Pratama": {
+      "mentions": []
+    },
+    "kenney ross limited": {
+      "mentions": []
+    },
+    "Agouzzal & CIE S.A.": {
+      "mentions": []
+    },
+    "mouhit al baraka sa": {
+      "mentions": []
+    },
+    "Tangawira Sdn. Bhd.": {
+      "mentions": []
+    },
+    "Min Zar Ni Co. Ltd.": {
+      "mentions": []
+    },
+    "Kovie Vina Co. Ltd.": {
+      "mentions": []
+    },
+    "PESQUERA 2020 S.A.C": {
+      "mentions": []
+    },
+    "MULTIPRO_YECTO S.A.": {
+      "mentions": []
+    },
+    "Karmsund Protein AS": {
+      "mentions": []
+    },
+    "aquatic deal co ltd": {
+      "mentions": []
+    },
+    "manar thon fishmeal": {
+      "mentions": []
+    },
+    "vietnam corporation": {
+      "mentions": []
+    },
+    "harinas patagonicas": {
+      "mentions": []
+    },
+    "panichprapon co ltd": {
+      "mentions": []
+    },
+    "PESQUERA ABC S.A.C.": {
+      "mentions": []
+    },
+    "PT. Sais Jaya Abadi": {
+      "mentions": []
+    },
+    "sandhya marines ltd": {
+      "mentions": []
+    },
+    "aquaculture chennai": {
+      "mentions": []
+    },
+    "narciso dias filhos": {
+      "mentions": []
+    },
+    "Thien Quynh Co. Ltd": {
+      "mentions": []
+    },
+    "Pesquera Caral S.A.": {
+      "mentions": []
+    },
+    "sr biomarine co ltd": {
+      "mentions": []
+    },
+    "ql fishmeal sdn bhd": {
+      "mentions": []
+    },
+    "PELAGIA M\u00c5L\u00d8Y HEALTH": {
+      "mentions": []
+    },
+    "Pacific Bio Products": {
+      "mentions": []
+    },
+    "jsc \"yuzhmorrybflot\"": {
+      "mentions": []
+    },
+    "kantang ksc part ltd": {
+      "mentions": []
+    },
+    "Aroma (N.Z.) Limited": {
+      "mentions": []
+    },
+    "nikko oil fat co ltd": {
+      "mentions": []
+    },
+    "conservera san lucas": {
+      "mentions": []
+    },
+    "california bah\u00edas de": {
+      "mentions": []
+    },
+    "PT Sarifeed Indojaya": {
+      "mentions": []
+    },
+    "pesquera capricornio": {
+      "mentions": []
+    },
+    "PESQUERA HAYDUK S.A.": {
+      "mentions": []
+    },
+    "baja marine foods de": {
+      "mentions": []
+    },
+    "touba protein marine": {
+      "mentions": []
+    },
+    "cv indo jaya pratama": {
+      "mentions": []
+    },
+    "ZC E & L Corporation": {
+      "mentions": []
+    },
+    "alyeska seafoods inc": {
+      "mentions": []
+    },
+    "lo\u00f0nuvinnslan hf lvf": {
+      "mentions": []
+    },
+    "AK Biopharm Co., Ltd": {
+      "mentions": []
+    },
+    "lofoten biomarine as": {
+      "mentions": []
+    },
+    "Albahsani Bin Sadoon": {
+      "mentions": []
+    },
+    "Manar Thon- Fishmeal": {
+      "mentions": []
+    },
+    "PT. CNL Maju Bersatu": {
+      "mentions": []
+    },
+    "M/s. A-ONE FISH MEAL": {
+      "mentions": []
+    },
+    "VinhHoan Corporation": {
+      "mentions": []
+    },
+    "sarval bioindustries": {
+      "mentions": []
+    },
+    "protein oil industry": {
+      "mentions": []
+    },
+    "Growel Feeds Pvt Ltd": {
+      "mentions": []
+    },
+    "Frabelle PNG Limited": {
+      "mentions": []
+    },
+    "Woojin Feed Co., Ltd": {
+      "mentions": []
+    },
+    "INVE (THAILAND) LTD.": {
+      "mentions": []
+    },
+    "bawa fishmill oil co": {
+      "mentions": []
+    },
+    "harinas de andalucia": {
+      "mentions": []
+    },
+    "tsdp thailand co ltd": {
+      "mentions": []
+    },
+    "CSF Proteins Pty Ltd": {
+      "mentions": []
+    },
+    "pvl proteins limited": {
+      "mentions": []
+    },
+    "Atlantic Fish S.R.L.": {
+      "mentions": []
+    },
+    "corporacion marqueza": {
+      "mentions": []
+    },
+    "new hope liuhe co ltd": {
+      "mentions": []
+    },
+    "british aquafeeds ltd": {
+      "mentions": []
+    },
+    "Anfal Marine Products": {
+      "mentions": []
+    },
+    "piyo bhokabhan co ltd": {
+      "mentions": []
+    },
+    "Kenney & Ross Limited": {
+      "mentions": []
+    },
+    "bawa fish meal oil co": {
+      "mentions": []
+    },
+    "olvea omega solutions": {
+      "mentions": []
+    },
+    "sakol fishmeal co ltd": {
+      "mentions": []
+    },
+    "Scotia Garden Seafood": {
+      "mentions": []
+    },
+    "industrial maule ltda": {
+      "mentions": []
+    },
+    "Bioceval GmbH & Co KG": {
+      "mentions": []
+    },
+    "GC Rieber VivoMega AS": {
+      "mentions": []
+    },
+    "mahatasinwaree co ltd": {
+      "mentions": []
+    },
+    "pt sumber yalasamudra": {
+      "mentions": []
+    },
+    "pesquera miguel angel": {
+      "mentions": []
+    },
+    "Pesquera Exalmar S.A.": {
+      "mentions": []
+    },
+    "Global Marine Exports": {
+      "mentions": []
+    },
+    "industrial don martin": {
+      "mentions": []
+    },
+    "Rakyom 2525 Co., Ltd.": {
+      "mentions": []
+    },
+    "Yormarine Part., Ltd.": {
+      "mentions": []
+    },
+    "Narciso Dias & Filhos": {
+      "mentions": []
+    },
+    "universal canning inc": {
+      "mentions": []
+    },
+    "LLC \"Kamchattralflot\"": {
+      "mentions": []
+    },
+    "mbp bio production as": {
+      "mentions": []
+    },
+    "QL Fishmeal Sdn. Bhd.": {
+      "mentions": []
+    },
+    "Sealord Group Limited": {
+      "mentions": []
+    },
+    "westward seafoods inc": {
+      "mentions": []
+    },
+    "Pesquera Z Y T S.A.C.": {
+      "mentions": []
+    },
+    "sarval bio industries": {
+      "mentions": []
+    },
+    "procesadora del campo": {
+      "mentions": []
+    },
+    "pacific natural foods": {
+      "mentions": []
+    },
+    "selecta de guaymas de": {
+      "mentions": []
+    },
+    "union agrotech co ltd": {
+      "mentions": []
+    },
+    "Pesquera Ribaudo S.A.": {
+      "mentions": []
+    },
+    "aquabest group co ltd": {
+      "mentions": []
+    },
+    "Span Aquatic Products": {
+      "mentions": []
+    },
+    "Pesquera Maress S.A.C": {
+      "mentions": []
+    },
+    "pesquera bah\u00eda caldera": {
+      "mentions": []
+    },
+    "finley marine products": {
+      "mentions": []
+    },
+    "Mowi Markets Norway AS": {
+      "mentions": []
+    },
+    "Scanbio Ingredients AS": {
+      "mentions": []
+    },
+    "daybrook fisheries inc": {
+      "mentions": []
+    },
+    "ocean aquatic proteins": {
+      "mentions": []
+    },
+    "Sayyad Qeshm Fish Meal": {
+      "mentions": []
+    },
+    "Fanavaran Darya Co Ltd": {
+      "mentions": []
+    },
+    "Pornjeerasak Co., Ltd.": {
+      "mentions": []
+    },
+    "Aquatic Deal Co., Ltd.": {
+      "mentions": []
+    },
+    "industrias isla quihua": {
+      "mentions": []
+    },
+    "Pesquera Altair S.A.C.": {
+      "mentions": []
+    },
+    "empresa pesquera gamma": {
+      "mentions": []
+    },
+    "s\u00edldaravinnslan hf svn": {
+      "mentions": []
+    },
+    "Panichprapon Co., Ltd.": {
+      "mentions": []
+    },
+    "empresa pesquera polar": {
+      "mentions": []
+    },
+    "Pesquera la Portada SA": {
+      "mentions": []
+    },
+    "witchu industry co ltd": {
+      "mentions": []
+    },
+    "Janatha Ocean Products": {
+      "mentions": []
+    },
+    "Abal\u0131o\u011flu Bal\u0131k \u0130\u015fleme": {
+      "mentions": []
+    },
+    "alimentos los ferroles": {
+      "mentions": []
+    },
+    "Atlantic Tank Terminal": {
+      "mentions": []
+    },
+    "Bluff Proteins Limited": {
+      "mentions": []
+    },
+    "mukka proteins limited": {
+      "mentions": []
+    },
+    "SR Biomarine Co., Ltd.": {
+      "mentions": []
+    },
+    "united marine products": {
+      "mentions": []
+    },
+    "Pesquera Pelayo S.A.C.": {
+      "mentions": []
+    },
+    "Kantang KSC Part. Ltd.": {
+      "mentions": []
+    },
+    "Mafan Anzali Fish Meal": {
+      "mentions": []
+    },
+    "Khan Traders Fish Meal": {
+      "mentions": []
+    },
+    "Pesquera Diamante S.A.": {
+      "mentions": []
+    },
+    "Talley's Group Limited": {
+      "mentions": []
+    },
+    "siamchai pokpan co ltd": {
+      "mentions": []
+    },
+    "sanki shiryo kogyo ltd": {
+      "mentions": []
+    },
+    "xiangheshun mauritanie": {
+      "mentions": []
+    },
+    "Bismi Aquatic Products": {
+      "mentions": []
+    },
+    "amazing desire sdn bhd": {
+      "mentions": []
+    },
+    "charoensinwaree co ltd": {
+      "mentions": []
+    },
+    "Alyeska Seafoods, Inc.": {
+      "mentions": []
+    },
+    "nissui thailand co ltd": {
+      "mentions": []
+    },
+    "Pesquera Shanel S.A.C.": {
+      "mentions": []
+    },
+    "star feedmills sdn bhd": {
+      "mentions": []
+    },
+    "pacifico industrial de": {
+      "mentions": []
+    },
+    "marine protein marprot": {
+      "mentions": []
+    },
+    "gold fin international": {
+      "mentions": []
+    },
+    "Piyo Bhokabhan Co.,Ltd": {
+      "mentions": []
+    },
+    "panus feed mill co ltd": {
+      "mentions": []
+    },
+    "N.K. Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "Universal Canning, Inc.": {
+      "mentions": []
+    },
+    "Bioceval GmbH & Co. KG.": {
+      "mentions": []
+    },
+    "continental sea food sa": {
+      "mentions": []
+    },
+    "siddhivinayak fish meal": {
+      "mentions": []
+    },
+    "Pesquera Natalia S.A.C.": {
+      "mentions": []
+    },
+    "Pesquera Nemesis S.A.C.": {
+      "mentions": []
+    },
+    "maz industrial sa de cv": {
+      "mentions": []
+    },
+    "Pesquera Juanita S.R.L.": {
+      "mentions": []
+    },
+    "Aras Marine Products Co": {
+      "mentions": []
+    },
+    "anusorn mahachai surimi": {
+      "mentions": []
+    },
+    "pioneer fishing pty ltd": {
+      "mentions": []
+    },
+    "sorasak fishmeal co ltd": {
+      "mentions": []
+    },
+    "bismi fisheries pvt ltd": {
+      "mentions": []
+    },
+    "Pacific Marine Products": {
+      "mentions": []
+    },
+    "Alimentos Pesqueros SpA": {
+      "mentions": []
+    },
+    "eastern fishmeal co ltd": {
+      "mentions": []
+    },
+    "patthriya thanit co ltd": {
+      "mentions": []
+    },
+    "teppama fishmeal co ltd": {
+      "mentions": []
+    },
+    "Westward Seafoods, Inc.": {
+      "mentions": []
+    },
+    "paechae songkhla co ltd": {
+      "mentions": []
+    },
+    "qu\u00edmica industrial spes": {
+      "mentions": []
+    },
+    "Lo\u00f0nuvinnslan hf. (LVF)": {
+      "mentions": []
+    },
+    "shri rozy fish meal oil": {
+      "mentions": []
+    },
+    "ban bueng plapon co ltd": {
+      "mentions": []
+    },
+    "rungsin pokphand co ltd": {
+      "mentions": []
+    },
+    "tc union vietnam co ltd": {
+      "mentions": []
+    },
+    "Pesquera Centromar S.A.": {
+      "mentions": []
+    },
+    "C P Aquaculture-Chennai": {
+      "mentions": []
+    },
+    "Bawa Fishmill & Oil Co.": {
+      "mentions": []
+    },
+    "samila fish meal co ltd": {
+      "mentions": []
+    },
+    "Pesquera Cantabria S.A.": {
+      "mentions": []
+    },
+    "henry lamotte oils gmbh": {
+      "mentions": []
+    },
+    "SERCONOMAR, S.A DE C.V.": {
+      "mentions": []
+    },
+    "PT Lautan Kembar Sejati": {
+      "mentions": []
+    },
+    "thai union feedmill pcl": {
+      "mentions": []
+    },
+    "west coast reduction ltd": {
+      "mentions": []
+    },
+    "tepung ikan bypass krian": {
+      "mentions": []
+    },
+    "S\u00edldaravinnslan hf (SVN)": {
+      "mentions": []
+    },
+    "binsedoon fish marine co": {
+      "mentions": []
+    },
+    "sirisaeng arumpee co ltd": {
+      "mentions": []
+    },
+    "thai pattana feed co ltd": {
+      "mentions": []
+    },
+    "Mahdaneh South Fish Meal": {
+      "mentions": []
+    },
+    "Al Watania Pour la Peche": {
+      "mentions": []
+    },
+    "our leader office co ltd": {
+      "mentions": []
+    },
+    "Pelagia Karmsund Protein": {
+      "mentions": []
+    },
+    "minh t\u00e2m fishmeal co ltd": {
+      "mentions": []
+    },
+    "TC Union Vietnam Co. Ltd": {
+      "mentions": []
+    },
+    "group corporation reye's": {
+      "mentions": []
+    },
+    "Mega Fishing Corporation": {
+      "mentions": []
+    },
+    "mien tay aquafeed ltd co": {
+      "mentions": []
+    },
+    "tungka fishmeal part ltd": {
+      "mentions": []
+    },
+    "Malayan Fish Oil Sdn Bhd": {
+      "mentions": []
+    },
+    "Daybrook Fisheries, Inc.": {
+      "mentions": []
+    },
+    "alimentos marinos alimar": {
+      "mentions": []
+    },
+    "krungdhep mahakij co ltd": {
+      "mentions": []
+    },
+    "diamond aqua fishes meal": {
+      "mentions": []
+    },
+    "T R F Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "Aquabest Group Co., Ltd.": {
+      "mentions": []
+    },
+    "tecnologica de alimentos": {
+      "mentions": []
+    },
+    "Protein and Oil Industry": {
+      "mentions": []
+    },
+    "gurunathan aqua products": {
+      "mentions": []
+    },
+    "Siamchai Pokpan Co., Ltd": {
+      "mentions": []
+    },
+    "Bawa Fish Meal & Oil Co.": {
+      "mentions": []
+    },
+    "sous produits du poisson": {
+      "mentions": []
+    },
+    "f\u00f3\u00f0urverksmi\u00f0jan lax\u00e1 hf": {
+      "mentions": []
+    },
+    "skretting yem \u00fcretim tic": {
+      "mentions": []
+    },
+    "\u00edsf\u00e9lag vestmannaeyja hf": {
+      "mentions": []
+    },
+    "New Hope Liuhe Co., Ltd.": {
+      "mentions": []
+    },
+    "balanceados nova balnova": {
+      "mentions": []
+    },
+    "harina de camaron harcam": {
+      "mentions": []
+    },
+    "Bismi Fisheries Pvt. Ltd": {
+      "mentions": []
+    },
+    "betagro feed mill co ltd": {
+      "mentions": []
+    },
+    "Mahatasinwaree Co., Ltd.": {
+      "mentions": []
+    },
+    "Coastal Aquatic Proteins": {
+      "mentions": []
+    },
+    "Sakol Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "general tuna corporation": {
+      "mentions": []
+    },
+    "century pacific food inc": {
+      "mentions": []
+    },
+    "mauritania business sarl": {
+      "mentions": []
+    },
+    "Global Fish Trading Sarl": {
+      "mentions": []
+    },
+    "sociedad pesquera landes": {
+      "mentions": []
+    },
+    "Charoensinwaree Co., Ltd.": {
+      "mentions": []
+    },
+    "avanti feeds limited ssmd": {
+      "mentions": []
+    },
+    "Amar Sterilised Fish Meal": {
+      "mentions": []
+    },
+    "amawandle pelagic pty ltd": {
+      "mentions": []
+    },
+    "asia fish oil corporation": {
+      "mentions": []
+    },
+    "pescaharina de guaymas de": {
+      "mentions": []
+    },
+    "jsc murmansk region fleet": {
+      "mentions": []
+    },
+    "Mauritania Fish Meal SARL": {
+      "mentions": []
+    },
+    "Teppama Fishmeal Co., Ltd": {
+      "mentions": []
+    },
+    "Camanchaca Pesca Sur S.A.": {
+      "mentions": []
+    },
+    "natnov bioscience pvt ltd": {
+      "mentions": []
+    },
+    "inasa industrial aceitera": {
+      "mentions": []
+    },
+    "sandakan fishmeal sdn bhd": {
+      "mentions": []
+    },
+    "Marina De Guerra Del Peru": {
+      "mentions": []
+    },
+    "Witchu Industry Co., Ltd.": {
+      "mentions": []
+    },
+    "corporacion pesquera inca": {
+      "mentions": []
+    },
+    "khanh hoang seaprexco ltd": {
+      "mentions": []
+    },
+    "yew seng fishmeal sdn bhd": {
+      "mentions": []
+    },
+    "pelagia karmsund fiskemel": {
+      "mentions": []
+    },
+    "tak chua brothers sdn bhd": {
+      "mentions": []
+    },
+    "Industrias Barda SA de CV": {
+      "mentions": []
+    },
+    "Panus Feed Mill Co., Ltd.": {
+      "mentions": []
+    },
+    "concentrados de proteinas": {
+      "mentions": []
+    },
+    "mangalore marine products": {
+      "mentions": []
+    },
+    "mowi nutrition hjelmeland": {
+      "mentions": []
+    },
+    "nambawan seafoods png ltd": {
+      "mentions": []
+    },
+    "corporacion pesquera 1313": {
+      "mentions": []
+    },
+    "TSDP (Thailand) Co., Ltd.": {
+      "mentions": []
+    },
+    "Intermarket International": {
+      "mentions": []
+    },
+    "Minh T\u00e2m Fishmeal Co.,Ltd": {
+      "mentions": []
+    },
+    "panfast marketing sdn bhd": {
+      "mentions": []
+    },
+    "Nikko Oil & Fat Co., Ltd.": {
+      "mentions": []
+    },
+    "corporaci\u00f3n pesquera inca": {
+      "mentions": []
+    },
+    "Pesquera Hillary E.I.R.L.": {
+      "mentions": []
+    },
+    "Pesquera Centinela S.A.C.": {
+      "mentions": []
+    },
+    "klong yai fishmeal co ltd": {
+      "mentions": []
+    },
+    "pt toba surimi industries": {
+      "mentions": []
+    },
+    "Eastern Fishmeal Co.,Ltd.": {
+      "mentions": []
+    },
+    "bvp marine product co ltd": {
+      "mentions": []
+    },
+    "dai thanh seafoods co ltd": {
+      "mentions": []
+    },
+    "kanpa international sales": {
+      "mentions": []
+    },
+    "Kakariki Proteins Limited": {
+      "mentions": []
+    },
+    "spf diana thailand co ltd": {
+      "mentions": []
+    },
+    "Pioneer Fishing (Pty) Ltd": {
+      "mentions": []
+    },
+    "P.S.P. Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "wiboon agri supply co ltd": {
+      "mentions": []
+    },
+    "Hawkes Bay Protein Limited": {
+      "mentions": []
+    },
+    "Ambitious Fishmeal Product": {
+      "mentions": []
+    },
+    "Sirisaeng Arumpee Co. Ltd.": {
+      "mentions": []
+    },
+    "TJ Marine Products Pvt Ltd": {
+      "mentions": []
+    },
+    "Star Feedmills (M) Sdn Bhd": {
+      "mentions": []
+    },
+    "pt pahala bahari nusantara": {
+      "mentions": []
+    },
+    "mmoa peche farine et huile": {
+      "mentions": []
+    },
+    "PELAGIA HORDAFOR SALTHELLA": {
+      "mentions": []
+    },
+    "an lac corporation vietnam": {
+      "mentions": []
+    },
+    "industrial del pacifico de": {
+      "mentions": []
+    },
+    "SARVAL BIO-INDUSTRIES, SLU": {
+      "mentions": []
+    },
+    "Janatha Inter Fish Protein": {
+      "mentions": []
+    },
+    "PT Indocitra Jaya Sumadera": {
+      "mentions": []
+    },
+    "proteins australia pty ltd": {
+      "mentions": []
+    },
+    "Rungsin Pokphand Co., Ltd.": {
+      "mentions": []
+    },
+    "An Lac Corporation,Vietnam": {
+      "mentions": []
+    },
+    "TC Union Agrotech Co. Ltd.": {
+      "mentions": []
+    },
+    "chok anavin fishery co ltd": {
+      "mentions": []
+    },
+    "Laayoune Proteins S.A.R.L.": {
+      "mentions": []
+    },
+    "K-Pro (Thailand) Co., Ltd.": {
+      "mentions": []
+    },
+    "mauritania sea food solube": {
+      "mentions": []
+    },
+    "truong phuc seafood co ltd": {
+      "mentions": []
+    },
+    "siam precious feeds co ltd": {
+      "mentions": []
+    },
+    "SAINT LOUIS SEA PRODUCTION": {
+      "mentions": []
+    },
+    "khantichai fishmeal co ltd": {
+      "mentions": []
+    },
+    "Tungka Fishmeal\nPart.,Ltd.": {
+      "mentions": []
+    },
+    "Century Pacific Food, Inc.": {
+      "mentions": []
+    },
+    "thungca fish meal part ltd": {
+      "mentions": []
+    },
+    "LUIS ANTONIO POZO ASCENCIO": {
+      "mentions": []
+    },
+    "Patthriya Thanit Co., Ltd.": {
+      "mentions": []
+    },
+    "PT. Toba Surimi Industries": {
+      "mentions": []
+    },
+    "ql marine products sdn bhd": {
+      "mentions": []
+    },
+    "dsm marine lipids per\u00fa sac": {
+      "mentions": []
+    },
+    "npm fish meal oil products": {
+      "mentions": []
+    },
+    "Paechae Songkhla Co., Ltd.": {
+      "mentions": []
+    },
+    "Sorasak Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "Samila Fish Meal Co., Ltd.": {
+      "mentions": []
+    },
+    "corporacion frutos del mar": {
+      "mentions": []
+    },
+    "pesquera op7 bell op7 bell": {
+      "mentions": []
+    },
+    "Thai Pattana Feed Co., Ltd.": {
+      "mentions": []
+    },
+    "productora marvivo promarvi": {
+      "mentions": []
+    },
+    "sardinas de sonora sa de cv": {
+      "mentions": []
+    },
+    "QL Marine Products Sdn.Bhd.": {
+      "mentions": []
+    },
+    "Yew Seng Fishmeal Sdn. Bhd.": {
+      "mentions": []
+    },
+    "Our Leader Office Co., Ltd.": {
+      "mentions": []
+    },
+    "Phuong Dong Seafood Limited": {
+      "mentions": []
+    },
+    "Sandakan Fishmeal Sdn. Bhd.": {
+      "mentions": []
+    },
+    "Dai Thanh Seafoods Co., Ltd": {
+      "mentions": []
+    },
+    "Nissui (Thailand) Co., Ltd.": {
+      "mentions": []
+    },
+    "harina de pescado pindhagon": {
+      "mentions": []
+    },
+    "shandong bohai group co ltd": {
+      "mentions": []
+    },
+    "PESQUERA FIORDO AUSTRAL S A": {
+      "mentions": []
+    },
+    "Krungdhep Mahakij Co., Ltd.": {
+      "mentions": []
+    },
+    "Amawandle Pelagic (Pty) Ltd": {
+      "mentions": []
+    },
+    "yong liang fishmeal sdn bhd": {
+      "mentions": []
+    },
+    "inchiri entreprenariat sarl": {
+      "mentions": []
+    },
+    "sermsin fish product co ltd": {
+      "mentions": []
+    },
+    "auqi marine bio tech co ltd": {
+      "mentions": []
+    },
+    "Sarval Bio-Industries S.L.U": {
+      "mentions": []
+    },
+    "Aker BioMarine Antarctic AS": {
+      "mentions": []
+    },
+    "ch daudruy van cauwenberghe": {
+      "mentions": []
+    },
+    "Xiangheshun-Mauritanie S.A.": {
+      "mentions": []
+    },
+    "Betagro Feed Mill Co., Ltd.": {
+      "mentions": []
+    },
+    "vi lenin fishing collective": {
+      "mentions": []
+    },
+    "Shri Rozy Fish Meal and oil": {
+      "mentions": []
+    },
+    "Aliment et Proteine Du Nord": {
+      "mentions": []
+    },
+    "BVP Marine Product Co. Ltd.": {
+      "mentions": []
+    },
+    "Avanti Feeds Limited - SSMD": {
+      "mentions": []
+    },
+    "golden prize canning co ltd": {
+      "mentions": []
+    },
+    "NatNov Bioscience Pvt. Ltd.": {
+      "mentions": []
+    },
+    "Majestic Seafood Corporation": {
+      "mentions": []
+    },
+    "industrial pesquera heras de": {
+      "mentions": []
+    },
+    "rung ruang fish works co ltd": {
+      "mentions": []
+    },
+    "ban klaeng industry part ltd": {
+      "mentions": []
+    },
+    "Jana Fish Industries Limited": {
+      "mentions": []
+    },
+    "philbest canning corporation": {
+      "mentions": []
+    },
+    "shandong qilong group co ltd": {
+      "mentions": []
+    },
+    "natural protein technologies": {
+      "mentions": []
+    },
+    "alimentos finos del pacifico": {
+      "mentions": []
+    },
+    "chareon sin fish meal co ltd": {
+      "mentions": []
+    },
+    "Pelagia Bodo Sildoljefabrikk": {
+      "mentions": []
+    },
+    "pt argopuro berkat indonesia": {
+      "mentions": []
+    },
+    "Truong Phuc Seafood Co. Ltd.": {
+      "mentions": []
+    },
+    "yutong industrial co limited": {
+      "mentions": []
+    },
+    "fujian evergreen feed co ltd": {
+      "mentions": []
+    },
+    "Ch. Daudruy Van Cauwenberghe": {
+      "mentions": []
+    },
+    "pjsc murmansk trawling fleet": {
+      "mentions": []
+    },
+    "compania pesquera camanchaca": {
+      "mentions": []
+    },
+    "Wiboon Agri Supply Co., Ltd.": {
+      "mentions": []
+    },
+    "rongcheng blue ocean biotech": {
+      "mentions": []
+    },
+    "taweelarp fish meal part ltd": {
+      "mentions": []
+    },
+    "Khantichai Fishmeal Co.,Ltd.": {
+      "mentions": []
+    },
+    "SPF Diana (Thailand) Co. Ltd": {
+      "mentions": []
+    },
+    "siam eastern industry co ltd": {
+      "mentions": []
+    },
+    "trident seafoods corporation": {
+      "mentions": []
+    },
+    "kiyak kardesler black sea co": {
+      "mentions": []
+    },
+    "productos pesqueros produpes": {
+      "mentions": []
+    },
+    "Klong Yai Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "SARVAL BIO-INDUSTRIES, S.L.U": {
+      "mentions": []
+    },
+    "corporacion pesquera coishco": {
+      "mentions": []
+    },
+    "T.C. Union Agrotech Co., Ltd": {
+      "mentions": []
+    },
+    "S.K.S. Agro-Marine Co., Ltd.": {
+      "mentions": []
+    },
+    "speed pial fishmeal fish oil": {
+      "mentions": []
+    },
+    "Pelagia Maloy Sildoljefabrikk": {
+      "mentions": []
+    },
+    "Thungca Fish Meal Part., Ltd.": {
+      "mentions": []
+    },
+    "huaneng bio technology co ltd": {
+      "mentions": []
+    },
+    "Hameed Marine Private Limited": {
+      "mentions": []
+    },
+    "Chok Anavin Fishery Co., Ltd.": {
+      "mentions": []
+    },
+    "Alimentos Marinos S.A. ALIMAR": {
+      "mentions": []
+    },
+    "independent fisheries limited": {
+      "mentions": []
+    },
+    "winterisation mauritania sarl": {
+      "mentions": []
+    },
+    "Ocean Products Seychelles Ltd": {
+      "mentions": []
+    },
+    "SLORD Development Corporation": {
+      "mentions": []
+    },
+    "samutprakarn fish meal co ltd": {
+      "mentions": []
+    },
+    "seadragon marine oils limited": {
+      "mentions": []
+    },
+    "Huaneng Bio-technology Co.Ltd": {
+      "mentions": []
+    },
+    "uab nord baltic fishery group": {
+      "mentions": []
+    },
+    "Auqi Marine Bio-Tech Co. Ltd.": {
+      "mentions": []
+    },
+    "ranong food products part ltd": {
+      "mentions": []
+    },
+    "pelagia m\u00e5l\u00f8y sildoljefabrikk": {
+      "mentions": []
+    },
+    "hup lean alk feedmeal sdn bhd": {
+      "mentions": []
+    },
+    "SIAM PRECIOUS FEEDS CO., LTD.": {
+      "mentions": []
+    },
+    "Kiyak Kardesler-Black Sea Co.": {
+      "mentions": []
+    },
+    "marksmen aquatic products llp": {
+      "mentions": []
+    },
+    "Sermsin Fish Product Co., Ltd": {
+      "mentions": []
+    },
+    "inversiones pesqueras liguria": {
+      "mentions": []
+    },
+    "bakels edible oils nz limited": {
+      "mentions": []
+    },
+    "hong ducvuong viet nam co ltd": {
+      "mentions": []
+    },
+    "PT. Argopuro Berkat Indonesia": {
+      "mentions": []
+    },
+    "west point processors pty ltd": {
+      "mentions": []
+    },
+    "Golden Prize Canning Co. Ltd.": {
+      "mentions": []
+    },
+    "BALANCEADOS NOVA S.A. BALNOVA": {
+      "mentions": []
+    },
+    "thai union ingredients co ltd": {
+      "mentions": []
+    },
+    "tecnol\u00f3gica de alimentos tasa": {
+      "mentions": []
+    },
+    "chaicharoen marine 2002 co ltd": {
+      "mentions": []
+    },
+    "Shandong Bohai Group Co., Ltd.": {
+      "mentions": []
+    },
+    "segundo felipe asecncio rivera": {
+      "mentions": []
+    },
+    "Rung Ruang Fish Works Co.,Ltd.": {
+      "mentions": []
+    },
+    "lucky ocean enterprise sdn bhd": {
+      "mentions": []
+    },
+    "arbee aquatic proteins pvt ltd": {
+      "mentions": []
+    },
+    "woraphan ice fishmeal part ltd": {
+      "mentions": []
+    },
+    "marine acary production co ltd": {
+      "mentions": []
+    },
+    "industrias bioacuaticas talara": {
+      "mentions": []
+    },
+    "\u00e7aml\u0131 yem besicilik san ve tic": {
+      "mentions": []
+    },
+    "Shandong Qilong Group Co. Ltd.": {
+      "mentions": []
+    },
+    "Yutong Industrial Co., Limited": {
+      "mentions": []
+    },
+    "alimentos conservados el santa": {
+      "mentions": []
+    },
+    "pesca peru tambo de mora norte": {
+      "mentions": []
+    },
+    "NPM Fish Meal and Oil Products": {
+      "mentions": []
+    },
+    "universal de comercio unicorsa": {
+      "mentions": []
+    },
+    "sin hong heng fishmeal sdn bhd": {
+      "mentions": []
+    },
+    "Productos Pesqueros de Guaymas": {
+      "mentions": []
+    },
+    "Marksmen Aquatic Products, LLP": {
+      "mentions": []
+    },
+    "wasan samut fish meal part ltd": {
+      "mentions": []
+    },
+    "saengcharoen products part ltd": {
+      "mentions": []
+    },
+    "klongdan fish meal 2530 co ltd": {
+      "mentions": []
+    },
+    "mowi nutrition goleni\u00f3w spolka": {
+      "mentions": []
+    },
+    "janatha fish meal oil products": {
+      "mentions": []
+    },
+    "Hong DucVuong Viet Nam Co., Ltd": {
+      "mentions": []
+    },
+    "sang thong saha farm stf co ltd": {
+      "mentions": []
+    },
+    "pattani industry fishery co ltd": {
+      "mentions": []
+    },
+    "Panfast Marketing (M) Sdn. Bhd.": {
+      "mentions": []
+    },
+    "nu mega ingredients ecuador nmi": {
+      "mentions": []
+    },
+    "proteina de ecuador ecuaprotein": {
+      "mentions": []
+    },
+    "gihon laboratorios qu\u00edmicos srl": {
+      "mentions": []
+    },
+    "Siam Eastern Industry Co., Ltd.": {
+      "mentions": []
+    },
+    "Thai Union Ingredients Co. Ltd.": {
+      "mentions": []
+    },
+    "West Point Processors (Pty) Ltd": {
+      "mentions": []
+    },
+    "Industrielle Proteine Magrebine": {
+      "mentions": []
+    },
+    "songkhla marine products co ltd": {
+      "mentions": []
+    },
+    "Taweelarp Fish Meal Part., Ltd.": {
+      "mentions": []
+    },
+    "anusorn aquatic industry co ltd": {
+      "mentions": []
+    },
+    "Marine Acary Production Co.,Ltd": {
+      "mentions": []
+    },
+    "Hup Lean Alk Feedmeal Sdn. Bhd.": {
+      "mentions": []
+    },
+    "luhua biomarine shandong co ltd": {
+      "mentions": []
+    },
+    "pt sari laut jaya food products": {
+      "mentions": []
+    },
+    "industrial pesquera junin junsa": {
+      "mentions": []
+    },
+    "indah kemilau alam nusantara cv": {
+      "mentions": []
+    },
+    "Bakels Edible Oils (NZ) Limited": {
+      "mentions": []
+    },
+    "Chareon Sin Fish Meal Co., Ltd.": {
+      "mentions": []
+    },
+    "proveedora de productos marinos": {
+      "mentions": []
+    },
+    "Fujian Evergreen Feed Co., Ltd.": {
+      "mentions": []
+    },
+    "conserveros reunidos sl conresa": {
+      "mentions": []
+    },
+    "Ban Klaeng Industry Part., Ltd.": {
+      "mentions": []
+    },
+    "wudi fengtai aquaculture co ltd": {
+      "mentions": []
+    },
+    "hyundai special feed ind co ltd": {
+      "mentions": []
+    },
+    "san nguansin fish meal part ltd": {
+      "mentions": []
+    },
+    "import export pesca agricultura": {
+      "mentions": []
+    },
+    "California Bah\u00edas, S.A. De C.V.": {
+      "mentions": []
+    },
+    "Ranong Food Products Part. Ltd.": {
+      "mentions": []
+    },
+    "SARVAL BIO - INDUSTRIES, S.L.U.": {
+      "mentions": []
+    },
+    "pt sahabat nelayan jaya mandiri": {
+      "mentions": []
+    },
+    "PT. Sari Laut Jaya Food Products": {
+      "mentions": []
+    },
+    "Thai Union Marine Nutrients GmbH": {
+      "mentions": []
+    },
+    "Selecta de Guaymas, S.A. de C.V.": {
+      "mentions": []
+    },
+    "pelagia egersund sildoljefabrikk": {
+      "mentions": []
+    },
+    "Speed Pial Fishmeal and Fish Oil": {
+      "mentions": []
+    },
+    "INDAH KEMILAU ALAM NUSANTARA, CV": {
+      "mentions": []
+    },
+    "ql endau marine products sdn bhd": {
+      "mentions": []
+    },
+    "qingzhou ekato commercial co ltd": {
+      "mentions": []
+    },
+    "Samutprakarn Fish Meal Co., Ltd.": {
+      "mentions": []
+    },
+    "Sin Hong Heng Fishmeal Sdn. Bhd.": {
+      "mentions": []
+    },
+    "marksmen marine products pvt ltd": {
+      "mentions": []
+    },
+    "Aker Biomarine Manufacturing LLC": {
+      "mentions": []
+    },
+    "Hiravati Marine Products Pvt Ltd": {
+      "mentions": []
+    },
+    "industrial pesquera santa monica": {
+      "mentions": []
+    },
+    "Lucky Ocean Enterprise Sdn. Bhd.": {
+      "mentions": []
+    },
+    "advance agro technology part ltd": {
+      "mentions": []
+    },
+    "PT. Sahabat Nelayan Jaya Mandiri": {
+      "mentions": []
+    },
+    "Sanford Limited trading as ENZAQ": {
+      "mentions": []
+    },
+    "kasemkit pattani fishmeal co ltd": {
+      "mentions": []
+    },
+    "Productora Marvivo S.A. PROMARVI": {
+      "mentions": []
+    },
+    "manabita de comercio mancorsacom": {
+      "mentions": []
+    },
+    "empresa figueirense de pesca lda": {
+      "mentions": []
+    },
+    "ingenieros pesqueros consultores": {
+      "mentions": []
+    },
+    "wudi deda agriculture co limited": {
+      "mentions": []
+    },
+    "Pacifico Industrial S.A. de C.V.": {
+      "mentions": []
+    },
+    "mit khanom fish meal 1997 co ltd": {
+      "mentions": []
+    },
+    "sinphiboonchai fishmill part ltd": {
+      "mentions": []
+    },
+    "Gihon- Laboratorios Qu\u00edmicos SRL": {
+      "mentions": []
+    },
+    "novosana taicang bio feed co ltd": {
+      "mentions": []
+    },
+    "negocios industriales real nirsa": {
+      "mentions": []
+    },
+    "Empresa Figueirense de Pesca, LDA": {
+      "mentions": []
+    },
+    "Conserveros Reunidos SL (CONRESA)": {
+      "mentions": []
+    },
+    "cv sumber rejeki makmur sejahtera": {
+      "mentions": []
+    },
+    "jsc \"ask\" aka agency selkhozkorma": {
+      "mentions": []
+    },
+    "Binsedoon For Fish and Marine Co.": {
+      "mentions": []
+    },
+    "blueline foods india pvt ltd unit": {
+      "mentions": []
+    },
+    "Mukka Sea Food Industries Pvt Ltd": {
+      "mentions": []
+    },
+    "nang yon fishmeal industry co ltd": {
+      "mentions": []
+    },
+    "Wasan Samut Fish Meal Part., Ltd.": {
+      "mentions": []
+    },
+    "Marine Biotechnology Products Ltd": {
+      "mentions": []
+    },
+    "wudi huaxiang aquaculture co \uff0cltd": {
+      "mentions": []
+    },
+    "taiwan hung kuo industrial co ltd": {
+      "mentions": []
+    },
+    "guan hoe huat fishmeal co sdn bhd": {
+      "mentions": []
+    },
+    "Saengcharoen Products part., Ltd.": {
+      "mentions": []
+    },
+    "procesadora mar de ensenada de de": {
+      "mentions": []
+    },
+    "yangon fishery development co ltd": {
+      "mentions": []
+    },
+    "Productos Pesqueros S.A. Produpes": {
+      "mentions": []
+    },
+    "fujian high fortune bio tech corp": {
+      "mentions": []
+    },
+    "phuket fishmeal industrial co ltd": {
+      "mentions": []
+    },
+    "Fujian High Fortune Bio-Tech Corp": {
+      "mentions": []
+    },
+    "pearl city marine products pvt ltd": {
+      "mentions": []
+    },
+    "Songkhla Marine Products Co., Ltd.": {
+      "mentions": []
+    },
+    "Pattani Industry Fishery Co., Ltd.": {
+      "mentions": []
+    },
+    "San-nguansin Fish Meal Part., Ltd.": {
+      "mentions": []
+    },
+    "QL Endau Marine Products Sdn. Bhd.": {
+      "mentions": []
+    },
+    "khuraburi fishmeal industry co ltd": {
+      "mentions": []
+    },
+    "phatanakarn pramong pattany co ltd": {
+      "mentions": []
+    },
+    "thachin fishmill industrial co ltd": {
+      "mentions": []
+    },
+    "omega fishmeal oil private limited": {
+      "mentions": []
+    },
+    "kantang fishmeal industry part ltd": {
+      "mentions": []
+    },
+    "Wudi Deda Agriculture Co., Limited": {
+      "mentions": []
+    },
+    "bio marine ingredients ireland ltd": {
+      "mentions": []
+    },
+    "Hyundai Special Feed IND Co., LTD.": {
+      "mentions": []
+    },
+    "thai luxe enterprises pcl thailand": {
+      "mentions": []
+    },
+    "Yangon Fishery Development Co.,Ltd": {
+      "mentions": []
+    },
+    "hijos de emilio ramirez sa pescave": {
+      "mentions": []
+    },
+    "new zealand king salmon co limited": {
+      "mentions": []
+    },
+    "Chaicharoen Marine (2002) Co.,Ltd.": {
+      "mentions": []
+    },
+    "Anusorn Aquatic Industry Co., Ltd.": {
+      "mentions": []
+    },
+    "progress frozen fish sterilization": {
+      "mentions": []
+    },
+    "Wudi Fengtai Aquaculture Co., Ltd.": {
+      "mentions": []
+    },
+    "Phuket Fishmeal Industrial Co.,ltd": {
+      "mentions": []
+    },
+    "Janatha Fish Meal and Oil Products": {
+      "mentions": []
+    },
+    "WUDI HUAXIANG AQUACULTURE CO.\uff0cLTD.": {
+      "mentions": []
+    },
+    "Baja Marine Foods,S.A.P.I. De C.V.": {
+      "mentions": []
+    },
+    "coip consortium industriel de p\u00eache": {
+      "mentions": []
+    },
+    "Luhua Biomarine (Shandong) Co. Ltd.": {
+      "mentions": []
+    },
+    "Industrial del Pacifico S.A de C.V.": {
+      "mentions": []
+    },
+    "pacific marine food products co ltd": {
+      "mentions": []
+    },
+    "Bio-Marine Ingredients Ireland Ltd.": {
+      "mentions": []
+    },
+    "south seas tuna corporation limited": {
+      "mentions": []
+    },
+    "Sinphiboonchai Fishmill Part., Ltd.": {
+      "mentions": []
+    },
+    "Kasemkit Pattani Fishmeal Co., Ltd.": {
+      "mentions": []
+    },
+    "dsm nutritional products canada inc": {
+      "mentions": []
+    },
+    "fh procurement sarl connected sicop": {
+      "mentions": []
+    },
+    "asian alliance international co ltd": {
+      "mentions": []
+    },
+    "sepomer alt name: sepomer sahara ii": {
+      "mentions": []
+    },
+    "Pearl City Marine Products Pvt. Ltd": {
+      "mentions": []
+    },
+    "f\u00e1brica de conservas la gondola lda": {
+      "mentions": []
+    },
+    "armadores congeladores del pacifico": {
+      "mentions": []
+    },
+    "saengcharoen wattana fishery co ltd": {
+      "mentions": []
+    },
+    "Qingzhou Ekato Commercial Co., Ltd.": {
+      "mentions": []
+    },
+    "Klongdan Fish Meal (2530) Co., Ltd.": {
+      "mentions": []
+    },
+    "Thai Luxe Enterprises PCL, Thailand": {
+      "mentions": []
+    },
+    "Universal de Comercio S.A. UNICORSA": {
+      "mentions": []
+    },
+    "spa international food group co ltd": {
+      "mentions": []
+    },
+    "al muhajer trading seafood industry": {
+      "mentions": []
+    },
+    "Novosana(Taicang) Bio Feed Co., Ltd": {
+      "mentions": []
+    },
+    "NovoSana (Taicang) Bio Feed Co. Ltd": {
+      "mentions": []
+    },
+    "ngoc dung trading production co ltd": {
+      "mentions": []
+    },
+    "Nang Yon Fishmeal Industry Co., Ltd.": {
+      "mentions": []
+    },
+    "Tecnol\u00f3gica de Alimentos S.A. (TASA)": {
+      "mentions": []
+    },
+    "Hijos de Emilio Ramirez SA \u2013 Pescave": {
+      "mentions": []
+    },
+    "Sonia Marine Exports Private Limited": {
+      "mentions": []
+    },
+    "Pescaharina de Guaymas, S.A. de C.V.": {
+      "mentions": []
+    },
+    "calvo conservas el salvador sa de cv": {
+      "mentions": []
+    },
+    "suk ruang kaew fish meal 2004 co ltd": {
+      "mentions": []
+    },
+    "Industrial Pesquera Junin S.A. JUNSA": {
+      "mentions": []
+    },
+    "saha pramong fish meal ranong co ltd": {
+      "mentions": []
+    },
+    "Pacific Marine Food Products Co.,Ltd": {
+      "mentions": []
+    },
+    "Woraphan Ice and Fishmeal Part., Ltd": {
+      "mentions": []
+    },
+    "Kantang Fishmeal Industry Part. Ltd.": {
+      "mentions": []
+    },
+    "Sang Thong Saha Farm (STF) Co., Ltd.": {
+      "mentions": []
+    },
+    "chotiwat manufacturing public co ltd": {
+      "mentions": []
+    },
+    "C\u00f4ng ty TNHH Th\u1ee7y s\u1ea3n B\u1eafc Mi\u1ec1n Trung": {
+      "mentions": []
+    },
+    "permex producer exporter corporation": {
+      "mentions": []
+    },
+    "Guan Hoe Huat Fishmeal Co. Sdn. Bhd.": {
+      "mentions": []
+    },
+    "Taiwan Hung Kuo Industrial Co., Ltd.": {
+      "mentions": []
+    },
+    "compania pesquera del pacifico centro": {
+      "mentions": []
+    },
+    "Alpha Atlantic De Sahara Marocaine SA": {
+      "mentions": []
+    },
+    "nordlaks produkter as avd stokmarknes": {
+      "mentions": []
+    },
+    "balochistan marines products\uff0cpakistan": {
+      "mentions": []
+    },
+    "sahacharoenkit industry 1978 part ltd": {
+      "mentions": []
+    },
+    "Asian Alliance International Co. Ltd.": {
+      "mentions": []
+    },
+    "F\u00e1brica de Conservas - La Gondola Lda": {
+      "mentions": []
+    },
+    "fishmeal marketing development co ltd": {
+      "mentions": []
+    },
+    "\u00c7aml\u0131 Yem Besicilik San. ve Tic. A.\u015e.": {
+      "mentions": []
+    },
+    "COIP (Consortium Industriel De P\u00eache)": {
+      "mentions": []
+    },
+    "SPA International Food Group Co. Ltd.": {
+      "mentions": []
+    },
+    "Khuraburi Fishmeal Industry Co., Ltd.": {
+      "mentions": []
+    },
+    "Mit Khanom Fish Meal (1997) Co., Ltd.": {
+      "mentions": []
+    },
+    "ghaem seaside powder qam sahal powder": {
+      "mentions": []
+    },
+    "Phatanakarn Pramong Pattany Co., Ltd.": {
+      "mentions": []
+    },
+    "Thachin Fishmill Industrial Co., Ltd.": {
+      "mentions": []
+    },
+    "\u067e\u0648\u062f\u0631 \u0632\u0631\u06cc\u0646 golden powder zarrin powder": {
+      "mentions": []
+    },
+    "Sepomer (alt name: Sepomer Sahara II)": {
+      "mentions": []
+    },
+    "NPM Aquatic Fish Links Private Limited": {
+      "mentions": []
+    },
+    "United Fishing Enterprises Pty Limited": {
+      "mentions": []
+    },
+    "Saengcharoen Wattana Fishery Co., Ltd.": {
+      "mentions": []
+    },
+    "Blueline foods India Pvt. Ltd Unit - I": {
+      "mentions": []
+    },
+    "aquatic food manufacturing corporation": {
+      "mentions": []
+    },
+    "international food corporation ltd ifc": {
+      "mentions": []
+    },
+    "prometa yem ve end\u00fcstriyel ya\u011f san tic": {
+      "mentions": []
+    },
+    "golden lead import export trade co ltd": {
+      "mentions": []
+    },
+    "Omega Fishmeal And Oil Private Limited": {
+      "mentions": []
+    },
+    "sa k\u1ef3 c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u1ed9t c\u00e1 thanh hoa": {
+      "mentions": []
+    },
+    "Scanbio Ingredients AS avd Lys\u00f8ysundet": {
+      "mentions": []
+    },
+    "Chotiwat Manufacturing Public Co. Ltd.": {
+      "mentions": []
+    },
+    "Progress Frozen and Fish Sterilization": {
+      "mentions": []
+    },
+    "harinas conservas de pescado harconpez": {
+      "mentions": []
+    },
+    "kalajoen j\u00e4\u00e4hdytt\u00e4m\u00f6 oy k\u00e4sittelylaitos": {
+      "mentions": []
+    },
+    "corporacion industrial milagros del mar": {
+      "mentions": []
+    },
+    "Negocios Industriales Real S.A. (NIRSA)": {
+      "mentions": []
+    },
+    "pelagia akva ren as avd fabrikk djupvik": {
+      "mentions": []
+    },
+    "i\u0307pek yem ve g\u0131da san tic yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "Noordzee Su \u00dcr\u00fcnleri S\u00f6ke Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "Ghaem Seaside Powder / Qam Sahal Powder": {
+      "mentions": []
+    },
+    "akash fishmeal fish oil private limited": {
+      "mentions": []
+    },
+    "rongcheng rixin aquatic products co ltd": {
+      "mentions": []
+    },
+    "alliance select foods international inc": {
+      "mentions": []
+    },
+    "industria procesadora de aceites grasas": {
+      "mentions": []
+    },
+    "Advance Agro and Technology Part., Ltd.": {
+      "mentions": []
+    },
+    "Saha Pramong Fish Meal Ranong Co., Ltd.": {
+      "mentions": []
+    },
+    "marine industrial corporation marincorp": {
+      "mentions": []
+    },
+    "thien phat manufacturing trading co ltd": {
+      "mentions": []
+    },
+    "tecnologias en favor del medio ambiente": {
+      "mentions": []
+    },
+    "Industrial Pesquera Heras, S.A. de C.V.": {
+      "mentions": []
+    },
+    "normfeed su \u00fcr\u00fcnleri yem sanayi ticaret": {
+      "mentions": []
+    },
+    "The New Zealand King Salmon Co. Limited": {
+      "mentions": []
+    },
+    "FH Procurement SARL (connected to SICOP)": {
+      "mentions": []
+    },
+    "syarikat kilang serbok ikan asia sdn bhd": {
+      "mentions": []
+    },
+    "atlantic marine products private limited": {
+      "mentions": []
+    },
+    "IMPORT EXPORT PESCA Y AGRICULTURA S.R.L.": {
+      "mentions": []
+    },
+    "International Food Corporation Ltd (IFC)": {
+      "mentions": []
+    },
+    "Arbee Biomarine Extracts Private Limited": {
+      "mentions": []
+    },
+    "southwest asian canning corporation sacc": {
+      "mentions": []
+    },
+    "Kurzeme Fisheries Producers Organization": {
+      "mentions": []
+    },
+    "jsc north kurilsk base seiner fleet nbsf": {
+      "mentions": []
+    },
+    "Permex Producer and Exporter Corporation": {
+      "mentions": []
+    },
+    "kanthaksin fish powder industrial co ltd": {
+      "mentions": []
+    },
+    "Blueline Foods (India) Pvt. Ltd. Unit-IV": {
+      "mentions": []
+    },
+    "Fishmeal Marketing Development Co., Ltd.": {
+      "mentions": []
+    },
+    "Kalajoen J\u00e4\u00e4hdytt\u00e4m\u00f6 Oy, k\u00e4sittelylaitos": {
+      "mentions": []
+    },
+    "nouvelle d\u00e9marche avicole et martime ndam": {
+      "mentions": []
+    },
+    "Suk Ruang Kaew Fish Meal (2004) Co., Ltd.": {
+      "mentions": []
+    },
+    "Ngoc Dung Trading and Production Co. Ltd.": {
+      "mentions": []
+    },
+    "Akash Fishmeal & Fish Oil Private Limited": {
+      "mentions": []
+    },
+    "c\u00f4ng ty tnhh d\u1ecbch v\u1ee5 v\u00e0 s\u1ea3n xu\u1ea5t tam ph\u00e1t": {
+      "mentions": []
+    },
+    "industria harinera del pacifico inharipac": {
+      "mentions": []
+    },
+    "shandong hongji biology technology co ltd": {
+      "mentions": []
+    },
+    "\u067e\u0648\u062f\u0631 \u0632\u0631\u06cc\u0646 / Golden Powder / Zarrin Powder": {
+      "mentions": []
+    },
+    "Sahacharoenkit Industry (1978) Part., Ltd.": {
+      "mentions": []
+    },
+    "Pelagia AKVA REN AS Avd. Fabrikk - Djupvik": {
+      "mentions": []
+    },
+    "Rongcheng Rixin Aquatic Products Co., Ltd.": {
+      "mentions": []
+    },
+    "Southwest Asian Canning Corporation (SACC)": {
+      "mentions": []
+    },
+    "said al butheeni international trading llc": {
+      "mentions": []
+    },
+    "Armadores Y Congeladores Del Pacifico S.A.": {
+      "mentions": []
+    },
+    "old name: fpp \"socra\" co ltd rpz sokra llc": {
+      "mentions": []
+    },
+    "pcf \"yuzhno kyrilsky ryibo\u0441ombinat\" co ltd": {
+      "mentions": []
+    },
+    "Nouvelle D\u00e9marche Avicole et Martime (NDAM)": {
+      "mentions": []
+    },
+    "can karde\u015fler su \u00fcr\u00fcn san ve tic bal un fab": {
+      "mentions": []
+    },
+    "rong chang sarlu republic congo brazzaville": {
+      "mentions": []
+    },
+    "weng cheaglee fish powder industry part ltd": {
+      "mentions": []
+    },
+    "pjsc \u201cpreobrazhenskaya base trawling fleet\u201d": {
+      "mentions": []
+    },
+    "Kanthaksin Fish Powder Industrial Co., Ltd.": {
+      "mentions": []
+    },
+    "s\u00fcrsan su \u00fcr\u00fcnleri san ve tic yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "proveedores de la costa provecosta cia ltda": {
+      "mentions": []
+    },
+    "Shandong Hongji Biology Technology Co., Ltd": {
+      "mentions": []
+    },
+    "Al-Muhajer For Trading and Seafood Industry": {
+      "mentions": []
+    },
+    "karyem g\u0131da san i\u0307th i\u0307hr tic yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "gold fin international this row is duplicate": {
+      "mentions": []
+    },
+    "M/s Blueline Foods (India) Pvt. Ltd. Unit-II": {
+      "mentions": []
+    },
+    "HARINAS Y CONSERVAS DE PESCADO HARCONPEZ S.A": {
+      "mentions": []
+    },
+    "Syarikat Kilang Serbok Ikan (Asia) Sdn. Bhd.": {
+      "mentions": []
+    },
+    "copacol cooperativa agroindustrial consolata": {
+      "mentions": []
+    },
+    "marubeni nisshin feed co ltd chita feed mill": {
+      "mentions": []
+    },
+    "Golden Lead Import and Export Trade Co. Ltd.": {
+      "mentions": []
+    },
+    "qingdao kangjing marine biotechnology co ltd": {
+      "mentions": []
+    },
+    "zhoushan sinomega biotech engineering co ltd": {
+      "mentions": []
+    },
+    "pesquera conservas de chimbote la chimbotana": {
+      "mentions": []
+    },
+    "Production Association Sakhalinrybaksoyuz LLC": {
+      "mentions": []
+    },
+    "nacion\u0101l\u0101s zvejniec\u012bbas ra\u017eot\u0101ju organiz\u0101cija": {
+      "mentions": []
+    },
+    "Proveedores de la Costa Provecosta CIA. LTDA.": {
+      "mentions": []
+    },
+    "\u0130pek Yem ve G\u0131da San. Tic. A.\u015e.-Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "mm ashraf llp manufacturer fish meal fish oil": {
+      "mentions": []
+    },
+    "JSC North-Kurilsk Base of Seiner Fleet (NBSF)": {
+      "mentions": []
+    },
+    "binzhou city public sen industry trade co ltd": {
+      "mentions": []
+    },
+    "PCF \"Yuzhno-Kyrilsky Ryibo\u0441ombinat\" Co., Ltd.": {
+      "mentions": []
+    },
+    "Zhoushan Sinomega Biotech Engineering Co. Ltd": {
+      "mentions": []
+    },
+    "Thien Phat Manufacturing and Trading Co., Ltd": {
+      "mentions": []
+    },
+    "koptur balikcilik gida san nak ve tic ltd sti": {
+      "mentions": []
+    },
+    "Prometa Yem ve End\u00fcstriyel Ya\u011f San. Tic. A.\u015e.": {
+      "mentions": []
+    },
+    "qingdao zhenchangshen commercial trade co ltd": {
+      "mentions": []
+    },
+    "south east asian packaging canning ltd seapac": {
+      "mentions": []
+    },
+    "procesadora exportadora del pacifico proexpcsa": {
+      "mentions": []
+    },
+    "Qingdao Kangjing Marine Biotechnology Co. Ltd.": {
+      "mentions": []
+    },
+    "PJSC \u201cPreobrazhenskaya Base of Trawling Fleet\u201d": {
+      "mentions": []
+    },
+    "Pesquera Op7 & Bell S.A.C. / Op7 & Bell S.A.C.": {
+      "mentions": []
+    },
+    "pro fishmeal oil eesti kalatootjate keskuhistu": {
+      "mentions": []
+    },
+    "Industria Procesadora de Aceites y Grasas S.A.": {
+      "mentions": []
+    },
+    "Copacol (Cooperativa Agroindustrial Consolata)": {
+      "mentions": []
+    },
+    "Weng Cheaglee Fish Powder Industry Part., Ltd.": {
+      "mentions": []
+    },
+    "shandong kangjing marine bioengineering co ltd": {
+      "mentions": []
+    },
+    "qingdao zhuosidaer international trading co ltd": {
+      "mentions": []
+    },
+    "anhui xinzhou marine biological products co ltd": {
+      "mentions": []
+    },
+    "[OLD NAME: FPP \"Socra\" Co., Ltd.] RPZ Sokra LLC": {
+      "mentions": []
+    },
+    "tepung ikan murni bekasi bekasi pure fish flour": {
+      "mentions": []
+    },
+    "choke udom pattana fishmeal limited partnership": {
+      "mentions": []
+    },
+    "tepung ikan bangkit jaya bangkit jaya fish meal": {
+      "mentions": []
+    },
+    "MARUBENI NISSHIN FEED CO., LTD. CHITA FEED MILL": {
+      "mentions": []
+    },
+    "babolsar fish powder oil production cooperative": {
+      "mentions": []
+    },
+    "Procesadora Mar De Ensenada, S. De R.L. De C.V.": {
+      "mentions": []
+    },
+    "RONG CHANG SARLU, Republic of Congo(Brazzaville)": {
+      "mentions": []
+    },
+    "mulia abadi tepung ikan noble perennial fishmeal": {
+      "mentions": []
+    },
+    "rybolovetskaya artel kolkhoz im 50 let oktyabrya": {
+      "mentions": []
+    },
+    "Shandong Kangjing Marine Bioengineering Co. Ltd.": {
+      "mentions": []
+    },
+    "can karde\u015fler su \u00fcr\u00fcnleri san tic yem i\u0307\u015fletmesi": {
+      "mentions": []
+    },
+    "Marine Industrial Corporation S.A.C. - Marincorp": {
+      "mentions": []
+    },
+    "lucky fish u\u011furlu bal\u0131k \u00fcretim sanayi ve ticaret": {
+      "mentions": []
+    },
+    "tepung ikan manual muncar muncar manual fish meal": {
+      "mentions": []
+    },
+    "Tepung Ikan Bangkit Jaya (Bangkit Jaya Fish Meal)": {
+      "mentions": []
+    },
+    "TEPUNG IKAN MURNI BEKASI (BEKASI PURE FISH FLOUR)": {
+      "mentions": []
+    },
+    "Anhui Xinzhou Marine Biological Products Co. Ltd.": {
+      "mentions": []
+    },
+    "corporacion de proyectos multiples mult proyectos": {
+      "mentions": []
+    },
+    "complexe industriel des produits de la mer cipmer": {
+      "mentions": []
+    },
+    "Qingdao Zhuosidaer International Trading Co., Ltd": {
+      "mentions": []
+    },
+    "Can.Karde\u015fler Su \u00dcr\u00fcn.San.Ve Tic.A.\u015e. Bal.Un.Fab.": {
+      "mentions": []
+    },
+    "agromey g\u0131da ve yem san tic torbal\u0131 yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "cibel complex industrial et commercial bel hassan": {
+      "mentions": []
+    },
+    "harina de pescado de exportacion hardepex cia ltda": {
+      "mentions": []
+    },
+    "S\u00fcrsan Su \u00dcr\u00fcnleri San. ve Tic. A.\u015e. Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "tepung ikan minyak ikan sbr sbr fish meal fish oil": {
+      "mentions": []
+    },
+    "Karyem G\u0131da San. \u0130th. \u0130hr. Tic. A.\u015e. Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "Koptur Balikcilik Gida San. Nak. ve Tic. Ltd. Sti.": {
+      "mentions": []
+    },
+    "Mulia abadi tepung ikan (Noble perennial fishmeal)": {
+      "mentions": []
+    },
+    "u\u011furlu bal\u0131k \u00fcretim sanayi ve ticaret yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "seph soci\u00e9t\u00e9 d\u2019\u00e9laboration de produits halieutiques": {
+      "mentions": []
+    },
+    "shandong rongfeng bio technology development co ltd": {
+      "mentions": []
+    },
+    "Tepung Ikan Manual Muncar (Muncar manual fish meal)": {
+      "mentions": []
+    },
+    "Rybolovetskaya artel (kolkhoz) im. 50 let Oktyabrya": {
+      "mentions": []
+    },
+    "Pro Fishmeal and Oil- Eesti Kalatootjate Keskuhistu": {
+      "mentions": []
+    },
+    "Procesadora Exportadora del Pacifico S.A. PROEXPCSA": {
+      "mentions": []
+    },
+    "HARINA DE PESCADO DE EXPORTACION HARDEPEX CIA. LTDA.": {
+      "mentions": []
+    },
+    "Tepung ikan/minyak ikan SBR (SBR fish meal/fish oil)": {
+      "mentions": []
+    },
+    "Binzhou City Public Sen Industry And Trade Co., Ltd.": {
+      "mentions": []
+    },
+    "Qingdao Zhenchangshen Commercial And Trade Co., Ltd.": {
+      "mentions": []
+    },
+    "st\u00e9 marocaine de traitement de poisson sud somatraps": {
+      "mentions": []
+    },
+    "liaoyu antarctic krill technology development co ltd": {
+      "mentions": []
+    },
+    "South East Asian Packaging and Canning Ltd. (SEAPAC)": {
+      "mentions": []
+    },
+    "Shandong Rongfeng Bio-Technology Development Co., Ltd": {
+      "mentions": []
+    },
+    "Industria Harinera del Pacifico S.A. (INHARIPAC S.A.)": {
+      "mentions": []
+    },
+    "MM Ashraf LLP - Manufacturer of Fish Meal and Fish Oil": {
+      "mentions": []
+    },
+    "Can Karde\u015fler Su \u00dcr\u00fcnleri San. Tic. A.\u015e. Yem \u0130\u015fletmesi": {
+      "mentions": []
+    },
+    "Liaoyu Antarctic Krill Technology Development Co. Ltd.": {
+      "mentions": []
+    },
+    "sarl coop\u00e9rative de produits artisanaux de l\u2019atlantique": {
+      "mentions": []
+    },
+    "Complexe Industriel des Produits de la Mer (CIPMER) S.A": {
+      "mentions": []
+    },
+    "Agromey G\u0131da ve Yem San. Tic. A.\u015e.Torbal\u0131 Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "Gold Fin International L.L.C. (this row is a duplicate)": {
+      "mentions": []
+    },
+    "Unifeed Su \u00dcr\u00fcnleri Yem Sanayi ve Ticaret Anonim \u015eirketi": {
+      "mentions": []
+    },
+    "s\u00fcrsan su \u00fcr\u00fcnleri sanayi ve ticaret bal\u0131k unu fabrikas\u0131": {
+      "mentions": []
+    },
+    "Corporacion De Proyectos Multiples Mult.I.Proyectos S.A.": {
+      "mentions": []
+    },
+    "ste de traitement et de congelation de poissons sotragel": {
+      "mentions": []
+    },
+    "U\u011furlu Bal\u0131k \u00dcretim Sanayi ve Ticaret A.\u015e. Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "fish powder sahil kar anzali fish powder kar beach anzali": {
+      "mentions": []
+    },
+    "kardez su \u00fcr\u00fcnleri san ve tic ltd \u015fti bal\u0131k unu fabrikas\u0131": {
+      "mentions": []
+    },
+    "CORPORACION DE PROYECTOS MULTIPLES MULT .I. PROYECTOS S.A.": {
+      "mentions": []
+    },
+    "Seph S.A. (Soci\u00e9t\u00e9 d\u2019\u00c9laboration de Produits Halieutiques)": {
+      "mentions": []
+    },
+    "Ste de Traitement et de Congelation de Poissons (SOTRAGEL)": {
+      "mentions": []
+    },
+    "samsun bal\u0131k\u00e7\u0131l\u0131k su \u00fcr\u00fcnleri san tic ltd \u015fti yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "sibal pls ve su u\u0308rn deg\u0306 san ve tic s\u0327 bal\u0131k unu fabrikas\u0131": {
+      "mentions": []
+    },
+    "marine products kimia ye jask \u0641\u0631\u0622\u0648\u0631\u062f\u0647 \u0647\u0627\u06cc \u062f\u0631\u06cc\u0627\u0626\u06cc \u06a9\u06cc\u0645\u06cc\u0627\u06cc \u062c\u0627\u0633\u06a9": {
+      "mentions": []
+    },
+    "Biomar Sagun Yem Sanayi Ticaret Anonim \u015eirketi Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "maruha nz corporation limited contract sealord group limited": {
+      "mentions": []
+    },
+    "sibal plastik ve su \u00fcr\u00fcnleri de\u011ferl san ve tic yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "Kardez Su \u00dcr\u00fcnleri San. Ve Tic. Ltd. \u015eti. Bal\u0131k Unu Fabrikas\u0131": {
+      "mentions": []
+    },
+    "Cibel S.A. (Complex Industrial et Commercial Bel Hassan S.A.)": {
+      "mentions": []
+    },
+    "dalyan su urunleri ve gida san nak tic ltd sti kobyalar group": {
+      "mentions": []
+    },
+    "be\u015fyem tar\u0131m hayvanc\u0131l\u0131k g\u0131da sanayi ve ticaret yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "old name: nbamr jsc nakhodka active marine fishery base nbamr": {
+      "mentions": []
+    },
+    "g\u00fcm\u00fc\u015fdo\u011fa su \u00fcr\u00fcnleri \u00fcretim i\u0307hracat ve i\u0307thalat yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "Samsun Bal\u0131k\u00e7\u0131l\u0131k Su \u00dcr\u00fcnleri San. Tic. Ltd. \u015eti.- Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "fish lantern lanternfish qeshm fanous mahiyan qeshm \u0641\u0627\u0646\u0648\u0633 \u0645\u0627\u0647\u06cc\u0627\u0646": {
+      "mentions": []
+    },
+    "Sibal Pls. ve Su U\u0308rn.Deg\u0306.San.ve Tic. A.S\u0327. Bal\u0131k Unu Fabrikas\u0131": {
+      "mentions": []
+    },
+    "St\u00e9 Marocaine de Traitement de Poisson Sud (Somatraps)  S.A.R.L.": {
+      "mentions": []
+    },
+    "k\u0131l\u0131\u00e7 deniz \u00fcr\u00fcnleri \u00fcretimi i\u0307hr i\u0307th ve tic karma yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "fish powder of sahil kar anzali / Fish Powder of Kar Beach Anzali": {
+      "mentions": []
+    },
+    "Marine Products of Kimia-ye Jask / \u0641\u0631\u0622\u0648\u0631\u062f\u0647 \u0647\u0627\u06cc \u062f\u0631\u06cc\u0627\u0626\u06cc \u06a9\u06cc\u0645\u06cc\u0627\u06cc \u062c\u0627\u0633\u06a9": {
+      "mentions": []
+    },
+    "G\u00fcm\u00fc\u015fdo\u011fa Su \u00dcr\u00fcnleri \u00dcretim \u0130hracat Ve \u0130thalat A.\u015e.Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "[OLD NAME: NBAMR] JSC Nakhodka Active Marine Fishery Base (NBAMR)": {
+      "mentions": []
+    },
+    "transmarina del peru sociedad anonima cerrada transmarina del peru": {
+      "mentions": []
+    },
+    "Be\u015fyem Tar\u0131m Hayvanc\u0131l\u0131k G\u0131da Sanayi ve Ticaret A. \u015e.Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "C.P.A.A. Sarl (Coop\u00e9rative de Produits Artisanaux de l\u2019Atlantique)": {
+      "mentions": []
+    },
+    "dardanel o\u0308nentas\u0327 g\u0131da sanayi anonim s\u0327irketi bal\u0131k unu fabrikas\u0131": {
+      "mentions": []
+    },
+    "koptur bal\u0131kc\u0327\u0131l\u0131k g\u0131da san nak ve tic ltd s\u0327ti bal\u0131k unu fabrikas\u0131": {
+      "mentions": []
+    },
+    "Maruha (NZ) Corporation Limited on contract to Sealord Group Limited": {
+      "mentions": []
+    },
+    "Dalyan Su Urunleri ve Gida San. Nak. Tic. Ltd. Sti. (KOBYALAR\nGROUP)": {
+      "mentions": []
+    },
+    "Sibal Plastik ve Su \u00dcr\u00fcnleri De\u011ferl. San. ve Tic. A.\u015e. Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "Koptur Bal\u0131kc\u0327\u0131l\u0131k G\u0131da San.Nak.ve Tic. Ltd.S\u0327ti. Bal\u0131k Unu Fabrikas\u0131": {
+      "mentions": []
+    },
+    "sao mai an giang; travel investment seafood development corp trisedco": {
+      "mentions": []
+    },
+    "K\u0131l\u0131\u00e7 Deniz \u00dcr\u00fcnleri \u00dcretimi \u0130hr.\u0130th. ve Tic. A.\u015e. Karma Yem Fabrikas\u0131": {
+      "mentions": []
+    },
+    "hongdong international mauritania fishery development co ltd mauritania": {
+      "mentions": []
+    },
+    "g\u00fcrdal yem enerji tar\u0131m g\u0131da hayvanc\u0131l\u0131k sanayi ve ticaret yem fabrikas\u0131": {
+      "mentions": []
+    },
+    "Fish Lantern / Lanternfish of Qeshm / Fanous Mahiyan Qeshm / \u0641\u0627\u0646\u0648\u0633 \u0645\u0627\u0647\u06cc\u0627\u0646": {
+      "mentions": []
+    },
+    "samsun bal\u0131kc\u0327\u0131l\u0131k su u\u0308ru\u0308nleri hayv i\u0307ns\u0327 tur plas mes\u0327 san tic ltd s\u0327ti": {
+      "mentions": []
+    },
+    "Transmarina Del Peru Sociedad Anonima Cerrada - Transmarina Del Peru S.A.C.": {
+      "mentions": []
+    },
+    "Sao Mai An Giang;\u00a0Travel Investment and Seafood Development Corp. (Trisedco)": {
+      "mentions": []
+    },
+    "Hongdong International (Mauritania) Fishery Development Co.,Ltd., Mauritania": {
+      "mentions": []
+    },
+    "\u00f6zpekler insaat taahh\u00fct dayanikli t\u00fcketim mallari su \u00fcr\u00fcnleri san ve tic ltd sti": {
+      "mentions": []
+    },
+    "Samsun Bal\u0131kc\u0327\u0131l\u0131k Su U\u0308ru\u0308nleri Hayv. I\u0307ns\u0327. Tur.Plas. Mes\u0327. San. Tic. Ltd. S\u0327ti.": {
+      "mentions": []
+    },
+    "\u00d6zpekler Insaat Taahh\u00fct Dayanikli T\u00fcketim Mallari Su \u00dcr\u00fcnleri San. Ve Tic. Ltd. Sti.": {
+      "mentions": []
+    },
+    "nektar yem ve yem katk\u0131 maddeleri g\u0131da hayvanc\u0131l\u0131k sanayi ticaret limited \u015firketi tire": {
+      "mentions": []
+    },
+    "Nektar Yem ve Yem Katk\u0131 Maddeleri G\u0131da Hayvanc\u0131l\u0131k Sanayi Ticaret Limited \u015eirketi-Tire": {
+      "mentions": []
+    },
+    "binzhou shengying aquaculture co ltd bsy binzhou city shengying aquatic products co ltd": {
+      "mentions": []
+    },
+    "Binzhou Shengying Aquaculture Co., Ltd. (BSY) / BINZHOU CITY SHENGYING AQUATIC PRODUCTS CO., LTD": {
+      "mentions": []
+    },
+    "Noordzee Su \u00dcr\u00fcnleri \u0130hracat Sanayi ve Ticaret Anonim \u015eirketi Yem ve Kedi K\u00f6pek Mamas\u0131 Fabrikas\u0131": {
+      "mentions": []
+    },
+    "djx": {
+      "mentions": []
+    },
+    "loa": {
+      "mentions": []
+    },
+    "eos": {
+      "mentions": []
+    },
+    "Uta": {
+      "mentions": []
+    },
+    "ike": {
+      "mentions": []
+    },
+    "Anz": {
+      "mentions": []
+    },
+    "ivy": {
+      "mentions": []
+    },
+    "taj": {
+      "mentions": []
+    },
+    "Chp": {
+      "mentions": []
+    },
+    "fox": {
+      "mentions": []
+    },
+    "don": {
+      "mentions": []
+    },
+    "sol": {
+      "mentions": []
+    },
+    "luz": {
+      "mentions": []
+    },
+    "anir": {
+      "mentions": []
+    },
+    "rina": {
+      "mentions": []
+    },
+    "bonn": {
+      "mentions": []
+    },
+    "riad": {
+      "mentions": []
+    },
+    "Meya": {
+      "mentions": []
+    },
+    "jorc": {
+      "mentions": []
+    },
+    "jocy": {
+      "mentions": []
+    },
+    "simy": {
+      "mentions": []
+    },
+    "joel": {
+      "mentions": []
+    },
+    "dina": {
+      "mentions": []
+    },
+    "Om 2": {
+      "mentions": []
+    },
+    "quba": {
+      "mentions": []
+    },
+    "afco": {
+      "mentions": []
+    },
+    "Joao": {
+      "mentions": []
+    },
+    "ayse": {
+      "mentions": []
+    },
+    "raul": {
+      "mentions": []
+    },
+    "Taha": {
+      "mentions": []
+    },
+    "RUTH": {
+      "mentions": []
+    },
+    "juan": {
+      "mentions": []
+    },
+    "naim": {
+      "mentions": []
+    },
+    "alfa": {
+      "mentions": []
+    },
+    "safa": {
+      "mentions": []
+    },
+    "saad": {
+      "mentions": []
+    },
+    "kiwi": {
+      "mentions": []
+    },
+    "luka": {
+      "mentions": []
+    },
+    "wafa": {
+      "mentions": []
+    },
+    "mero": {
+      "mentions": []
+    },
+    "isla": {
+      "mentions": []
+    },
+    "Naja": {
+      "mentions": []
+    },
+    "jepe": {
+      "mentions": []
+    },
+    "masr": {
+      "mentions": []
+    },
+    "coyi": {
+      "mentions": []
+    },
+    "nami": {
+      "mentions": []
+    },
+    "apolo": {
+      "mentions": []
+    },
+    "harry": {
+      "mentions": []
+    },
+    "Nereo": {
+      "mentions": []
+    },
+    "raysa": {
+      "mentions": []
+    },
+    "attaf": {
+      "mentions": []
+    },
+    "ambar": {
+      "mentions": []
+    },
+    "elisa": {
+      "mentions": []
+    },
+    "Ayman": {
+      "mentions": []
+    },
+    "Rokhy": {
+      "mentions": []
+    },
+    "assia": {
+      "mentions": []
+    },
+    "Danna": {
+      "mentions": []
+    },
+    "foche": {
+      "mentions": []
+    },
+    "Matia": {
+      "mentions": []
+    },
+    "coral": {
+      "mentions": []
+    },
+    "Ennyb": {
+      "mentions": []
+    },
+    "abdou": {
+      "mentions": []
+    },
+    "sahel": {
+      "mentions": []
+    },
+    "elvas": {
+      "mentions": []
+    },
+    "Atbir": {
+      "mentions": []
+    },
+    "idder": {
+      "mentions": []
+    },
+    "erika": {
+      "mentions": []
+    },
+    "samia": {
+      "mentions": []
+    },
+    "Yenya": {
+      "mentions": []
+    },
+    "walid": {
+      "mentions": []
+    },
+    "Ayoub": {
+      "mentions": []
+    },
+    "Chone": {
+      "mentions": []
+    },
+    "yagan": {
+      "mentions": []
+    },
+    "storm": {
+      "mentions": []
+    },
+    "Sofia": {
+      "mentions": []
+    },
+    "Souad": {
+      "mentions": []
+    },
+    "Anita": {
+      "mentions": []
+    },
+    "paita": {
+      "mentions": []
+    },
+    "Aries": {
+      "mentions": []
+    },
+    "Volga": {
+      "mentions": []
+    },
+    "ernir": {
+      "mentions": []
+    },
+    "ekmen": {
+      "mentions": []
+    },
+    "Mayor": {
+      "mentions": []
+    },
+    "ovnis": {
+      "mentions": []
+    },
+    "janet": {
+      "mentions": []
+    },
+    "quant": {
+      "mentions": []
+    },
+    "karin": {
+      "mentions": []
+    },
+    "Polar": {
+      "mentions": []
+    },
+    "cetus": {
+      "mentions": []
+    },
+    "mirem": {
+      "mentions": []
+    },
+    "oudad": {
+      "mentions": []
+    },
+    "chimu": {
+      "mentions": []
+    },
+    "david": {
+      "mentions": []
+    },
+    "maori": {
+      "mentions": []
+    },
+    "golan": {
+      "mentions": []
+    },
+    "hamza": {
+      "mentions": []
+    },
+    "Josue": {
+      "mentions": []
+    },
+    "rabii": {
+      "mentions": []
+    },
+    "angel": {
+      "mentions": []
+    },
+    "bente": {
+      "mentions": []
+    },
+    "doums": {
+      "mentions": []
+    },
+    "lauca": {
+      "mentions": []
+    },
+    "ivana": {
+      "mentions": []
+    },
+    "akram": {
+      "mentions": []
+    },
+    "Ozlem": {
+      "mentions": []
+    },
+    "isaac": {
+      "mentions": []
+    },
+    "kimba": {
+      "mentions": []
+    },
+    "diego": {
+      "mentions": []
+    },
+    "glenn": {
+      "mentions": []
+    },
+    "dewas": {
+      "mentions": []
+    },
+    "hicaz": {
+      "mentions": []
+    },
+    "brisa": {
+      "mentions": []
+    },
+    "bilal": {
+      "mentions": []
+    },
+    "lomas": {
+      "mentions": []
+    },
+    "Reymar": {
+      "mentions": []
+    },
+    "himmel": {
+      "mentions": []
+    },
+    "Israel": {
+      "mentions": []
+    },
+    "anamar": {
+      "mentions": []
+    },
+    "tanalt": {
+      "mentions": []
+    },
+    "lonnoy": {
+      "mentions": []
+    },
+    "sernou": {
+      "mentions": []
+    },
+    "jhonka": {
+      "mentions": []
+    },
+    "Meraki": {
+      "mentions": []
+    },
+    "marilu": {
+      "mentions": []
+    },
+    "delfin": {
+      "mentions": []
+    },
+    "Samuel": {
+      "mentions": []
+    },
+    "connor": {
+      "mentions": []
+    },
+    "Buland": {
+      "mentions": []
+    },
+    "beatus": {
+      "mentions": []
+    },
+    "Senior": {
+      "mentions": []
+    },
+    "blandi": {
+      "mentions": []
+    },
+    "kemane": {
+      "mentions": []
+    },
+    "Odalis": {
+      "mentions": []
+    },
+    "Hapulo": {
+      "mentions": []
+    },
+    "Ronald": {
+      "mentions": []
+    },
+    "Catrua": {
+      "mentions": []
+    },
+    "Mohini": {
+      "mentions": []
+    },
+    "cazela": {
+      "mentions": []
+    },
+    "sangay": {
+      "mentions": []
+    },
+    "loreto": {
+      "mentions": []
+    },
+    "Garota": {
+      "mentions": []
+    },
+    "palber": {
+      "mentions": []
+    },
+    "fatima": {
+      "mentions": []
+    },
+    "Kayapa": {
+      "mentions": []
+    },
+    "guanay": {
+      "mentions": []
+    },
+    "Sirius": {
+      "mentions": []
+    },
+    "Misael": {
+      "mentions": []
+    },
+    "Renata": {
+      "mentions": []
+    },
+    "dalyan": {
+      "mentions": []
+    },
+    "ragnar": {
+      "mentions": []
+    },
+    "qenwan": {
+      "mentions": []
+    },
+    "itrane": {
+      "mentions": []
+    },
+    "Alfiya": {
+      "mentions": []
+    },
+    "melina": {
+      "mentions": []
+    },
+    "Ivonne": {
+      "mentions": []
+    },
+    "poyraz": {
+      "mentions": []
+    },
+    "marlyn": {
+      "mentions": []
+    },
+    "COLLEN": {
+      "mentions": []
+    },
+    "funcho": {
+      "mentions": []
+    },
+    "daniel": {
+      "mentions": []
+    },
+    "Burakh": {
+      "mentions": []
+    },
+    "Astrid": {
+      "mentions": []
+    },
+    "Amarir": {
+      "mentions": []
+    },
+    "Vaidka": {
+      "mentions": []
+    },
+    "Louize": {
+      "mentions": []
+    },
+    "tuareg": {
+      "mentions": []
+    },
+    "junior": {
+      "mentions": []
+    },
+    "tadart": {
+      "mentions": []
+    },
+    "vishnu": {
+      "mentions": []
+    },
+    "Keshav": {
+      "mentions": []
+    },
+    "allotf": {
+      "mentions": []
+    },
+    "Agadir": {
+      "mentions": []
+    },
+    "Founti": {
+      "mentions": []
+    },
+    "farhat": {
+      "mentions": []
+    },
+    "gisali": {
+      "mentions": []
+    },
+    "Afnane": {
+      "mentions": []
+    },
+    "Vb Iii": {
+      "mentions": []
+    },
+    "lilott": {
+      "mentions": []
+    },
+    "jostin": {
+      "mentions": []
+    },
+    "Kalejo": {
+      "mentions": []
+    },
+    "oliver": {
+      "mentions": []
+    },
+    "Dakhla": {
+      "mentions": []
+    },
+    "ridaga": {
+      "mentions": []
+    },
+    "yassir": {
+      "mentions": []
+    },
+    "altair": {
+      "mentions": []
+    },
+    "Chango": {
+      "mentions": []
+    },
+    "marfil": {
+      "mentions": []
+    },
+    "aurita": {
+      "mentions": []
+    },
+    "yohana": {
+      "mentions": []
+    },
+    "fabian": {
+      "mentions": []
+    },
+    "sheena": {
+      "mentions": []
+    },
+    "dammun": {
+      "mentions": []
+    },
+    "mouaad": {
+      "mentions": []
+    },
+    "Safoua": {
+      "mentions": []
+    },
+    "vauban": {
+      "mentions": []
+    },
+    "master": {
+      "mentions": []
+    },
+    "branco": {
+      "mentions": []
+    },
+    "Akchar": {
+      "mentions": []
+    },
+    "assoul": {
+      "mentions": []
+    },
+    "Baobab": {
+      "mentions": []
+    },
+    "Illigh": {
+      "mentions": []
+    },
+    "ismail": {
+      "mentions": []
+    },
+    "halcon": {
+      "mentions": []
+    },
+    "tissir": {
+      "mentions": []
+    },
+    "salama": {
+      "mentions": []
+    },
+    "isabel": {
+      "mentions": []
+    },
+    "nandni": {
+      "mentions": []
+    },
+    "lorena": {
+      "mentions": []
+    },
+    "flavia": {
+      "mentions": []
+    },
+    "casaca": {
+      "mentions": []
+    },
+    "zamzam": {
+      "mentions": []
+    },
+    "siniya": {
+      "mentions": []
+    },
+    "andrea": {
+      "mentions": []
+    },
+    "vasudev": {
+      "mentions": []
+    },
+    "Richard": {
+      "mentions": []
+    },
+    "titanic": {
+      "mentions": []
+    },
+    "Vaidehi": {
+      "mentions": []
+    },
+    "tamente": {
+      "mentions": []
+    },
+    "gaviota": {
+      "mentions": []
+    },
+    "Giucris": {
+      "mentions": []
+    },
+    "el saga": {
+      "mentions": []
+    },
+    "nilahue": {
+      "mentions": []
+    },
+    "taourta": {
+      "mentions": []
+    },
+    "zam zam": {
+      "mentions": []
+    },
+    "sursan1": {
+      "mentions": []
+    },
+    "boughaz": {
+      "mentions": []
+    },
+    "rodolfo": {
+      "mentions": []
+    },
+    "Pilimar": {
+      "mentions": []
+    },
+    "Afghani": {
+      "mentions": []
+    },
+    "glaciar": {
+      "mentions": []
+    },
+    "Roosmel": {
+      "mentions": []
+    },
+    "denizer": {
+      "mentions": []
+    },
+    "Michele": {
+      "mentions": []
+    },
+    "caplina": {
+      "mentions": []
+    },
+    "Aaditya": {
+      "mentions": []
+    },
+    "bafral\u0131": {
+      "mentions": []
+    },
+    "huracan": {
+      "mentions": []
+    },
+    "genesis": {
+      "mentions": []
+    },
+    "Bio Bio": {
+      "mentions": []
+    },
+    "grunepa": {
+      "mentions": []
+    },
+    "luciana": {
+      "mentions": []
+    },
+    "Genmary": {
+      "mentions": []
+    },
+    "taissir": {
+      "mentions": []
+    },
+    "tasa 22": {
+      "mentions": []
+    },
+    "Nikolay": {
+      "mentions": []
+    },
+    "Arizona": {
+      "mentions": []
+    },
+    "tasa 56": {
+      "mentions": []
+    },
+    "cavinko": {
+      "mentions": []
+    },
+    "essadik": {
+      "mentions": []
+    },
+    "azariel": {
+      "mentions": []
+    },
+    "Alessia": {
+      "mentions": []
+    },
+    "manu 10": {
+      "mentions": []
+    },
+    "achakir": {
+      "mentions": []
+    },
+    "el majd": {
+      "mentions": []
+    },
+    "ernesto": {
+      "mentions": []
+    },
+    "jpepito": {
+      "mentions": []
+    },
+    "dani iv": {
+      "mentions": []
+    },
+    "Tetouan": {
+      "mentions": []
+    },
+    "Avdhesh": {
+      "mentions": []
+    },
+    "mi faby": {
+      "mentions": []
+    },
+    "Tagdite": {
+      "mentions": []
+    },
+    "tarrast": {
+      "mentions": []
+    },
+    "mariuxi": {
+      "mentions": []
+    },
+    "mabrouk": {
+      "mentions": []
+    },
+    "mariana": {
+      "mentions": []
+    },
+    "kortoba": {
+      "mentions": []
+    },
+    "Joscris": {
+      "mentions": []
+    },
+    "rasheed": {
+      "mentions": []
+    },
+    "alberto": {
+      "mentions": []
+    },
+    "aurelia": {
+      "mentions": []
+    },
+    "piquero": {
+      "mentions": []
+    },
+    "Aslisah": {
+      "mentions": []
+    },
+    "khaibar": {
+      "mentions": []
+    },
+    "Alaaraf": {
+      "mentions": []
+    },
+    "antares": {
+      "mentions": []
+    },
+    "imraine": {
+      "mentions": []
+    },
+    "hansani": {
+      "mentions": []
+    },
+    "achabab": {
+      "mentions": []
+    },
+    "semouss": {
+      "mentions": []
+    },
+    "andelka": {
+      "mentions": []
+    },
+    "aoulouz": {
+      "mentions": []
+    },
+    "Piliman": {
+      "mentions": []
+    },
+    "is\u0131klar": {
+      "mentions": []
+    },
+    "Neknafa": {
+      "mentions": []
+    },
+    "Taoufik": {
+      "mentions": []
+    },
+    "pionero": {
+      "mentions": []
+    },
+    "barbara": {
+      "mentions": []
+    },
+    "emanuel": {
+      "mentions": []
+    },
+    "jenifer": {
+      "mentions": []
+    },
+    "azizler": {
+      "mentions": []
+    },
+    "isidora": {
+      "mentions": []
+    },
+    "Amadeus": {
+      "mentions": []
+    },
+    "samanco": {
+      "mentions": []
+    },
+    "widiane": {
+      "mentions": []
+    },
+    "Key Bay": {
+      "mentions": []
+    },
+    "francia": {
+      "mentions": []
+    },
+    "Pardela": {
+      "mentions": []
+    },
+    "Abraham": {
+      "mentions": []
+    },
+    "El Reno": {
+      "mentions": []
+    },
+    "Florida": {
+      "mentions": []
+    },
+    "tasa 11": {
+      "mentions": []
+    },
+    "zoubair": {
+      "mentions": []
+    },
+    "demarco": {
+      "mentions": []
+    },
+    "azaklar": {
+      "mentions": []
+    },
+    "mantaro": {
+      "mentions": []
+    },
+    "chokdee": {
+      "mentions": []
+    },
+    "josemed": {
+      "mentions": []
+    },
+    "incamar": {
+      "mentions": []
+    },
+    "bismark": {
+      "mentions": []
+    },
+    "corpesca": {
+      "mentions": []
+    },
+    "arenilla": {
+      "mentions": []
+    },
+    "Centauro": {
+      "mentions": []
+    },
+    "svanavag": {
+      "mentions": []
+    },
+    "kanyakit": {
+      "mentions": []
+    },
+    "Annakhla": {
+      "mentions": []
+    },
+    "portugal": {
+      "mentions": []
+    },
+    "Antonela": {
+      "mentions": []
+    },
+    "Milagros": {
+      "mentions": []
+    },
+    "Al Bahar": {
+      "mentions": []
+    },
+    "fernanda": {
+      "mentions": []
+    },
+    "taziazet": {
+      "mentions": []
+    },
+    "valentin": {
+      "mentions": []
+    },
+    "gusy fer": {
+      "mentions": []
+    },
+    "oramalia": {
+      "mentions": []
+    },
+    "joselito": {
+      "mentions": []
+    },
+    "al aabir": {
+      "mentions": []
+    },
+    "san luis": {
+      "mentions": []
+    },
+    "aktaslar": {
+      "mentions": []
+    },
+    "kaweskar": {
+      "mentions": []
+    },
+    "conchita": {
+      "mentions": []
+    },
+    "herminia": {
+      "mentions": []
+    },
+    "Baltiris": {
+      "mentions": []
+    },
+    "ladi mar": {
+      "mentions": []
+    },
+    "al joudi": {
+      "mentions": []
+    },
+    "gabriela": {
+      "mentions": []
+    },
+    "aousserd": {
+      "mentions": []
+    },
+    "petrohue": {
+      "mentions": []
+    },
+    "Soundous": {
+      "mentions": []
+    },
+    "Achernar": {
+      "mentions": []
+    },
+    "redouane": {
+      "mentions": []
+    },
+    "comanche": {
+      "mentions": []
+    },
+    "Onda Mar": {
+      "mentions": []
+    },
+    "ribar vi": {
+      "mentions": []
+    },
+    "El Badii": {
+      "mentions": []
+    },
+    "al mofid": {
+      "mentions": []
+    },
+    "el mohit": {
+      "mentions": []
+    },
+    "Karelita": {
+      "mentions": []
+    },
+    "Fiorella": {
+      "mentions": []
+    },
+    "al falaq": {
+      "mentions": []
+    },
+    "Marvento": {
+      "mentions": []
+    },
+    "jennifer": {
+      "mentions": []
+    },
+    "Maryalex": {
+      "mentions": []
+    },
+    "nesli\u015fah": {
+      "mentions": []
+    },
+    "Vardberg": {
+      "mentions": []
+    },
+    "mustapha": {
+      "mentions": []
+    },
+    "al mizab": {
+      "mentions": []
+    },
+    "dalmacia": {
+      "mentions": []
+    },
+    "komandor": {
+      "mentions": []
+    },
+    "soultane": {
+      "mentions": []
+    },
+    "curbeiro": {
+      "mentions": []
+    },
+    "kobyalar": {
+      "mentions": []
+    },
+    "balamida": {
+      "mentions": []
+    },
+    "yago iii": {
+      "mentions": []
+    },
+    "Takoumba": {
+      "mentions": []
+    },
+    "attawhid": {
+      "mentions": []
+    },
+    "stefania": {
+      "mentions": []
+    },
+    "SAN JOS\u00c9": {
+      "mentions": []
+    },
+    "al ansar": {
+      "mentions": []
+    },
+    "Cotopaxi": {
+      "mentions": []
+    },
+    "arequipa": {
+      "mentions": []
+    },
+    "albatros": {
+      "mentions": []
+    },
+    "Amparito": {
+      "mentions": []
+    },
+    "Pumanque": {
+      "mentions": []
+    },
+    "al hikma": {
+      "mentions": []
+    },
+    "imouzzer": {
+      "mentions": []
+    },
+    "banderon": {
+      "mentions": []
+    },
+    "boudaoud": {
+      "mentions": []
+    },
+    "Esturion": {
+      "mentions": []
+    },
+    "nouamane": {
+      "mentions": []
+    },
+    "coatepec": {
+      "mentions": []
+    },
+    "albacora": {
+      "mentions": []
+    },
+    "eyupoglu": {
+      "mentions": []
+    },
+    "barbaros": {
+      "mentions": []
+    },
+    "carlitos": {
+      "mentions": []
+    },
+    "al wifak": {
+      "mentions": []
+    },
+    "achuraimi": {
+      "mentions": []
+    },
+    "Gulf Rain": {
+      "mentions": []
+    },
+    "Jota Jota": {
+      "mentions": []
+    },
+    "Imeldamar": {
+      "mentions": []
+    },
+    "Cap Blanc": {
+      "mentions": []
+    },
+    "Ana Belen": {
+      "mentions": []
+    },
+    "Moustaqil": {
+      "mentions": []
+    },
+    "al ikhlas": {
+      "mentions": []
+    },
+    "francesca": {
+      "mentions": []
+    },
+    "Guadalupe": {
+      "mentions": []
+    },
+    "ida maria": {
+      "mentions": []
+    },
+    "kilimoglu": {
+      "mentions": []
+    },
+    "ana maria": {
+      "mentions": []
+    },
+    "nang nuan": {
+      "mentions": []
+    },
+    "Atlantico": {
+      "mentions": []
+    },
+    "al abraje": {
+      "mentions": []
+    },
+    "hellodden": {
+      "mentions": []
+    },
+    "Avc\u0131 Baba": {
+      "mentions": []
+    },
+    "sudarshan": {
+      "mentions": []
+    },
+    "El Alaoui": {
+      "mentions": []
+    },
+    "intr\u00e9pido": {
+      "mentions": []
+    },
+    "sonia mar": {
+      "mentions": []
+    },
+    "\u00f6mer baba": {
+      "mentions": []
+    },
+    "ribar iii": {
+      "mentions": []
+    },
+    "Ana Luisa": {
+      "mentions": []
+    },
+    "El Abuelo": {
+      "mentions": []
+    },
+    "Atenea II": {
+      "mentions": []
+    },
+    "ana julia": {
+      "mentions": []
+    },
+    "evverfish": {
+      "mentions": []
+    },
+    "El Gharbi": {
+      "mentions": []
+    },
+    "marrakech": {
+      "mentions": []
+    },
+    "Mandakini": {
+      "mentions": []
+    },
+    "quicktime": {
+      "mentions": []
+    },
+    "San Mateo": {
+      "mentions": []
+    },
+    "Pehuenche": {
+      "mentions": []
+    },
+    "al qaswae": {
+      "mentions": []
+    },
+    "al forqan": {
+      "mentions": []
+    },
+    "Navegante": {
+      "mentions": []
+    },
+    "eva maria": {
+      "mentions": []
+    },
+    "Sursan 26": {
+      "mentions": []
+    },
+    "Arkhos II": {
+      "mentions": []
+    },
+    "Pichincha": {
+      "mentions": []
+    },
+    "trilokesh": {
+      "mentions": []
+    },
+    "conquista": {
+      "mentions": []
+    },
+    "los arias": {
+      "mentions": []
+    },
+    "boulanwar": {
+      "mentions": []
+    },
+    "sursan 22": {
+      "mentions": []
+    },
+    "Giusseppi": {
+      "mentions": []
+    },
+    "Bouderhem": {
+      "mentions": []
+    },
+    "San Pablo": {
+      "mentions": []
+    },
+    "taroudant": {
+      "mentions": []
+    },
+    "Shalom II": {
+      "mentions": []
+    },
+    "Abou Reda": {
+      "mentions": []
+    },
+    "sursan 34": {
+      "mentions": []
+    },
+    "sebastian": {
+      "mentions": []
+    },
+    "Milagrito": {
+      "mentions": []
+    },
+    "Bhagirath": {
+      "mentions": []
+    },
+    "Eperva 56": {
+      "mentions": []
+    },
+    "Magdalena": {
+      "mentions": []
+    },
+    "Boussalem": {
+      "mentions": []
+    },
+    "vijay dev": {
+      "mentions": []
+    },
+    "el kachte": {
+      "mentions": []
+    },
+    "do\u00f1a coca": {
+      "mentions": []
+    },
+    "constante": {
+      "mentions": []
+    },
+    "arkhos iv": {
+      "mentions": []
+    },
+    "tamarugal": {
+      "mentions": []
+    },
+    "Luna Azul": {
+      "mentions": []
+    },
+    "tioslimar": {
+      "mentions": []
+    },
+    "rafaelito": {
+      "mentions": []
+    },
+    "Tidrarine": {
+      "mentions": []
+    },
+    "Isaias 43": {
+      "mentions": []
+    },
+    "poseida\u0093n": {
+      "mentions": []
+    },
+    "Aida Rosa": {
+      "mentions": []
+    },
+    "Amellagou": {
+      "mentions": []
+    },
+    "bienvenue": {
+      "mentions": []
+    },
+    "Kara Bera": {
+      "mentions": []
+    },
+    "marcos jr": {
+      "mentions": []
+    },
+    "sea eagle": {
+      "mentions": []
+    },
+    "ali cevir": {
+      "mentions": []
+    },
+    "El Aguila": {
+      "mentions": []
+    },
+    "san jorge": {
+      "mentions": []
+    },
+    "do\u00f1a olga": {
+      "mentions": []
+    },
+    "fisherman": {
+      "mentions": []
+    },
+    "probarpes": {
+      "mentions": []
+    },
+    "ana lucia": {
+      "mentions": []
+    },
+    "abdelhadi": {
+      "mentions": []
+    },
+    "bourriche": {
+      "mentions": []
+    },
+    "sidi ifni": {
+      "mentions": []
+    },
+    "kamalnayan": {
+      "mentions": []
+    },
+    "San Miguel": {
+      "mentions": []
+    },
+    "zaman avc\u0131": {
+      "mentions": []
+    },
+    "Abou Yahya": {
+      "mentions": []
+    },
+    "al ghamama": {
+      "mentions": []
+    },
+    "vikingbank": {
+      "mentions": []
+    },
+    "el bellaco": {
+      "mentions": []
+    },
+    "jorge luis": {
+      "mentions": []
+    },
+    "fadl allah": {
+      "mentions": []
+    },
+    "El Boutili": {
+      "mentions": []
+    },
+    "Doa\u0091A Lila": {
+      "mentions": []
+    },
+    "labh ganga": {
+      "mentions": []
+    },
+    "Jesa\u009aS Mar": {
+      "mentions": []
+    },
+    "doa\u0091a ceci": {
+      "mentions": []
+    },
+    "San Carlos": {
+      "mentions": []
+    },
+    "Laoting 10": {
+      "mentions": []
+    },
+    "Abou Najib": {
+      "mentions": []
+    },
+    "Ben Brahim": {
+      "mentions": []
+    },
+    "laoting 09": {
+      "mentions": []
+    },
+    "berat reis": {
+      "mentions": []
+    },
+    "maha ganga": {
+      "mentions": []
+    },
+    "doa\u0091a maty": {
+      "mentions": []
+    },
+    "Sergio III": {
+      "mentions": []
+    },
+    "Sayf Allah": {
+      "mentions": []
+    },
+    "tata conco": {
+      "mentions": []
+    },
+    "Nord Ouest": {
+      "mentions": []
+    },
+    "La Ahijada": {
+      "mentions": []
+    },
+    "nihat baba": {
+      "mentions": []
+    },
+    "Blanquillo": {
+      "mentions": []
+    },
+    "magfira 05": {
+      "mentions": []
+    },
+    "paulina ii": {
+      "mentions": []
+    },
+    "jabal nour": {
+      "mentions": []
+    },
+    "ergun reis": {
+      "mentions": []
+    },
+    "citra jaya": {
+      "mentions": []
+    },
+    "Odisseo II": {
+      "mentions": []
+    },
+    "Consuelito": {
+      "mentions": []
+    },
+    "Helen Mary": {
+      "mentions": []
+    },
+    "cristo rey": {
+      "mentions": []
+    },
+    "el maasoul": {
+      "mentions": []
+    },
+    "Turkmenler": {
+      "mentions": []
+    },
+    "kemal reis": {
+      "mentions": []
+    },
+    "Maan Ganga": {
+      "mentions": []
+    },
+    "maha vijay": {
+      "mentions": []
+    },
+    "kurucao\u011flu": {
+      "mentions": []
+    },
+    "malko\u00e7 bey": {
+      "mentions": []
+    },
+    "les freres": {
+      "mentions": []
+    },
+    "ines maria": {
+      "mentions": []
+    },
+    "Jean Marie": {
+      "mentions": []
+    },
+    "triunfador": {
+      "mentions": []
+    },
+    "gyan ganga": {
+      "mentions": []
+    },
+    "sidi borja": {
+      "mentions": []
+    },
+    "chang xing": {
+      "mentions": []
+    },
+    "Deep Ganaga": {
+      "mentions": []
+    },
+    "Guajache II": {
+      "mentions": []
+    },
+    "nia\u0091o asher": {
+      "mentions": []
+    },
+    "caliskanlar": {
+      "mentions": []
+    },
+    "nia\u0091a tahiz": {
+      "mentions": []
+    },
+    "team spirit": {
+      "mentions": []
+    },
+    "turk yilmaz": {
+      "mentions": []
+    },
+    "fer mary ii": {
+      "mentions": []
+    },
+    "abdelmourit": {
+      "mentions": []
+    },
+    "jay jagdish": {
+      "mentions": []
+    },
+    "chok anavin": {
+      "mentions": []
+    },
+    "Ocean Maria": {
+      "mentions": []
+    },
+    "Marcillo Iv": {
+      "mentions": []
+    },
+    "willy first": {
+      "mentions": []
+    },
+    "Di Nitaqayn": {
+      "mentions": []
+    },
+    "jose carlos": {
+      "mentions": []
+    },
+    "maria pabla": {
+      "mentions": []
+    },
+    "baz el hour": {
+      "mentions": []
+    },
+    "rey del mar": {
+      "mentions": []
+    },
+    "burhan reis": {
+      "mentions": []
+    },
+    "abou rayane": {
+      "mentions": []
+    },
+    "davut k\u0131yak": {
+      "mentions": []
+    },
+    "barbaresque": {
+      "mentions": []
+    },
+    "maria belen": {
+      "mentions": []
+    },
+    "el bucanero": {
+      "mentions": []
+    },
+    "Pramongchai": {
+      "mentions": []
+    },
+    "perla negra": {
+      "mentions": []
+    },
+    "garud dhwaj": {
+      "mentions": []
+    },
+    "pancho malo": {
+      "mentions": []
+    },
+    "Mariela III": {
+      "mentions": []
+    },
+    "Sinar Ultra": {
+      "mentions": []
+    },
+    "akgun vedat": {
+      "mentions": []
+    },
+    "harsh ganga": {
+      "mentions": []
+    },
+    "la victoria": {
+      "mentions": []
+    },
+    "Doa\u0091A Patty": {
+      "mentions": []
+    },
+    "chaicharoen": {
+      "mentions": []
+    },
+    "Iv Hermanos": {
+      "mentions": []
+    },
+    "sahm sahara": {
+      "mentions": []
+    },
+    "El Haj Omar": {
+      "mentions": []
+    },
+    "kirti ganga": {
+      "mentions": []
+    },
+    "jose manuel": {
+      "mentions": []
+    },
+    "Marcillo Ii": {
+      "mentions": []
+    },
+    "surya ganga": {
+      "mentions": []
+    },
+    "maritima ii": {
+      "mentions": []
+    },
+    "Ayd\u0131n Toker": {
+      "mentions": []
+    },
+    "cabo blanco": {
+      "mentions": []
+    },
+    "campito iii": {
+      "mentions": []
+    },
+    "Lady Mar Ii": {
+      "mentions": []
+    },
+    "mary carmen": {
+      "mentions": []
+    },
+    "punta verde": {
+      "mentions": []
+    },
+    "arca de noe": {
+      "mentions": []
+    },
+    "Green Peace": {
+      "mentions": []
+    },
+    "burak yagiz": {
+      "mentions": []
+    },
+    "San Vicente": {
+      "mentions": []
+    },
+    "dar essalam": {
+      "mentions": []
+    },
+    "san lorenzo": {
+      "mentions": []
+    },
+    "dijaymar iv": {
+      "mentions": []
+    },
+    "santa maria": {
+      "mentions": []
+    },
+    "shail ganga": {
+      "mentions": []
+    },
+    "capricornio": {
+      "mentions": []
+    },
+    "santa norma": {
+      "mentions": []
+    },
+    "rey salomon": {
+      "mentions": []
+    },
+    "Baruna Jaya": {
+      "mentions": []
+    },
+    "canopus iii": {
+      "mentions": []
+    },
+    "Nand Kishor": {
+      "mentions": []
+    },
+    "Kaz\u0131m Kobya": {
+      "mentions": []
+    },
+    "nina ximena": {
+      "mentions": []
+    },
+    "ferry indah": {
+      "mentions": []
+    },
+    "el moukafih": {
+      "mentions": []
+    },
+    "ain al aati": {
+      "mentions": []
+    },
+    "brunella ii": {
+      "mentions": []
+    },
+    "ventisquero": {
+      "mentions": []
+    },
+    "adaia dalia": {
+      "mentions": []
+    },
+    "aguila real": {
+      "mentions": []
+    },
+    "necati reis": {
+      "mentions": []
+    },
+    "guillermina": {
+      "mentions": []
+    },
+    "mi morenita": {
+      "mentions": []
+    },
+    "\u015faban k\u0131yak": {
+      "mentions": []
+    },
+    "maa bhavani": {
+      "mentions": []
+    },
+    "doa\u0091a blanca": {
+      "mentions": []
+    },
+    "margo mahmut": {
+      "mentions": []
+    },
+    "Gumusdoga-46": {
+      "mentions": []
+    },
+    "Nia\u0091A Amelia": {
+      "mentions": []
+    },
+    "alexander ii": {
+      "mentions": []
+    },
+    "Mamati Orhan": {
+      "mentions": []
+    },
+    "Gumusdoga-24": {
+      "mentions": []
+    },
+    "chanachon 17": {
+      "mentions": []
+    },
+    "\u0130lker Yilmaz": {
+      "mentions": []
+    },
+    "Pedro Manuel": {
+      "mentions": []
+    },
+    "chanachon 47": {
+      "mentions": []
+    },
+    "Gloria Elena": {
+      "mentions": []
+    },
+    "gumusdoga 46": {
+      "mentions": []
+    },
+    "Do\u00f1a Adriana": {
+      "mentions": []
+    },
+    "Belie Belcan": {
+      "mentions": []
+    },
+    "karen pamela": {
+      "mentions": []
+    },
+    "Choksirichai": {
+      "mentions": []
+    },
+    "Doa\u0091A Bertha": {
+      "mentions": []
+    },
+    "chanachol 16": {
+      "mentions": []
+    },
+    "dios es puro": {
+      "mentions": []
+    },
+    "Gumusdoga-26": {
+      "mentions": []
+    },
+    "Cesar Miguel": {
+      "mentions": []
+    },
+    "buenos aires": {
+      "mentions": []
+    },
+    "gumusdoga 45": {
+      "mentions": []
+    },
+    "costa marlin": {
+      "mentions": []
+    },
+    "Milan Neymar": {
+      "mentions": []
+    },
+    "gumusdoga 28": {
+      "mentions": []
+    },
+    "Gumusdoga-45": {
+      "mentions": []
+    },
+    "Pellicano II": {
+      "mentions": []
+    },
+    "Gumusdoga-20": {
+      "mentions": []
+    },
+    "Siempre Mary": {
+      "mentions": []
+    },
+    "Gumusdoga 50": {
+      "mentions": []
+    },
+    "reisogullari": {
+      "mentions": []
+    },
+    "doa\u0091a carmen": {
+      "mentions": []
+    },
+    "gumusdoga 20": {
+      "mentions": []
+    },
+    "Jose Eduardo": {
+      "mentions": []
+    },
+    "dijaymar iii": {
+      "mentions": []
+    },
+    "Mi Blanquita": {
+      "mentions": []
+    },
+    "gumusdoga 26": {
+      "mentions": []
+    },
+    "Gumusdoga-27": {
+      "mentions": []
+    },
+    "nisshin maru": {
+      "mentions": []
+    },
+    "oum al qoura": {
+      "mentions": []
+    },
+    "chanachol 17": {
+      "mentions": []
+    },
+    "Al Moufid Ii": {
+      "mentions": []
+    },
+    "salvador iii": {
+      "mentions": []
+    },
+    "jose vicente": {
+      "mentions": []
+    },
+    "Gumusdoga-82": {
+      "mentions": []
+    },
+    "Abou Mohamed": {
+      "mentions": []
+    },
+    "gumusdoga 27": {
+      "mentions": []
+    },
+    "Gumusdoga-10": {
+      "mentions": []
+    },
+    "gumusdoga 36": {
+      "mentions": []
+    },
+    "gumusdoga 24": {
+      "mentions": []
+    },
+    "gracias dios": {
+      "mentions": []
+    },
+    "gumusdoga 82": {
+      "mentions": []
+    },
+    "\u0130lhan Yilmaz": {
+      "mentions": []
+    },
+    "osman serter": {
+      "mentions": []
+    },
+    "divino nia\u0091o": {
+      "mentions": []
+    },
+    "Gumusdoga-28": {
+      "mentions": []
+    },
+    "Pacifico 998": {
+      "mentions": []
+    },
+    "Maria Amelia": {
+      "mentions": []
+    },
+    "Mi Antonella": {
+      "mentions": []
+    },
+    "gumusdoga 10": {
+      "mentions": []
+    },
+    "mustika sari": {
+      "mentions": []
+    },
+    "carmelita ii": {
+      "mentions": []
+    },
+    "Paulina M II": {
+      "mentions": []
+    },
+    "samak sahara": {
+      "mentions": []
+    },
+    "Gumusdoga-36": {
+      "mentions": []
+    },
+    "bhavani krupa": {
+      "mentions": []
+    },
+    "mekar jaya iv": {
+      "mentions": []
+    },
+    "jorge antonio": {
+      "mentions": []
+    },
+    "Nia\u0091O Jeffren": {
+      "mentions": []
+    },
+    "gumusdoga 117": {
+      "mentions": []
+    },
+    "el haj belaid": {
+      "mentions": []
+    },
+    "ciudad blanca": {
+      "mentions": []
+    },
+    "maria lavinia": {
+      "mentions": []
+    },
+    "Avrupal\u0131 Day\u0131": {
+      "mentions": []
+    },
+    "el aventurero": {
+      "mentions": []
+    },
+    "bouterhroucht": {
+      "mentions": []
+    },
+    "cinar ibrahim": {
+      "mentions": []
+    },
+    "gumusdoga 122": {
+      "mentions": []
+    },
+    "violeta anahi": {
+      "mentions": []
+    },
+    "Perla Gisella": {
+      "mentions": []
+    },
+    "Gumusdoga 116": {
+      "mentions": []
+    },
+    "fatih ba\u015faran": {
+      "mentions": []
+    },
+    "gumusdoga 119": {
+      "mentions": []
+    },
+    "Flopesmant Ii": {
+      "mentions": []
+    },
+    "gumusdoga 115": {
+      "mentions": []
+    },
+    "Do\u00f1a Jova 2da": {
+      "mentions": []
+    },
+    "sampurna jaya": {
+      "mentions": []
+    },
+    "Al Akhchabain": {
+      "mentions": []
+    },
+    "Budi Pangroso": {
+      "mentions": []
+    },
+    "Gumusdoga-129": {
+      "mentions": []
+    },
+    "Gumusdoga 130": {
+      "mentions": []
+    },
+    "agung samudra": {
+      "mentions": []
+    },
+    "gumusdoga 110": {
+      "mentions": []
+    },
+    "tuncay sagun1": {
+      "mentions": []
+    },
+    "Carlos Emilio": {
+      "mentions": []
+    },
+    "Habibin Yavuz": {
+      "mentions": []
+    },
+    "gumusdoga 121": {
+      "mentions": []
+    },
+    "Gumusdoga-122": {
+      "mentions": []
+    },
+    "kamar ezzaman": {
+      "mentions": []
+    },
+    "ergun basaran": {
+      "mentions": []
+    },
+    "Gumusdoga-112": {
+      "mentions": []
+    },
+    "margo huseyin": {
+      "mentions": []
+    },
+    "Cavit P\u0131rlant": {
+      "mentions": []
+    },
+    "derya aytekin": {
+      "mentions": []
+    },
+    "Gumusdoga-117": {
+      "mentions": []
+    },
+    "Dulinavi Xxiv": {
+      "mentions": []
+    },
+    "Habibin Enver": {
+      "mentions": []
+    },
+    "cinarogullari": {
+      "mentions": []
+    },
+    "Ain Tamaloukt": {
+      "mentions": []
+    },
+    "Gumusdoga-115": {
+      "mentions": []
+    },
+    "gumusdoga 113": {
+      "mentions": []
+    },
+    "carlos andres": {
+      "mentions": []
+    },
+    "alejandria vi": {
+      "mentions": []
+    },
+    "gumusdoga 112": {
+      "mentions": []
+    },
+    "siempe coyago": {
+      "mentions": []
+    },
+    "chanachol 444": {
+      "mentions": []
+    },
+    "Gumusdoga-113": {
+      "mentions": []
+    },
+    "chanachol 777": {
+      "mentions": []
+    },
+    "Adaia Y Dalia": {
+      "mentions": []
+    },
+    "ricardo jesus": {
+      "mentions": []
+    },
+    "Santa America": {
+      "mentions": []
+    },
+    "Do\u00f1a Bernarda": {
+      "mentions": []
+    },
+    "i\u0307lhan y\u0131lmaz": {
+      "mentions": []
+    },
+    "gumusdoga 129": {
+      "mentions": []
+    },
+    "cakirogullari": {
+      "mentions": []
+    },
+    "Abou El Faraj": {
+      "mentions": []
+    },
+    "Mamuli \u0130smail": {
+      "mentions": []
+    },
+    "avc\u0131 recebina": {
+      "mentions": []
+    },
+    "Gumusdoga-110": {
+      "mentions": []
+    },
+    "Vijay Darshan": {
+      "mentions": []
+    },
+    "claudio javier": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 805": {
+      "mentions": []
+    },
+    "briana betania": {
+      "mentions": []
+    },
+    "Don Mauricio I": {
+      "mentions": []
+    },
+    "siempre popeye": {
+      "mentions": []
+    },
+    "fu yuan yu 806": {
+      "mentions": []
+    },
+    "Don Fausto Iii": {
+      "mentions": []
+    },
+    "fu yuan yu 958": {
+      "mentions": []
+    },
+    "fu yuan yu 967": {
+      "mentions": []
+    },
+    "Miguel Antonio": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 956": {
+      "mentions": []
+    },
+    "Don Coquera II": {
+      "mentions": []
+    },
+    "rimalfredan ii": {
+      "mentions": []
+    },
+    "Don Ricardo II": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 951": {
+      "mentions": []
+    },
+    "fu yuan yu 801": {
+      "mentions": []
+    },
+    "Mery Monserrat": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 812": {
+      "mentions": []
+    },
+    "don armando ii": {
+      "mentions": []
+    },
+    "fu yuan yu 975": {
+      "mentions": []
+    },
+    "fu yuan yu 811": {
+      "mentions": []
+    },
+    "lobo afuera iv": {
+      "mentions": []
+    },
+    "fu yuan yu 970": {
+      "mentions": []
+    },
+    "victoria maria": {
+      "mentions": []
+    },
+    "hong dong 8709": {
+      "mentions": []
+    },
+    "fu yuan yu 952": {
+      "mentions": []
+    },
+    "fu yuan yu 804": {
+      "mentions": []
+    },
+    "do\u00f1a margarita": {
+      "mentions": []
+    },
+    "Muammer Y\u0131lmaz": {
+      "mentions": []
+    },
+    "fu yuan yu 968": {
+      "mentions": []
+    },
+    "mirian mirella": {
+      "mentions": []
+    },
+    "san antonio vi": {
+      "mentions": []
+    },
+    "fu yuan yu 969": {
+      "mentions": []
+    },
+    "doyouf al bahr": {
+      "mentions": []
+    },
+    "fu yuan yu 953": {
+      "mentions": []
+    },
+    "Meivis Valeria": {
+      "mentions": []
+    },
+    "Mustafa Kuruca": {
+      "mentions": []
+    },
+    "fu yuan yu 965": {
+      "mentions": []
+    },
+    "don geramn csa": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 807": {
+      "mentions": []
+    },
+    "Hong Dong 8708": {
+      "mentions": []
+    },
+    "fu yuan yu 971": {
+      "mentions": []
+    },
+    "fu yuan yu 977": {
+      "mentions": []
+    },
+    "fu yuan yu 972": {
+      "mentions": []
+    },
+    "Don Perucho II": {
+      "mentions": []
+    },
+    "jawharat souss": {
+      "mentions": []
+    },
+    "fu yuan yu 813": {
+      "mentions": []
+    },
+    "fu yuan yu 808": {
+      "mentions": []
+    },
+    "hong dong 8707": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 803": {
+      "mentions": []
+    },
+    "hammat al jano": {
+      "mentions": []
+    },
+    "fu yuan yu 973": {
+      "mentions": []
+    },
+    "muhammet k\u0131yak": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 974": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 802": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 809": {
+      "mentions": []
+    },
+    "fu yuan yu 976": {
+      "mentions": []
+    },
+    "maria mercedes": {
+      "mentions": []
+    },
+    "nour al yaqine": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 955": {
+      "mentions": []
+    },
+    "Regalo De Dios": {
+      "mentions": []
+    },
+    "fu yuan yu 954": {
+      "mentions": []
+    },
+    "alejandria iii": {
+      "mentions": []
+    },
+    "Pa.Ke.Te Pikay": {
+      "mentions": []
+    },
+    "ratna sagar 10": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 810": {
+      "mentions": []
+    },
+    "Gracias A Dios": {
+      "mentions": []
+    },
+    "don rosendo ii": {
+      "mentions": []
+    },
+    "pa ke te pikay": {
+      "mentions": []
+    },
+    "Don Francisco I": {
+      "mentions": []
+    },
+    "K\u0131yak Kardesler": {
+      "mentions": []
+    },
+    "Gringo Pablo II": {
+      "mentions": []
+    },
+    "bissat al khair": {
+      "mentions": []
+    },
+    "dios es mi guia": {
+      "mentions": []
+    },
+    "santa margarita": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 9509": {
+      "mentions": []
+    },
+    "los tres pedros": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 9508": {
+      "mentions": []
+    },
+    "Martha Floreana": {
+      "mentions": []
+    },
+    "abou soulaimane": {
+      "mentions": []
+    },
+    "akg\u00fcn karde\u015fler": {
+      "mentions": []
+    },
+    "Zayn Al Abidine": {
+      "mentions": []
+    },
+    "Zeki \u00dc\u00e7\u00fcnc\u00fco\u011flu": {
+      "mentions": []
+    },
+    "de la tirana ii": {
+      "mentions": []
+    },
+    "ahmet mollao\u011flu": {
+      "mentions": []
+    },
+    "Fu Yuan Yu 9507": {
+      "mentions": []
+    },
+    "Freddy Ceferino": {
+      "mentions": []
+    },
+    "cinar kardesler": {
+      "mentions": []
+    },
+    "nueva esperanza": {
+      "mentions": []
+    },
+    "Sta Veronica II": {
+      "mentions": []
+    },
+    "lobo afuera vii": {
+      "mentions": []
+    },
+    "Assaadi Exadrar": {
+      "mentions": []
+    },
+    "Nia\u0091O Arsher Ii": {
+      "mentions": []
+    },
+    "hadj abdelmalek": {
+      "mentions": []
+    },
+    "Las Ii Aurorita": {
+      "mentions": []
+    },
+    "Carlos Robinson": {
+      "mentions": []
+    },
+    "Kavram\u0131s Mahmut": {
+      "mentions": []
+    },
+    "santa monica ii": {
+      "mentions": []
+    },
+    "Princess Nabiha": {
+      "mentions": []
+    },
+    "Ciudad De Quito": {
+      "mentions": []
+    },
+    "k\u0131yak karde\u015fler": {
+      "mentions": []
+    },
+    "mercedes quesada": {
+      "mentions": []
+    },
+    "\u015fahin bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Regalito De Dios": {
+      "mentions": []
+    },
+    "virgen del valle": {
+      "mentions": []
+    },
+    "voluntad de dios": {
+      "mentions": []
+    },
+    "Maria Soledad II": {
+      "mentions": []
+    },
+    "Jose Jean Pierre": {
+      "mentions": []
+    },
+    "anouar al janoub": {
+      "mentions": []
+    },
+    "Maria Del Carmen": {
+      "mentions": []
+    },
+    "mar mediterraneo": {
+      "mentions": []
+    },
+    "akg\u00fcn bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Benjamin Antonio": {
+      "mentions": []
+    },
+    "hansome brothers": {
+      "mentions": []
+    },
+    "moutiaa arrahman": {
+      "mentions": []
+    },
+    "Siempre Franklin": {
+      "mentions": []
+    },
+    "Ramon Eduardo Ii": {
+      "mentions": []
+    },
+    "Jawharat El Bahr": {
+      "mentions": []
+    },
+    "estela de oro ii": {
+      "mentions": []
+    },
+    "estrella del mar": {
+      "mentions": []
+    },
+    "Maria Monserrate": {
+      "mentions": []
+    },
+    "maria candelaria": {
+      "mentions": []
+    },
+    "maria tatiana iv": {
+      "mentions": []
+    },
+    "hermanos delgado": {
+      "mentions": []
+    },
+    "maria tatiana ii": {
+      "mentions": []
+    },
+    "Brisas Del Mar I": {
+      "mentions": []
+    },
+    "hicaz bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "narciso marcillo": {
+      "mentions": []
+    },
+    "Boha Wittenbergen": {
+      "mentions": []
+    },
+    "Caridad Del Cobre": {
+      "mentions": []
+    },
+    "etoils du nord ii": {
+      "mentions": []
+    },
+    "daniela alejandra": {
+      "mentions": []
+    },
+    "los tres hermanos": {
+      "mentions": []
+    },
+    "Siempre Rai Mundi": {
+      "mentions": []
+    },
+    "Akchar 1 Extojako": {
+      "mentions": []
+    },
+    "Safinat Errahmane": {
+      "mentions": []
+    },
+    "Bendicion De Dios": {
+      "mentions": []
+    },
+    "Danna Isabella Ii": {
+      "mentions": []
+    },
+    "estrella de david": {
+      "mentions": []
+    },
+    "Perla Del Pacifico": {
+      "mentions": []
+    },
+    "Bintang Mas Cahaya": {
+      "mentions": []
+    },
+    "F\u0131rt\u0131na Bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Siempre Monserrate": {
+      "mentions": []
+    },
+    "istakoz bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "ciudad de valencia": {
+      "mentions": []
+    },
+    "brigida marquez ii": {
+      "mentions": []
+    },
+    "zamkinozselahattin": {
+      "mentions": []
+    },
+    "siempre don carlos": {
+      "mentions": []
+    },
+    "holanda\u0089s herrante": {
+      "mentions": []
+    },
+    "hac\u0131 emrullah reis": {
+      "mentions": []
+    },
+    "kolombo bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "maria alejandra ii": {
+      "mentions": []
+    },
+    "Siempre Luquitas Cv": {
+      "mentions": []
+    },
+    "Antarctic Endeavour": {
+      "mentions": []
+    },
+    "Rey Fernando Xavier": {
+      "mentions": []
+    },
+    "dedy jaya manunggal": {
+      "mentions": []
+    },
+    "sampurna jati abadi": {
+      "mentions": []
+    },
+    "Mohamed Ben Abdelali": {
+      "mentions": []
+    },
+    "jesus del gran poder": {
+      "mentions": []
+    },
+    "etrella de alhoceima": {
+      "mentions": []
+    },
+    "oru\u00e7 reis bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "chokdee mongkhonchai": {
+      "mentions": []
+    },
+    "Y\u0131ld\u0131z Karde\u015fler Bal": {
+      "mentions": []
+    },
+    "Muhammet Saban K\u0131yak": {
+      "mentions": []
+    },
+    "amelia exmida dakhla": {
+      "mentions": []
+    },
+    "Malko\u00e7o\u011flu Cemal Reis": {
+      "mentions": []
+    },
+    "korkmazlar bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "El Acuario De Dios Ii": {
+      "mentions": []
+    },
+    "malko\u00e7o\u011flu bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Taziazet 2 Al Khair 1": {
+      "mentions": []
+    },
+    "Malko\u00e7o\u011flu At\u0131f Kaptan": {
+      "mentions": []
+    },
+    "la negra fca duarte ii": {
+      "mentions": []
+    },
+    "Siempre Virgen Del Mar": {
+      "mentions": []
+    },
+    "Amelia Exmida Y Dakhla": {
+      "mentions": []
+    },
+    "can karde\u015fler bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Sidi Mohmed Ben Abdellah": {
+      "mentions": []
+    },
+    "ahmet ocak bal\u0131k\u00e7\u0131l\u0131k 55": {
+      "mentions": []
+    },
+    "ar\u0131c\u0131o\u011fullar\u0131 bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "La Negra Francisca Duarte": {
+      "mentions": []
+    },
+    "Erg\u00fcn Karde\u015fler Bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "dimolfin sa bp maria emilia": {
+      "mentions": []
+    },
+    "volga ii ex siempre ang vii": {
+      "mentions": []
+    },
+    "aida liduvina zambrano orbe": {
+      "mentions": []
+    },
+    "monsun also uses name sebastian": {
+      "mentions": []
+    },
+    "Monsun Also Uses The Name Sebastian": {
+      "mentions": []
+    },
+    "Bp Elena Manuel Enrique Suarez Tituaa\u0091A": {
+      "mentions": []
+    },
+    "Elizalde Rivas Antonio Mauricio Bp Simon Bolivar": {
+      "mentions": []
+    },
+    "lgmc": {
+      "mentions": []
+    },
+    "habza": {
+      "mentions": []
+    },
+    "jamal": {
+      "mentions": []
+    },
+    "Nisar": {
+      "mentions": []
+    },
+    "muhtar": {
+      "mentions": []
+    },
+    "Muneer": {
+      "mentions": []
+    },
+    "Exu Sa": {
+      "mentions": []
+    },
+    "munari": {
+      "mentions": []
+    },
+    "Mtahri": {
+      "mentions": []
+    },
+    "Amlago": {
+      "mentions": []
+    },
+    "Rasheed": {
+      "mentions": []
+    },
+    "Munahar": {
+      "mentions": []
+    },
+    "lasiran": {
+      "mentions": []
+    },
+    "Wagiran": {
+      "mentions": []
+    },
+    "Waagagi": {
+      "mentions": []
+    },
+    "marifish": {
+      "mentions": []
+    },
+    "Moussaid": {
+      "mentions": []
+    },
+    "maditraco": {
+      "mentions": []
+    },
+    "sialco sa": {
+      "mentions": []
+    },
+    "mirem sarl": {
+      "mentions": []
+    },
+    "fausmar sa": {
+      "mentions": []
+    },
+    "mirfish sa": {
+      "mentions": []
+    },
+    "Delimar Sa": {
+      "mentions": []
+    },
+    "jdp co ltd": {
+      "mentions": []
+    },
+    "Gold Pesca": {
+      "mentions": []
+    },
+    "L\u00ea Th\u1ecb M\u00e0nh": {
+      "mentions": []
+    },
+    "aan sukmana": {
+      "mentions": []
+    },
+    "kortrade sa": {
+      "mentions": []
+    },
+    "branketi sa": {
+      "mentions": []
+    },
+    "sesa marine": {
+      "mentions": []
+    },
+    "Birgo Ahmed": {
+      "mentions": []
+    },
+    "ghali peche": {
+      "mentions": []
+    },
+    "Atlas Maree": {
+      "mentions": []
+    },
+    "genesis llc": {
+      "mentions": []
+    },
+    "S\u00fcrsan Aqua": {
+      "mentions": []
+    },
+    "2ks fishing": {
+      "mentions": []
+    },
+    "h\u00e0 th\u1ecb th\u00ecn": {
+      "mentions": []
+    },
+    "najib ghamaz": {
+      "mentions": []
+    },
+    "Tr\u1ea7n Nh\u01b0 H\u00f2a": {
+      "mentions": []
+    },
+    "agropesca sa": {
+      "mentions": []
+    },
+    "pesca aouada": {
+      "mentions": []
+    },
+    "AYDIN KURUCA": {
+      "mentions": []
+    },
+    "sahel peches": {
+      "mentions": []
+    },
+    "seafrost sac": {
+      "mentions": []
+    },
+    "pesquera sac": {
+      "mentions": []
+    },
+    "Freiremar Sa": {
+      "mentions": []
+    },
+    "sahara maree": {
+      "mentions": []
+    },
+    "tantasar sarl": {
+      "mentions": []
+    },
+    "Unimer Dakhla": {
+      "mentions": []
+    },
+    "tr\u1ea7n v\u0103n d\u0169ng": {
+      "mentions": []
+    },
+    "kp peche sarl": {
+      "mentions": []
+    },
+    "arpo supangat": {
+      "mentions": []
+    },
+    "star shipping": {
+      "mentions": []
+    },
+    "JDP Co., Ltd.": {
+      "mentions": []
+    },
+    "tr\u1ea7n phong ba": {
+      "mentions": []
+    },
+    "Optimarine Sa": {
+      "mentions": []
+    },
+    "ger export sa": {
+      "mentions": []
+    },
+    "Genesis 3 Llc": {
+      "mentions": []
+    },
+    "vrolijk iii bv": {
+      "mentions": []
+    },
+    "ph\u1ea1m gia thi\u00ean": {
+      "mentions": []
+    },
+    "Africa Protein": {
+      "mentions": []
+    },
+    "Africa Pelagic": {
+      "mentions": []
+    },
+    "Nordicfish Ltd": {
+      "mentions": []
+    },
+    "zinni bray 100": {
+      "mentions": []
+    },
+    "tr\u1ea7n ng\u1ecdc \u0111\u1ecbnh": {
+      "mentions": []
+    },
+    "kobyalar group": {
+      "mentions": []
+    },
+    "loira pesquera": {
+      "mentions": []
+    },
+    "globalpesca sa": {
+      "mentions": []
+    },
+    "Adrissi Jaouad": {
+      "mentions": []
+    },
+    "amsir mansuria": {
+      "mentions": []
+    },
+    "K\u0131yak Karde\u015fler": {
+      "mentions": []
+    },
+    "eddib mbark 100": {
+      "mentions": []
+    },
+    "afkir brahim co": {
+      "mentions": []
+    },
+    "aziz bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "driss benchouaf": {
+      "mentions": []
+    },
+    "nguy\u1ec5n v\u0103n b\u1ea1ch": {
+      "mentions": []
+    },
+    "nguy\u1ec5n v\u0103n sanh": {
+      "mentions": []
+    },
+    "ste silver food": {
+      "mentions": []
+    },
+    "l\u00ea th\u1ecb kim li\u00ean": {
+      "mentions": []
+    },
+    "Mustafa T\u00fcrkmen": {
+      "mentions": []
+    },
+    "Nguy\u1ec5n L\u01b0u Linh": {
+      "mentions": []
+    },
+    "Safi Pelagiques": {
+      "mentions": []
+    },
+    "vanelli maroc sa": {
+      "mentions": []
+    },
+    "Ste Samak Sahara": {
+      "mentions": []
+    },
+    "Heritiers Zrhana": {
+      "mentions": []
+    },
+    "phan thanh khi\u1ebft": {
+      "mentions": []
+    },
+    "tr\u1ea7n th\u1ecb kim y\u1ebfn": {
+      "mentions": []
+    },
+    "Benis Peche Sarl": {
+      "mentions": []
+    },
+    "Akg\u00fcn Bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "silvernature ltd": {
+      "mentions": []
+    },
+    "Assyade Mustapha": {
+      "mentions": []
+    },
+    "Tr\u01b0\u01a1ng V\u0103n Chu\u1ed3ng": {
+      "mentions": []
+    },
+    "balmar pesquerias": {
+      "mentions": []
+    },
+    "nguy\u00ea\u0303n vi\u00ea\u0301t nam": {
+      "mentions": []
+    },
+    "Ma\u0080\u0099Bark Boujbari": {
+      "mentions": []
+    },
+    "pontepesca mar sl": {
+      "mentions": []
+    },
+    "ramji devji vanik": {
+      "mentions": []
+    },
+    "pesquera caral sa": {
+      "mentions": []
+    },
+    "seph saomaurci sa": {
+      "mentions": []
+    },
+    "Nguy\u1ec5n V\u0103n Nh\u01b0\u1ee3ng": {
+      "mentions": []
+    },
+    "Pesquera Herco Sa": {
+      "mentions": []
+    },
+    "alamsegar jaya pt": {
+      "mentions": []
+    },
+    "koptur bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "chakil khalid 100": {
+      "mentions": []
+    },
+    "reyes zavala jose": {
+      "mentions": []
+    },
+    "austral group saa": {
+      "mentions": []
+    },
+    "alfonso pesqueras": {
+      "mentions": []
+    },
+    "L\u00ea Thi\u0323 Ngo\u0323c Loan": {
+      "mentions": []
+    },
+    "Andrexport Ii Sarl": {
+      "mentions": []
+    },
+    "ste oceanodak sarl": {
+      "mentions": []
+    },
+    "Boumlik Abdelmalek": {
+      "mentions": []
+    },
+    "mavi ay bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "inver pescatron sl": {
+      "mentions": []
+    },
+    "laivu technika uab": {
+      "mentions": []
+    },
+    "pesquera hayduk sa": {
+      "mentions": []
+    },
+    "mehmet aksoy owner": {
+      "mentions": []
+    },
+    "pesquera z y t sac": {
+      "mentions": []
+    },
+    "shamji devji vanik": {
+      "mentions": []
+    },
+    "brahim idoukkim co": {
+      "mentions": []
+    },
+    "Govind Devji Vanik": {
+      "mentions": []
+    },
+    "wafa samak sarl 100": {
+      "mentions": []
+    },
+    "el habza abderrahim": {
+      "mentions": []
+    },
+    "julio aquiles reyes": {
+      "mentions": []
+    },
+    "Ste Derhem Mar Sarl": {
+      "mentions": []
+    },
+    "jayesh govind vanik": {
+      "mentions": []
+    },
+    "Gold Anchor Fishing": {
+      "mentions": []
+    },
+    "societe vadmar sarl": {
+      "mentions": []
+    },
+    "ipr mauritania sarl": {
+      "mentions": []
+    },
+    "naresh govind vanik": {
+      "mentions": []
+    },
+    "rachid barkouch 100": {
+      "mentions": []
+    },
+    "Afkir Brahim And Co": {
+      "mentions": []
+    },
+    "pesquera pelayo sac": {
+      "mentions": []
+    },
+    "pesquera nemesis sac": {
+      "mentions": []
+    },
+    "Nouvelle Ougala Sarl": {
+      "mentions": []
+    },
+    "pesquera exalmar saa": {
+      "mentions": []
+    },
+    "Engedi Bait Hasil Pt": {
+      "mentions": []
+    },
+    "pesquera juanita srl": {
+      "mentions": []
+    },
+    "Kilimo\u011flu Bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Mehmet Aksoy - owner": {
+      "mentions": []
+    },
+    "el barrah abdelkader": {
+      "mentions": []
+    },
+    "rakesh velji fofandi": {
+      "mentions": []
+    },
+    "pesquera diamante sa": {
+      "mentions": []
+    },
+    "Panta Alvarez Mariano": {
+      "mentions": []
+    },
+    "Kantaben Shamji Vanik": {
+      "mentions": []
+    },
+    "jagdish velji fofandi": {
+      "mentions": []
+    },
+    "pesquera cantabria sa": {
+      "mentions": []
+    },
+    "mohan dhanji bhensala": {
+      "mentions": []
+    },
+    "Gauriben Govind Vanik": {
+      "mentions": []
+    },
+    "G\u00fcm\u00fc\u015fdo\u011fa Su \u00dcr\u00fcnleri": {
+      "mentions": []
+    },
+    "pesquera solorcamp sa": {
+      "mentions": []
+    },
+    "kishan damji bhensala": {
+      "mentions": []
+    },
+    "atuneros del sur sarl": {
+      "mentions": []
+    },
+    "Bazdi Ahmed Et Hassan": {
+      "mentions": []
+    },
+    "ste pelagic pionniere": {
+      "mentions": []
+    },
+    "paechae songkha co ltd": {
+      "mentions": []
+    },
+    "Oman Fisheries Co Saog": {
+      "mentions": []
+    },
+    "salih \u00fc\u00e7\u00fcnc\u00fco\u011flu owner": {
+      "mentions": []
+    },
+    "Putra Leo Nusantara Pt": {
+      "mentions": []
+    },
+    "ramaben rakesh fofandi": {
+      "mentions": []
+    },
+    "inversiones quiaza sac": {
+      "mentions": []
+    },
+    "Pesquera Montecriti Sa": {
+      "mentions": []
+    },
+    "putra wahyu samudra pt": {
+      "mentions": []
+    },
+    "pesquera centinela sac": {
+      "mentions": []
+    },
+    "Mansukh Damji Bhensala": {
+      "mentions": []
+    },
+    "Brahim Idoukkim And Co": {
+      "mentions": []
+    },
+    "hiraben lakham bhensala": {
+      "mentions": []
+    },
+    "pesquera capricornio sa": {
+      "mentions": []
+    },
+    "bennett torre washigton": {
+      "mentions": []
+    },
+    "Conserveries Rio De Oro": {
+      "mentions": []
+    },
+    "Budi Putra Nusantara Pt": {
+      "mentions": []
+    },
+    "Ahmed Bouhfi H13285 100": {
+      "mentions": []
+    },
+    "pha\u0323m thi\u0323 thanh tuy\u00ea\u0300n": {
+      "mentions": []
+    },
+    "Nitaben Jagdish Fofandi": {
+      "mentions": []
+    },
+    "Rajubhai Hirabhai Vanik": {
+      "mentions": []
+    },
+    "Gangaben Ramjibhai Vanik": {
+      "mentions": []
+    },
+    "Salih \u00dc\u00e7\u00fcnc\u00fco\u011flu - owner": {
+      "mentions": []
+    },
+    "chandrakant govind vanik": {
+      "mentions": []
+    },
+    "abderrahim el haddad 100": {
+      "mentions": []
+    },
+    "Ishwar Damjibhai Bhensala": {
+      "mentions": []
+    },
+    "denish velji bhai fofandi": {
+      "mentions": []
+    },
+    "Madir Kamal Madir Youness": {
+      "mentions": []
+    },
+    "Paechae Songkha Co., Ltd.": {
+      "mentions": []
+    },
+    "nathalal govindbhai vanik": {
+      "mentions": []
+    },
+    "Ste Yasemonpeche Sarl 100": {
+      "mentions": []
+    },
+    "rakesh velji bhai fofandi": {
+      "mentions": []
+    },
+    "oderbank hochseefischerei": {
+      "mentions": []
+    },
+    "dinesh velji bhai fofandi": {
+      "mentions": []
+    },
+    "marina de guerra del peru": {
+      "mentions": []
+    },
+    "lahcen fouad lahcen jalal": {
+      "mentions": []
+    },
+    "dhiraj lakhambhai bhensala": {
+      "mentions": []
+    },
+    "hajjr koury rommel antonio": {
+      "mentions": []
+    },
+    "erg\u00fcn karde\u015fler bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "Ste Bouddar Peche Sarl 100": {
+      "mentions": []
+    },
+    "Ergun Karde\u015fler Bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "avila saltos john emiliano": {
+      "mentions": []
+    },
+    "lahbib boulfiras s8548 100": {
+      "mentions": []
+    },
+    "Idder Bouhrane\nDrissi Said": {
+      "mentions": []
+    },
+    "mohamed bouzag j257235 100": {
+      "mentions": []
+    },
+    "mohamed boumlik j252183 100": {
+      "mentions": []
+    },
+    "y\u0131lmaz karde\u015fler bal\u0131k\u00e7\u0131l\u0131k": {
+      "mentions": []
+    },
+    "nicolas daniel moran tomala": {
+      "mentions": []
+    },
+    "YILMAZ KARDE\u015eLER BALIK\u00c7ILIK": {
+      "mentions": []
+    },
+    "Smitaben Denishbhai Fofandi": {
+      "mentions": []
+    },
+    "Id Benjaa Hassan J31058 100": {
+      "mentions": []
+    },
+    "Ansuyaben Narendra Bhensala": {
+      "mentions": []
+    },
+    "ahmet sagun meli\u0307h deni\u0307zer": {
+      "mentions": []
+    },
+    "AHMET SAGUN & MEL\u0130H DEN\u0130ZER": {
+      "mentions": []
+    },
+    "tecnologica de alimentos sa": {
+      "mentions": []
+    },
+    "Vijayaben Mohanbhai Bhensala": {
+      "mentions": []
+    },
+    "H\u00fcseyin Din\u00e7er? \u015eaban Din\u00e7er": {
+      "mentions": []
+    },
+    "El Hachmi Gourti Sh12837 100": {
+      "mentions": []
+    },
+    "el hassan el kilo la1330 100": {
+      "mentions": []
+    },
+    "Brahim Mahir\nMahir Abdelhadi": {
+      "mentions": []
+    },
+    "segara alam mutiara abadi pt": {
+      "mentions": []
+    },
+    "laxmiben kishor bhai fofandi": {
+      "mentions": []
+    },
+    "idder bouhrane ahmed errachek": {
+      "mentions": []
+    },
+    "gangaben dhansukhbhai fofandi": {
+      "mentions": []
+    },
+    "hicaz bal\u0131k\u00e7\u0131l\u0131k \u015faban din\u00e7er": {
+      "mentions": []
+    },
+    "corporacion pesquera inca sac": {
+      "mentions": []
+    },
+    "varshaben ishwarbhai bhensala": {
+      "mentions": []
+    },
+    "Rawanq Al Salam International": {
+      "mentions": []
+    },
+    "pattani fish meal 1988 co ltd": {
+      "mentions": []
+    },
+    "consorc corpesca dexim srltda": {
+      "mentions": []
+    },
+    "Bentahar Hassan\nBentahar Salma": {
+      "mentions": []
+    },
+    "kishor bhai velji bhai fofandi": {
+      "mentions": []
+    },
+    "Edder Bouhrane\nKoukkous Hassan": {
+      "mentions": []
+    },
+    "Christer Og Lennart Fiskeri As": {
+      "mentions": []
+    },
+    "Maloul Ahmed Ghomari Abdelaziz": {
+      "mentions": []
+    },
+    "rptd sold undisclosed interest": {
+      "mentions": []
+    },
+    "chichanda briones edson stalin": {
+      "mentions": []
+    },
+    "Productora Marvivo Sa Promarvi": {
+      "mentions": []
+    },
+    "siam international food co ltd": {
+      "mentions": []
+    },
+    "sidi sloh el jomani sh2314 100": {
+      "mentions": []
+    },
+    "fatima rahmouni adnane el handi": {
+      "mentions": []
+    },
+    "flota pesquera avila flopesa sa": {
+      "mentions": []
+    },
+    "jagdish bhai velji bhai fofandi": {
+      "mentions": []
+    },
+    "Hicaz Bal\u0131k\u00e7\u0131l\u0131k - \u015eaban Din\u00e7er": {
+      "mentions": []
+    },
+    "Brahim Bouterhroucht J80214 100": {
+      "mentions": []
+    },
+    "Industria Pesquera Cevallos Vera": {
+      "mentions": []
+    },
+    "lahcen amehri et abdeslam ihmiden": {
+      "mentions": []
+    },
+    "Songkhla Marine Products Co. Ltd.": {
+      "mentions": []
+    },
+    "Siam International Food Co., Ltd.": {
+      "mentions": []
+    },
+    "Tenpoint Manufacturing Corporation": {
+      "mentions": []
+    },
+    "Pattani Fish Meal (1988) Co., Ltd.": {
+      "mentions": []
+    },
+    "brahim mahir 75 et afkir lahcen 25": {
+      "mentions": []
+    },
+    "Mauritania Central Fishery Sarl Mcf": {
+      "mentions": []
+    },
+    "industrial pesquera santa monica sa": {
+      "mentions": []
+    },
+    "abdane adil 50 et adnane mohamed 50": {
+      "mentions": []
+    },
+    "Fuzhou Hong Dong Pelagic Fishery Co": {
+      "mentions": []
+    },
+    "fai\u0307k hamdi\u0307 h\u00fcseyi\u0307n ahmet g\u00fcndo\u011fan": {
+      "mentions": []
+    },
+    "empresa pesquera jesus elizabeth srl": {
+      "mentions": []
+    },
+    "grupo sindicato pesquero del peru sa": {
+      "mentions": []
+    },
+    "GLOBAL BALIK\u00c7ILIK SAN.VE T\u0130C.LTD.\u015eT\u0130.": {
+      "mentions": []
+    },
+    "kezban mi\u0307hri\u0307ban deni\u0307z nehi\u0307r \u00f6ks\u00fcz": {
+      "mentions": []
+    },
+    "armadores congeladores del pacifico sa": {
+      "mentions": []
+    },
+    "adid mohamed 50 biyjeddiguen lahcen 50": {
+      "mentions": []
+    },
+    "Ste Armement Peche Benslimane Sarl 100": {
+      "mentions": []
+    },
+    "global balik\u00e7ilik san ve ti\u0307c ltd \u015fti\u0307": {
+      "mentions": []
+    },
+    "thai chareon fishmeal industrial co ltd": {
+      "mentions": []
+    },
+    "FA\u0130K - HAMD\u0130 - H\u00dcSEY\u0130N - AHMET G\u00dcNDO\u011eAN": {
+      "mentions": []
+    },
+    "KEZBAN - M\u0130HR\u0130BAN - DEN\u0130Z - NEH\u0130R \u00d6KS\u00dcZ": {
+      "mentions": []
+    },
+    "my lahcen chourri 80 mohamed el jidi 20": {
+      "mentions": []
+    },
+    "fideicomiso de administracion bienes plk": {
+      "mentions": []
+    },
+    "armadores y congeladores del pacifico sa": {
+      "mentions": []
+    },
+    "el hassan channa 25 raji mohamed 20 et cie": {
+      "mentions": []
+    },
+    "Thai Chareon Fishmeal Industrial Co., Ltd.": {
+      "mentions": []
+    },
+    "orhan menek\u015fe h\u00fcseyi\u0307n menek\u015fe emre menek\u015fe": {
+      "mentions": []
+    },
+    "margo ergu\u0308n kardes\u0327ler blk mehmet fuat sezer": {
+      "mentions": []
+    },
+    "mohammed abaakil j164614 75 arrab bakhkhach 25": {
+      "mentions": []
+    },
+    "ORHAN MENEK\u015eE - H\u00dcSEY\u0130N MENEK\u015eE - EMRE MENEK\u015eE": {
+      "mentions": []
+    },
+    "mhand boumalik 6667 et lahcen oumourghich 3333": {
+      "mentions": []
+    },
+    "abdelhadi belhathat 50 abdelouahed belhathat 50": {
+      "mentions": []
+    },
+    "amarir mhand 33 amarir ahmed 33 other 33 no name": {
+      "mentions": []
+    },
+    "el battah brahim ste pelagique inter sahara sarl": {
+      "mentions": []
+    },
+    "abderrahmane bousri 50 et el hassan el talibi 50": {
+      "mentions": []
+    },
+    "SAFFET AVCIMUSTAFA AVCIMEHMET AVCIAHMET AL\u0130 AVCI": {
+      "mentions": []
+    },
+    "OCAK BALIK\u00c7ILIK SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "ahmed moumene j222065 23 brahim barigou j60655 13": {
+      "mentions": []
+    },
+    "MARGO & ERGU\u0308N KARDES\u0327LER BLK. (Mehmet Fuat Sezer)": {
+      "mentions": []
+    },
+    "MAMUL\u0130 \u0130SMA\u0130L BALIK\u00c7ILIK VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "lahcen lamjeyad jf14306 65 mbarek hammia od12489 35": {
+      "mentions": []
+    },
+    "hassan bazdi j31241 50 noreddine laroussi h251955 50": {
+      "mentions": []
+    },
+    "CFS BALIK\u00c7ILIK SANAY\u0130 VE DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "lahsen iguimdrane j5675 75 abdellah boula jb65144 25": {
+      "mentions": []
+    },
+    "el maati hanani a266624 50 mohamed boughmi j37519 50": {
+      "mentions": []
+    },
+    "amar abdelhadi 40 hammed kertal 35 ahmed idmahoum 35": {
+      "mentions": []
+    },
+    "abdellah boumlik j98344 80 ahmed charmoudi jb78609 20": {
+      "mentions": []
+    },
+    "lahoucine issoug j108399 50 mohamed moumene j34910 50": {
+      "mentions": []
+    },
+    "id benjaa mhand j29827 75 id benjaa lahcen j298780 25": {
+      "mentions": []
+    },
+    "lahoucine madi j105814 50 hassan el amghari jf3574 50": {
+      "mentions": []
+    },
+    "ali akoubas jb31719 50 mohamed el ghalough j270759 50": {
+      "mentions": []
+    },
+    "bijarche mohamed sh9569 23 el kahya abdellah jb51313 13": {
+      "mentions": []
+    },
+    "BA\u015eARAN DEN\u0130ZC\u0130L\u0130K SANAY\u0130 VE DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "jamal oulgour j285616 75 abdellah ait oufkir jb102995 25": {
+      "mentions": []
+    },
+    "boujemaa gourti sh94369 50 abdelmajid gourti sh131216 50": {
+      "mentions": []
+    },
+    "moulah abdellah mounis g102884 75 idris yaroud jf16930 25": {
+      "mentions": []
+    },
+    "mohamed loughzal j209202 50 abdellah moujahid jb113676 50": {
+      "mentions": []
+    },
+    "POYRAZK\u00d6Y BALIK\u00c7ILIK DEN\u0130ZC\u0130L\u0130K SU \u00dcR\u00dcNLER\u0130 L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "el habza abderrahim 40 el habza aissa 40 el habza abdessalam 20": {
+      "mentions": []
+    },
+    "aderdour mhand 3333 el jamri brahim 3333 adbellah el jamri 3334": {
+      "mentions": []
+    },
+    "FIRTINA BALIK\u00c7ILIK GEM\u0130 SANAY\u0130 NAKL\u0130YAT T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "mohammed abaakil j164614 40 abdelkader lakhdari n14115 20 et cie": {
+      "mentions": []
+    },
+    "AKG\u00dcN BALIK\u00c7ILIK VE SU \u00dcR\u00dcNLER\u0130 AVCILI\u011eI T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "ahmed aaouda j254191 40 mohammled aaouda j97132 40 elmahdi hajri 20": {
+      "mentions": []
+    },
+    "My Lahcen Chourri 80                                Mohamed El Jidi 20": {
+      "mentions": []
+    },
+    "Moulah Abdellah Mounis G102884 75              Idris Yaroud Jf16930 25": {
+      "mentions": []
+    },
+    "lahcen ouchen a181578 13 mhand el jidi j211639 13 mohamed amzil n89177 13": {
+      "mentions": []
+    },
+    "Mohammed Abaakil J164614 75                             Arrab Bakhkhach 25": {
+      "mentions": []
+    },
+    "brahim tachaou j21014 40 ahmed tachaou j160347 40 hassan tachaou j48908 20": {
+      "mentions": []
+    },
+    "ahmed mtahri h45377 40 brahim hajib j2553 35 mohamed charmoudi jb142603 25": {
+      "mentions": []
+    },
+    "jilali elgourchi j63946 13 mohamed moumen j39549 13 mbarek bentahr j94102 13": {
+      "mentions": []
+    },
+    "hassan agdam j209239 5092 lahcen agdam j273504 1759 essaid agdam 1759 et cie": {
+      "mentions": []
+    },
+    "aferrhal said j8879 13 abdellah aferrhal j244397 13 ahmed aferrhal j250160 13": {
+      "mentions": []
+    },
+    "abdelkader ahtil j53628 25 ahtil brahim 25 ahtil lahoussine 25 ahmed amenkal 25": {
+      "mentions": []
+    },
+    "arab abbad n40423 3334 abdellah errami j92436 3333 rachid birouaine j394847 3334": {
+      "mentions": []
+    },
+    "Mhand Boumalik 6667       Et                              Lahcen Oumourghich 3333": {
+      "mentions": []
+    },
+    "mohamed bentahar j259679 13 mohamed bentahar j447109 13 hasan bentahar j253820 13": {
+      "mentions": []
+    },
+    "Mohamed Loughzal J209202  50                          Abdellah Moujahid Jb113676 50": {
+      "mentions": []
+    },
+    "hassan bazdi j31241 335 el houssein zahiry j138777 335 brahim ait oulhaj j222864 33": {
+      "mentions": []
+    },
+    "Boujemaa Gourti Sh94369 50                             Abdelmajid Gourti Sh131216 50": {
+      "mentions": []
+    },
+    "T\u00dcRKMENLER BALIK\u00c7ILIK VE DEN\u0130ZC\u0130L\u0130K \u0130THALAT \u0130HRACAT SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "Lahoucine Issoug J108399  50                                Mohamed Moumene J34910 50": {
+      "mentions": []
+    },
+    "hassan boudar j170419 70 rachid boudar j424182 10 mustafa boudar j512385 10 10 missing": {
+      "mentions": []
+    },
+    "Abdelhadi Belhathat 50                                         Abdelouahed Belhathat 50": {
+      "mentions": []
+    },
+    "Ahmed Moumene J222065   23                                     Brahim Barigou J60655 13": {
+      "mentions": []
+    },
+    "Id Benjaa Mhand J29827 75                                   Id Benjaa Lahcen J298780 25": {
+      "mentions": []
+    },
+    "ERG\u00dcN KARDE\u015eLER SU TARIM \u00dcR\u00dcNLER\u0130 \u00dcRET\u0130M DE\u011eERLEND\u0130RME SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "Lahoucine Madi J105814 50                                    Hassan El Amghari Jf3574 50": {
+      "mentions": []
+    },
+    "mohamed el amine daiedda od15508 34 abderrahman sattar od31881 33 mbarek sattar sh76878 33": {
+      "mentions": []
+    },
+    "\u00c7INAR BALIK\u00c7ILIK DEN\u0130ZC\u0130L\u0130K \u0130N\u015eAAT TUR\u0130ZM \u0130THALAT \u0130HRACAT SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "Adid Mohamed 50                                                      Biyjeddiguen Lahcen 50": {
+      "mentions": []
+    },
+    "el habza abderrahim jc121321 375 el habza aissa jc141273 375 el habza abdessalam jc101375 25": {
+      "mentions": []
+    },
+    "Bijarche Mohamed  Sh9569   23                                   El Kahya Abdellah  Jb51313 13": {
+      "mentions": []
+    },
+    "Jamal Oulgour J285616 75                                      Abdellah Ait Oufkir Jb102995 25": {
+      "mentions": []
+    },
+    "Abdellah Boumlik J98344  80                                        Ahmed Charmoudi Jb78609  20": {
+      "mentions": []
+    },
+    "Lahcen Lamjeyad Jf14306   65                                        Mbarek Hammia  Od12489  35": {
+      "mentions": []
+    },
+    "Mohammed Abaakil J164614 40                                Abdelkader Lakhdari N14115 20 Et Cie": {
+      "mentions": []
+    },
+    "El Maati Hanani  A266624  50                                         Mohamed Boughmi  J37519  50": {
+      "mentions": []
+    },
+    "Hassan Bazdi J31241  50                                            Noreddine Laroussi H251955 50": {
+      "mentions": []
+    },
+    "t\u00fcrkmenler balik\u00e7ilik ve deni\u0307zci\u0307li\u0307k i\u0307thalat i\u0307hracat sanayi\u0307 ve ti\u0307caret li\u0307mi\u0307ted \u015fi\u0307rketi\u0307": {
+      "mentions": []
+    },
+    "Lahsen Iguimdrane  J5675  75                                         Abdellah Boula  Jb65144  25": {
+      "mentions": []
+    },
+    "YILMAZ KARDE\u015eLER BALIK\u00c7ILIK VE DEN\u0130ZC\u0130L\u0130K TUR\u0130ZM \u0130THALAT \u0130HRACAT SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "Abderrahmane Bousri 50              Et                                      El Hassan El Talibi 50": {
+      "mentions": []
+    },
+    "les heritiers du feu ait belaid mohamed 13 les heritiers du feu liassy ahmed 13 et taleki mhamed 13": {
+      "mentions": []
+    },
+    "El Hassan Channa 25                                                    Raji Mohamed 20       Et Cie": {
+      "mentions": []
+    },
+    "U\u00c7AN BALIK\u00c7ILIK GIDA NAKL\u0130YAT PETROL \u00dcR\u00dcNLER\u0130 TUR\u0130ZM \u0130N\u015eAAT OTOMOT\u0130V SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "hassan aglif jb13920 25 my said tigui jb158727 25 lahsen amghar j177391 25 ouamer lahoucine j218659 25": {
+      "mentions": []
+    },
+    "DURSUN \u00c7INARO\u011eLU BALIK\u00c7ILIK DEN\u0130ZC\u0130L\u0130K \u0130N\u015eAAT TUR\u0130ZM \u0130THALAT \u0130HRACAT SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "Ali Akoubas  Jb31719 50                                                  Mohamed El Ghalough J270759  50": {
+      "mentions": []
+    },
+    "\u00e7inar balik\u00e7ilik deni\u0307zci\u0307li\u0307k i\u0307n\u015faat turi\u0307zm i\u0307thalat i\u0307hracat sanayi\u0307 ve ti\u0307caret li\u0307mi\u0307ted \u015fi\u0307rketi\u0307": {
+      "mentions": []
+    },
+    "fatima saadi jb771 1252 hassan tachka jb45724 2916 abdellah tachka jb71705 2916 hafid tachka j320755 2916": {
+      "mentions": []
+    },
+    "rachid saissi h212040 25 mohamed barkouch j317081 25 rachid barkouch j349963 25 abdelaziz saissi jb31520 25": {
+      "mentions": []
+    },
+    "yilmaz karde\u015fler balik\u00e7ilik ve deni\u0307zci\u0307li\u0307k turi\u0307zm i\u0307thalat i\u0307hracat sanayi\u0307 ve ti\u0307caret li\u0307mi\u0307ted \u015fi\u0307rketi\u0307": {
+      "mentions": []
+    },
+    "u\u00e7an balik\u00e7ilik gida nakli\u0307yat petrol \u00fcr\u00fcnleri\u0307 turi\u0307zm i\u0307n\u015faat otomoti\u0307v sanayi\u0307 ve ti\u0307caret li\u0307mi\u0307ted \u015fi\u0307rketi\u0307": {
+      "mentions": []
+    },
+    "dursun \u00e7inaro\u011flu balik\u00e7ilik deni\u0307zci\u0307li\u0307k i\u0307n\u015faat turi\u0307zm i\u0307thalat i\u0307hracat sanayi\u0307 ve ti\u0307caret li\u0307mi\u0307ted \u015fi\u0307rketi\u0307": {
+      "mentions": []
+    },
+    "Ahmed Aaouda J254191 40                             Mohammled Aaouda J97132 40                           Elmahdi Hajri 20": {
+      "mentions": []
+    },
+    "el habza abderrahim jc121321 35 el habza aissa jc141273 35 el habza abdessalam jc101375 15 el habza abdelhakim jc296254 15": {
+      "mentions": []
+    },
+    "omar amine mc82982 20 brahim amine mc26779 20 hassan amine ha111685 20 elmustafa amine j432331 20 abdlakrim almine mc79009 20": {
+      "mentions": []
+    },
+    "Aferrhal Said  J8879 13                                Abdellah Aferrhal J244397  13                  Ahmed Aferrhal J250160  13": {
+      "mentions": []
+    },
+    "Mohamed El Amine Daiedda  Od15508 34                   Abderrahman Sattar  Od31881 33                        Mbarek Sattar  Sh76878 33": {
+      "mentions": []
+    },
+    "Ahmed Mtahri H45377 40                                     Brahim Hajib J2553 35                              Mohamed Charmoudi Jb142603  25": {
+      "mentions": []
+    },
+    "Mohamed Bentahar J259679 13                                 Mohamed Bentahar J447109 13                              Hasan Bentahar J253820 13": {
+      "mentions": []
+    },
+    "lahoucine id ouakrim j221813 25 lahcen bounini jb20041 20 mohamed ouachaou j26482 20 brahim idouakrim jb344055 25 moulay said idouakrim j305115 10": {
+      "mentions": []
+    },
+    "Arab Abbad N40423  3334                                  Abdellah Errami J92436  3333                               Rachid Birouaine J394847  3334": {
+      "mentions": []
+    },
+    "Lahcen Ouchen A181578 13                                             Mhand El Jidi J211639 13                               Mohamed Amzil N89177 13": {
+      "mentions": []
+    },
+    "Jilali Elgourchi J63946 13                                     Mohamed Moumen J39549   13                                  Mbarek Bentahr J94102   13": {
+      "mentions": []
+    },
+    "Amarir Mhand 33                                                         Amarir Ahmed 33                                              Other 33 No Name": {
+      "mentions": []
+    },
+    "Amar Abdelhadi 40                                            Hammed Kertal 35                                                        Ahmed Idmahoum 35": {
+      "mentions": []
+    },
+    "Les Heritiers Du Feu Ait Belaid Mohamed 13                      Les Heritiers Du Feu Liassy Ahmed 13                                  Et Taleki Mhamed 13": {
+      "mentions": []
+    },
+    "Hassan Bazdi J31241  335                                       El Houssein Zahiry J138777 335                                 Brahim Ait Oulhaj J222864 33": {
+      "mentions": []
+    },
+    "Hassan Agdam  J209239  5092                                        Lahcen Agdam J273504  1759                                    Essaid Agdam  1759 Et Cie": {
+      "mentions": []
+    },
+    "Brahim Tachaou J21014  40                                            Ahmed Tachaou J160347  40                                    Hassan Tachaou  J48908  20": {
+      "mentions": []
+    },
+    "Aderdour Mhand 3333                                                     El Jamri Brahim 3333                                             Adbellah El Jamri 3334": {
+      "mentions": []
+    },
+    "Hassan Boudar J170419  70                                           Rachid Boudar  J424182  10                                        Mustafa Boudar  J512385  10  10 Missing": {
+      "mentions": []
+    },
+    "O\u011eUZ SU \u00dcR\u00dcNLER\u0130 GIDA NAKL\u0130YAT SEBZE VE MEYVE KOM\u0130SYONCULU\u011eU TUR\u0130ZM \u0130N\u015eAAT TAAHH\u00dcT MOB\u0130LYA ORMAN VE TARIM \u00dcR\u00dcNLER\u0130 ELEKTR\u0130K ELEKTRON\u0130K LPG MAM\u00dcLLER\u0130 DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130": {
+      "mentions": []
+    },
+    "El Habza Abderrahim  40                                                          El Habza Aissa    40                                                       El Habza Abdessalam  20": {
+      "mentions": []
+    },
+    "El Habza Abderrahim  Jc121321 375                                  El Habza Aissa Jc141273   375                                                       El Habza Abdessalam Jc101375 25": {
+      "mentions": []
+    },
+    "o\u011fuz su \u00fcr\u00fcnleri\u0307 gida nakli\u0307yat sebze ve meyve komi\u0307syonculu\u011fu turi\u0307zm i\u0307n\u015faat taahh\u00fct mobi\u0307lya orman ve tarim \u00fcr\u00fcnleri\u0307 elektri\u0307k elektroni\u0307k lpg mam\u00fclleri\u0307 di\u015f ti\u0307caret li\u0307mi\u0307ted \u015fi\u0307rketi\u0307": {
+      "mentions": []
+    },
+    "Rachid Saissi H212040  25                                         Mohamed Barkouch J317081  25                       Rachid Barkouch J349963  25                             Abdelaziz Saissi Jb31520  25": {
+      "mentions": []
+    },
+    "Abdelkader Ahtil J53628 25                                      Ahtil Brahim 25                                                        Ahtil Lahoussine 25                                            Ahmed Amenkal 25": {
+      "mentions": []
+    },
+    "Fatima Saadi Jb771  1252                                                 Hassan Tachka Jb45724  2916                                   Abdellah Tachka Jb71705  2916                                Hafid Tachka  J320755  2916": {
+      "mentions": []
+    },
+    "Hassan Aglif  Jb13920  25                                                My Said Tigui  Jb158727  25                                     Lahsen Amghar J177391 25                                         Ouamer Lahoucine  J218659  25": {
+      "mentions": []
+    },
+    "El Habza Abderrahim  Jc121321 35                                  El Habza Aissa Jc141273   35                                                       El Habza Abdessalam Jc101375 15                           El Habza Abdelhakim Jc296254 15": {
+      "mentions": []
+    },
+    "Omar Amine Mc82982 20                                         Brahim Amine Mc26779 20                                  Hassan Amine Ha111685 20                             Elmustafa Amine J432331 20                                     Abdlakrim Almine Mc79009 20": {
+      "mentions": []
+    },
+    "Lahoucine Id Ouakrim J221813 25                        Lahcen Bounini Jb20041  20                    Mohamed Ouachaou J26482  20                     Brahim Idouakrim Jb344055 25                                                          Moulay Said Idouakrim J305115  10": {
+      "mentions": []
+    }
+  }
+}

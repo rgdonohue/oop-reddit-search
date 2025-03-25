@@ -1,0 +1,17 @@
+2025-03-24 21:01:05,638 - INFO - Starting asynchronous search process...
+2025-03-24 21:01:05,647 - INFO - Loaded 1149 plant records and 1260 ship records
+2025-03-24 21:01:05,649 - INFO - Prepared search terms (sample size 10) - Plants: 10, Vessels: 10, Owners: 10
+2025-03-24 21:01:05,649 - INFO - Searching plants terms asynchronously...
+2025-03-24 21:01:05,650 - INFO - Starting asynchronous search with 10 unique terms
+2025-03-24 21:01:05,650 - ERROR - Search failed: asyncio.run() cannot be called from a running event loop
+2025-03-24 21:01:05,651 - INFO - Found 0 results for plants
+2025-03-24 21:01:05,651 - INFO - Searching vessels terms asynchronously...
+2025-03-24 21:01:05,651 - INFO - Starting asynchronous search with 9 unique terms
+2025-03-24 21:01:05,651 - ERROR - Search failed: asyncio.run() cannot be called from a running event loop
+2025-03-24 21:01:05,651 - INFO - Found 0 results for vessels
+2025-03-24 21:01:05,651 - INFO - Searching owners terms asynchronously...
+2025-03-24 21:01:05,651 - INFO - Starting asynchronous search with 10 unique terms
+2025-03-24 21:01:05,651 - ERROR - Search failed: asyncio.run() cannot be called from a running event loop
+2025-03-24 21:01:05,651 - INFO - Found 0 results for owners
+2025-03-24 21:01:05,651 - WARNING - No results found
+2025-03-24 21:01:05,652 - INFO - Process finished
